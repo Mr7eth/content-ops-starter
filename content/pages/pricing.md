@@ -86,7 +86,6 @@ sections:
           territorio, contattaci per organizzare insieme una nuova data di
           Mockumentary Lab!
         features:
-          - Feature one
           - Feature two
         image:
           url: /images/abstract-feature3.svg
