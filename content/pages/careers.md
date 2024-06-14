@@ -139,7 +139,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Apply now
+      - label: Iscriviti ora
         url: /
         icon: arrowRight
         iconPosition: right
