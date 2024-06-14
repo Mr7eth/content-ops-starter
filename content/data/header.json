@@ -13,17 +13,17 @@
     },
     "primaryLinks": [
         {
-            "label": "Costi",
-            "url": "/pricing",
+            "label": "Chi Siamo",
+            "altText": "Careers page",
+            "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Chi Siamo",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Costi",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
