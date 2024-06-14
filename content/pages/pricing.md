@@ -44,7 +44,7 @@ sections:
         type: PricingPlan
       - title: Lab + Ospitalità
         price: '420,00 €'
-        details: per month
+        details: 'Fino al 30 Luglio 2024, poi 450,00 €'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
