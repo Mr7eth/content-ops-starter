@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
       Il progetto è seguito da due diversi insegnanti: per l'audiovisivo il
       filmmaker Mattia Mura, che accompagnerà i Makers nel percorso di
