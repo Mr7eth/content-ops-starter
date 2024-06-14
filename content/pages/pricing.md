@@ -54,7 +54,7 @@ sections:
           - Una settimana di intensivo completo
           - Supervisione di due insegnanti esperti
           - Creazione di una comunità artistica
-          - Supervisione di due insegnanti esperti
+          - Restituzione live del lavoro svolto
           - Feedback e suggerimenti sul proprio percorso
         image:
           url: /images/abstract-feature2.svg
