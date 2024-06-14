@@ -43,7 +43,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Lab + Ospitalità
-        price: $99
+        price: '420,00 €'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
