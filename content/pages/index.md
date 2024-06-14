@@ -169,7 +169,7 @@ sections:
         textAlign: center
   - subtitle: In collaborazione con
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/th-2246218190.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/HelixLgo.png
