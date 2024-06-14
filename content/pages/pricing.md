@@ -53,7 +53,7 @@ sections:
         features:
           - Una settimana di intensivo completo
           - Creazione di una comunità artistica
-          - Feature three
+          - Supervisione di due insegnanti esperti
           - Feature four
         image:
           url: /images/abstract-feature2.svg
