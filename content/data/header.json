@@ -45,9 +45,9 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Torna alla Home",
+                    "label": "Contattaci",
                     "altText": "",
-                    "url": "/",
+                    "url": "/contatti",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -56,9 +56,9 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Contattaci",
+                    "label": "Torna alla Home",
                     "altText": "",
-                    "url": "/contatti",
+                    "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
