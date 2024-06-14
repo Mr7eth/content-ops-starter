@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Come progetto di lancio, abbiamo selezionato un budget super scontato'
+    subtitle: Prezzi del primo laboratorio. Non saranno mai più così bassi!
     plans:
       - title: Developers
         price: Free
