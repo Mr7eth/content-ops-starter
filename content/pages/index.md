@@ -181,7 +181,7 @@ sections:
       - url: /images/logo-cecinema.jpg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/HelixLgo.png
         altText: Sanity logo
         type: ImageBlock
       - altText: Rangle logo
