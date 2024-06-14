@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 1 settimana
-        subtitle: Numbers Done
+        subtitle: Attività
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
