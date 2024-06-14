@@ -125,8 +125,8 @@ sections:
           Trattandosi del primo laboratorio di filmmaking e improvvisazione
           attoriale che abbiamo sviluppato, avrai l'occasione di sperimentare
           insieme a noi il progetto e partecipare per la prima volta ad
-          un'esperienza di creazione collettiva straordinaria che ti vedrà tra i
-          protagonisti di questo esaltante progetto
+          un'esperienza di creazione collettiva che ti vedrà tra i protagonisti
+          di una straordinaria avventura!
         image:
           url: /images/icon3.svg
           altText: Featured icon three
