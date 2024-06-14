@@ -173,31 +173,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: In collaborazione con
-    images:
-      - url: /images/th-2246218190.jpg
-        altText: Empathy logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/HelixLgo.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/logo-cecinema.jpg
-        altText: Contentful logo
-        type: ImageBlock
-      - altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title:
       text: Grow your business 10x faster
       color: text-dark
@@ -246,6 +221,31 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - subtitle: In collaborazione con
+    images:
+      - url: /images/th-2246218190.jpg
+        altText: Empathy logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/HelixLgo.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/logo-cecinema.jpg
+        altText: Contentful logo
+        type: ImageBlock
+      - altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
