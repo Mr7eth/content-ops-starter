@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Costi del Progetto Zero
       color: text-dark
       styles:
         self:
