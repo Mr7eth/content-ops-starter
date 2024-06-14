@@ -54,7 +54,7 @@ sections:
           - Una settimana di intensivo completo
           - Creazione di una comunità artistica
           - Supervisione di due insegnanti esperti
-          - Feature four
+          - Feedback e suggerimenti sul proprio percorso
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
