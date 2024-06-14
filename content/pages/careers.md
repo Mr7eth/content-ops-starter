@@ -12,7 +12,7 @@ sections:
     subtitle: ''
     text: >
       Il progetto è seguito da due diversi insegnanti: per l'audiovisivo il
-      filmmaker Mattia Mura, che accompagnerà i Makers nel percorso di
+      filmmaker Mattia Mura, che accompagnerà i makers nel percorso di
       realizzazione del documentario, dalle prime riprese fino al montaggio
       finale, mentre per la recitazione Leonarda Saffi, che condurrà il team di
       attori attraverso l'improvvisazione e la creazione dei personaggi.
