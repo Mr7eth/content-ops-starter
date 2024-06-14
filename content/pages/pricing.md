@@ -85,8 +85,7 @@ sections:
           Se sei un operatore culturale e vuoi ospitare il progetto nel tuo
           territorio, contattaci per organizzare insieme una nuova data di
           Mockumentary Lab!
-        features:
-          - Feature two
+        features: []
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
