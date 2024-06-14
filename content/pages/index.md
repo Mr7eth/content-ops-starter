@@ -584,7 +584,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Partecipa al Lab come Filmmaker o come Attore/Attrice!
     items:
       - title: Feature Item One
         tagline: This is the tagline
