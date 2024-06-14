@@ -51,7 +51,7 @@ sections:
           in camera multipla con cucina.
 
         features:
-          - Feature one
+          - Una settimana di intensivo completo
           - Feature two
           - Feature three
           - Feature four
