@@ -19,7 +19,7 @@ sections:
           o Recitazione.
         features:
           - Una settimana di attività intensiva
-          - Restituzione
+          - Supervisione di due insegnanti esperti
           - Feature three
           - Feature four
         image:
