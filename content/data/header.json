@@ -45,7 +45,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Torna alla Home",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
