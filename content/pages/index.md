@@ -634,7 +634,7 @@ sections:
             justifyContent: flex-end
             textAlign: right
             margin:
-              - ml-16
+              - ml-36
         type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
