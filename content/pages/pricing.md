@@ -12,7 +12,7 @@ sections:
     subtitle: Prezzi del primo laboratorio. Non saranno mai più così bassi!
     plans:
       - title: Solo Lab
-        price: Free
+        price: 320 €
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
