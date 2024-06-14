@@ -172,9 +172,6 @@ sections:
       - url: /images/th-2246218190.jpg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/HelixLgo.png
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/logo-cecinema.jpg
         altText: Contentful logo
         type: ImageBlock
