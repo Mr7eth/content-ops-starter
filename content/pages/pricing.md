@@ -52,6 +52,7 @@ sections:
 
         features:
           - Una settimana di intensivo completo
+          - ''
           - Creazione di una comunità artistica
           - Supervisione di due insegnanti esperti
           - Feedback e suggerimenti sul proprio percorso
