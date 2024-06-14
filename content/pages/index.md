@@ -68,10 +68,20 @@ sections:
       - type: FeaturedItem
         title: 1 settimana
         subtitle: Attività
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Il tempo di realizzazione del laboratorio e di convivenza della
+          comunità. 
+
+
+          Un gruppo di filmmaker e attori si troveranno insieme all'interno di
+          Villa Santa Giulia, una Villa Toscana del Comune di Follonica, in
+          provincia di Grosseto, per creare insieme un Mockumentary - un finto
+          documentario. 
+
+
+          Nel corso di una settimana sperimenterai tutte le fasi produttive di
+          realizzazione di un progetto audiovisivo con uno spirito di creazione
+          innovativo che ti lascerà senza fiato.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
