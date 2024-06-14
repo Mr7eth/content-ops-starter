@@ -17,7 +17,7 @@ sections:
       con il filmmaking per creare documentari divertenti e innovativi.
 
     actions:
-      - label: Get started
+      - label: Iscriviti
         altText: ''
         url: /
         showIcon: false
