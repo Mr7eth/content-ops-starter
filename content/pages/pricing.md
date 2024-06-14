@@ -18,7 +18,7 @@ sections:
           Comprende una settimana di Laboratorio come parte del team Filmmaking
           o Recitazione.
         features:
-          - Una settimana di attività di gruppo
+          - Una settimana di attività intensiva
           - Restituzione
           - Feature three
           - Feature four
