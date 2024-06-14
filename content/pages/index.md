@@ -615,7 +615,7 @@ sections:
         type: FeaturedItem
       - title: Actors
         tagline: 'Max partecipanti: 14'
-        subtitle: This is the item subtitle
+        subtitle: Per chi ha frequentato almeno un laboratorio teatrale
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
