@@ -56,7 +56,7 @@ sections:
           - Creazione di una comunità artistica
           - Feedback e suggerimenti sul proprio percorso
           - Restituzione live del lavoro svolto
-          - Invito a proiezione Mockumentary
+          - Accesso ad un antica Villa toscana con giardino
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
