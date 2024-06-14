@@ -692,7 +692,7 @@ sections:
       text: Iscriviti alla prossima edizione!
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
