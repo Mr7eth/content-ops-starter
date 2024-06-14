@@ -101,10 +101,11 @@ sections:
               borderRadius: x-large
       - title: 20 partecipanti
         subtitle: Numero massimo
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Per garantire una resa efficiente del progetto e mantenere un'alta
+          qualità di formazione e sviluppo possiamo accogliere solo un massimo
+          di 20 partecipanti. Le iscrizioni finiscono presto: sbrigati a
+          prenotare!
         image:
           url: /images/icon2.svg
           altText: Featured icon two
