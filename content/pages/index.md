@@ -631,7 +631,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            justifyContent: center
+            justifyContent: flex-end
         type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
