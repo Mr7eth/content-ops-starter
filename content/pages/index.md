@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
-    subtitle: Un
+    subtitle: Laboratorio di improvvisazione attoriale e filmmaking
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
