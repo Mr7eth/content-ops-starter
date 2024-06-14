@@ -121,10 +121,12 @@ sections:
         type: FeaturedItem
       - title: 'Numero #0'
         subtitle: Primo laboratorio
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Trattandosi del primo laboratorio di filmmaking e improvvisazione
+          attoriale che abbiamo sviluppato, avrai l'occasione di sperimentare
+          insieme a noi il progetto e partecipare per la prima volta ad
+          un'esperienza di creazione collettiva straordinaria che ti vedrà tra i
+          protagonisti di questo esaltante progetto
         image:
           url: /images/icon3.svg
           altText: Featured icon three
