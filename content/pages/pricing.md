@@ -12,7 +12,7 @@ sections:
     subtitle: Prezzi del primo laboratorio. Non saranno mai più così bassi!
     plans:
       - title: Solo Lab
-        price: 320 €
+        price: '320,00 €'
         details: 'Fino al 30 Luglio 2024, poi 350,00 €'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
