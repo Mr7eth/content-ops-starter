@@ -80,7 +80,7 @@ sections:
         type: PricingPlan
       - title: Nuovi progetti
         price: Da decidere
-        details: per month
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
