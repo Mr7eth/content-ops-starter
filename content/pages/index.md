@@ -63,7 +63,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Aperto a filmmaker e attori di tutte le età
     items:
       - type: FeaturedItem
         title: 500k
