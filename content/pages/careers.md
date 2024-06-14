@@ -3,7 +3,7 @@ title: Insegnanti
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Conosci il nostro team
       color: text-dark
       styles:
         self:
