@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Solo Lab
         price: 320 €
-        details: No credit card required
+        details: 'Fino al 30 Luglio 2024, poi 350,00 €'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
