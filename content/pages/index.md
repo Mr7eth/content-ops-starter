@@ -614,7 +614,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Actors
-        tagline: This is the tagline
+        tagline: 'Max partecipanti: 14'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
