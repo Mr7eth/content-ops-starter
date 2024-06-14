@@ -588,7 +588,7 @@ sections:
     items:
       - title: Makers
         tagline: 'Max partecipanti: 9'
-        subtitle: Idoneo per chi ha almeno un minimo di esperienza nel Filmmaking
+        subtitle: Per chi ha almeno un minimo di esperienza nel Filmmaking
         text: >
           Segui il Mockumentary Lab come regista, montatore, operatore di
           ripresa, tecnico luci, tecnico audio, edizione... Nel corso di una
