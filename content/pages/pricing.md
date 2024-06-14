@@ -96,7 +96,7 @@ sections:
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
+          - label: Contattaci
             url: /
             icon: arrowRight
             iconPosition: right
