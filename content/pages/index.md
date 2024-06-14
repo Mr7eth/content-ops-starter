@@ -616,8 +616,12 @@ sections:
       - title: Actors
         tagline: 'Max partecipanti: 14'
         subtitle: Per chi ha frequentato almeno un laboratorio teatrale
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Diventa parte del team di attori del Laboratorio! In questo ruolo
+          avrai modo di conoscere alcune tecniche di
+          immedesimazione/improvvisazione attoriale, di costruire un personaggio
+          ed essere tra i personaggi del mockumentary creato durante il lab,
+          oltre ad essere tra i protagonisti di una performance finale live.
         image:
           url: /images/Realistic photo port (1).jpg
           altText: Placeholder image
