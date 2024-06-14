@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Insegnanti
 slug: careers
 sections:
   - title:
