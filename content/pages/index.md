@@ -175,7 +175,7 @@ sections:
       - url: /images/HelixLgo.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/HelixLgo.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/logo-cecinema.jpg
