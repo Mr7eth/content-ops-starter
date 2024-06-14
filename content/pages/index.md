@@ -587,7 +587,7 @@ sections:
     subtitle: Partecipa al Lab come Filmmaker o come Attore/Attrice!
     items:
       - title: Makers
-        tagline: This is the tagline
+        tagline: 'Max partecipanti: 9'
         subtitle: Idoneo per chi ha esperienza di Filmmaking
         text: >
           Segui il Mockumentary Lab come regista, montatore, operatore di
