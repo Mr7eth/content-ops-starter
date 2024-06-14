@@ -95,7 +95,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20 partecipanti
-        subtitle: The Job Stuff
+        subtitle: Numero massimo
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
