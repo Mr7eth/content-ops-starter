@@ -21,7 +21,6 @@ sections:
           - Una settimana di attività intensiva
           - Supervisione di due insegnanti esperti
           - Restituzione live del lavoro svolto
-          - Feature four
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
