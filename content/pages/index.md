@@ -178,7 +178,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/logo-cecinema.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
