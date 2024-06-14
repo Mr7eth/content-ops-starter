@@ -20,7 +20,7 @@ sections:
         features:
           - Una settimana di attività intensiva
           - Supervisione di due insegnanti esperti
-          - Feature three
+          - Restituzione live del lavoro svolto
           - Feature four
         image:
           url: /images/abstract-feature1.svg
