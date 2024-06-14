@@ -11,10 +11,11 @@ sections:
         self:
           fontWeight: 400
     subtitle: Laboratorio di improvvisazione attoriale e filmmaking
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      Benvenuti al Mockumentary Lab, dove l'arte dell'improvvisazione si fonde
+      con il filmmaking per creare documentari divertenti e innovativi.
+
     actions:
       - label: Get started
         altText: ''
