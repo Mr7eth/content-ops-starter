@@ -19,7 +19,7 @@ sections:
           o Recitazione.
         features:
           - Una settimana di attività di gruppo
-          - Feature two
+          - Restituzione
           - Feature three
           - Feature four
         image:
