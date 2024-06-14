@@ -81,9 +81,10 @@ sections:
       - title: Nuovi progetti
         price: Da decidere
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Se sei un operatore culturale e vuoi ospitare il progetto nel tuo
+          territorio, contattaci per organizzare insieme una nuova data di
+          Mockumentary Lab!
         features:
           - Feature one
           - Feature two
