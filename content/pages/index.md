@@ -588,7 +588,7 @@ sections:
     items:
       - title: Makers
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Idoneo per chi ha esperienza di Filmmaking
         text: >
           Segui il Mockumentary Lab come regista, montatore, operatore di
           ripresa, tecnico luci, tecnico audio, edizione... Nel corso di una
