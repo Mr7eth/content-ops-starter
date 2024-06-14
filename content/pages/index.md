@@ -633,6 +633,8 @@ sections:
             flexDirection: col
             justifyContent: flex-end
             textAlign: right
+            margin:
+              - ml-16
         type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
