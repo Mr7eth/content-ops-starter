@@ -589,8 +589,12 @@ sections:
       - title: Makers
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Segui il Mockumentary Lab come regista, montatore, operatore di
+          ripresa, tecnico luci, tecnico audio, edizione... Nel corso di una
+          settimana avrai modo di sperimentare tutti i ruoli del cinema e
+          collaborare alla realizzazione di un finto documentario in un'ambiente
+          coinvolgente ed entusiasmante
         image:
           url: /images/Realistic photo port.jpg
           altText: Placeholder Image
