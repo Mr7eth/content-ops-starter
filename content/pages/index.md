@@ -594,7 +594,7 @@ sections:
           ripresa, tecnico luci, tecnico audio, edizione... Nel corso di una
           settimana avrai modo di sperimentare tutti i ruoli del cinema e
           collaborare alla realizzazione di un finto documentario in un'ambiente
-          coinvolgente ed entusiasmante
+          coinvolgente ed entusiasmante!
         image:
           url: /images/Realistic photo port.jpg
           altText: Placeholder Image
