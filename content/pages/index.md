@@ -57,7 +57,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Programma del Corso
+      text: Numeri del Corso
       color: text-dark
       styles:
         self:
