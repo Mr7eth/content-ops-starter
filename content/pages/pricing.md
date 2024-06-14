@@ -45,8 +45,11 @@ sections:
       - title: Lab + Ospitalità
         price: '420,00 €'
         details: 'Fino al 30 Luglio 2024, poi 450,00 €'
-        description: |
-          Una settimana di Laboratorio sul Moc
+        description: >+
+          Comprende una settimana di Laboratorio come parte del team Filmmaking
+          o Recitazione + alloggio in una villa lussuosa della campagna toscana
+          in camera multipla con cucina.
+
         features:
           - Feature one
           - Feature two
