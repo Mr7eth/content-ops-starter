@@ -597,7 +597,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Scegli il tuo percorso
       color: text-primary
       styles:
         self:
