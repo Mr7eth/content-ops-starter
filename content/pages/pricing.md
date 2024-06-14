@@ -9,9 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      Trattandosi del progetto di lancio, abbiamo selezionato un budget super
-      scontato
+    subtitle: 'Come progetto di lancio, abbiamo selezionato un budget super scontato'
     plans:
       - title: Developers
         price: Free
