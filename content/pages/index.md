@@ -57,7 +57,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Il progetto
+      text: Programma del Corso
       color: text-dark
       styles:
         self:
