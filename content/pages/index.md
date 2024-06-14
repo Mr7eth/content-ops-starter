@@ -635,6 +635,7 @@ sections:
             textAlign: right
             margin:
               - ml-36
+              - mr-36
         type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
