@@ -52,7 +52,7 @@ sections:
 
         features:
           - Una settimana di intensivo completo
-          - Feature two
+          - Creazione di una comunità artistica
           - Feature three
           - Feature four
         image:
