@@ -54,9 +54,7 @@ sections:
           - Una settimana di intensivo completo
           - Creazione di una comunità artistica
           - Supervisione di due insegnanti esperti
-          - >-
-            Feedback e suggerimenti sul proprio percorsoComprende una settimana
-            di Laboratorio come parte del team Filmmaking o Recitazione.
+          - Feedback e suggerimenti sul proprio percorso
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
