@@ -172,6 +172,13 @@ sections:
       - url: /images/th-2246218190.jpg
         altText: Empathy logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/logo-cecinema.jpg
         altText: Contentful logo
         type: ImageBlock
