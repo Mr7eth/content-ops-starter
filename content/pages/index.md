@@ -172,7 +172,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/HelixLgo.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
