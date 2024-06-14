@@ -41,7 +41,7 @@
         {
             "type": "SubNav",
             "label": "Contatti",
-            "altText": "Dropdown",
+            "altText": "",
             "links": [
                 {
                     "type": "Link",
