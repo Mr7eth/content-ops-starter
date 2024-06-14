@@ -82,7 +82,8 @@ sections:
         price: Da decidere
         details: ''
         description: >
-          Se sei un operatore culturale e vuoi ospitare il progetto nel tuo
+          Se sei un operatore culturale, un amministrazione locale, un
+          organizzatore di festival e vuoi ospitare il progetto nel tuo
           territorio, contattaci per organizzare insieme una nuova data di
           Mockumentary Lab!
         features: []
