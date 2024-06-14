@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Prezzi del primo laboratorio. Non saranno mai più così bassi!
     plans:
-      - title: Developers
+      - title: Solo Lab
         price: Free
         details: No credit card required
         description: >-
