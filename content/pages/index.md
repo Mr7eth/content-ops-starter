@@ -586,7 +586,7 @@ sections:
       type: TitleBlock
     subtitle: Partecipa al Lab come Filmmaker o come Attore/Attrice!
     items:
-      - title: Feature Item One
+      - title: Makers
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
