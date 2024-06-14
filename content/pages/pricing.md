@@ -79,7 +79,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Nuovi progetti
-        price: Custom
+        price: Da decidere
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
