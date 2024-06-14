@@ -689,7 +689,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Iscriviti alla prossima edizione!
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
