@@ -228,7 +228,6 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >+
-      ### Obiettivi del Corso
 
 
       *   **Attivazione Creativa:** Stimolare la creatività attraverso esercizi
