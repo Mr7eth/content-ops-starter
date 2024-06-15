@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Mockumentary lab.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Un workshop di creazione collettiva\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
