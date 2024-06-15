@@ -63,28 +63,32 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Unblock your team boost your time to production
+      text: I nostri social
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I nostri social sono ancora in costruzione, si attiveranno dopo il
+      Progetto #0.
+
+
+
+      Intanto puoi trovarci su Instagram e Facebook sui nostri account
+      personali!
     actions:
       - type: Button
-        label: Get started
+        label: '@LeonardaSaffi'
         altText: ''
-        url: /
+        url: 'https://www.instagram.com/leonardasaffi/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Link
-        label: See Tutorials
+      - type: Button
+        label: '@Mr7eth'
         altText: ''
-        url: /
-        showIcon: true
+        url: 'https://www.instagram.com/mr7eth/'
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -96,7 +100,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: ''
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
@@ -109,25 +113,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: FeaturedPostsSection
-    posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
@@ -141,45 +126,18 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: Per contattarci
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      La soluzione migliore è il modulo di riferimento, ma laddove non fosse
+      possibile puoi trovarci sui nostri social o sui rispettivi canali elencati
+      di seguito. Siamo a tua disposizione per qualsiasi domanda o
+      approfondimento!
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    badge:
-      type: Badge
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
@@ -190,9 +148,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Leonarda Saffi
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Attrice e Regista Teatrale
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
@@ -212,11 +170,11 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Leonarda-Saffi-4.jpg
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Approfondimenti e Contatti
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -225,39 +183,74 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Mattia Mura
       color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    subtitle: Documentary Filmmaker
+    text: "La vita si presenta sotto forma di racconto. Scopriamo il tuo!\n\nAumentare la consapevolezza del pubblico attraverso progetti innovativi e, nel percorso, migliorare\_la vita delle persone.\n"
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Official Website
+        url: 'https://www.mattiamuravannuzzi.com/'
         icon: arrowRight
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
-        url: /
+        label: Vedi Linktree
+        url: 'https://linktr.ee/MattiaMura'
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/parkany-hidorseg-kezdo.jpg
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Approfondimenti e contatti
       color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Villa Santa Giulia
+      color: text-dark
+    subtitle: Location per Workshop e Residenze
+    text: >
+      Oltre ad essere un luogo di ospitalità in un'oasi di pace nei pressi di
+      Follonica, Villa Santa Giulia è anche una residenza d'artista attraverso
+      il programma Santa Giulia Frantoio Arte. Scopri a questi link la location
+      e il suo programma artistico di residenze!
+    actions:
+      - type: Button
+        label: Official Website
+        url: 'https://www.villasantagiulia.it/'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: Residenze
+        url: 'https://amicididuccio.it/santa-giulia-frantoio-arte/'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/palme-1(1)_normal.webp
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: Approfondimenti e Contatti
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
