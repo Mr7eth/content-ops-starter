@@ -61,16 +61,24 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/mr7eth/",
+            "icon": "instagram",
+            "elementId": ""
         },
         {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Vimeo link",
+            "url": "https://vimeo.com/mattiamura",
+            "icon": "vimeo",
+            "elementId": ""
         },
         {
             "altText": "LinkedIn link",
@@ -80,7 +88,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "<a href=\"mailto:info@mattiamuravannuzzi.com?subject=Richiesta%20di%20informazioni&body=Ciao,%20vorrei%20avere%20più%20informazioni%20sul%20corso%20di%20mockumentary.%20Grazie!\">Invia un'email</a>",
             "icon": "mail",
             "type": "Social"
         }
@@ -104,6 +112,6 @@
         }
     ],
     "copyrightText": "Powered by [Mattiamuravannuzzi.com](www.mattiamuravannuzzi.com)\n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
