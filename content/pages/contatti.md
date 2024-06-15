@@ -389,16 +389,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - type: DividerSection
-    title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
   - type: GenericSection
     title:
       type: TitleBlock
@@ -457,6 +447,16 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
+  - type: DividerSection
+    title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
   - type: CarouselSection
     subtitle: This is a subtitle
     items:
