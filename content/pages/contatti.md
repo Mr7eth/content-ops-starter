@@ -283,7 +283,7 @@ sections:
         tagline: This is the tagline
         subtitle: 'Follonica (Gr), 9-15 Settembre 2024'
         text: |
-          Follow the tutorial to build your first Netlify site.
+          Il primo progetto di Mockumentary Lab! Iscrizioni aperte!
         image:
           type: ImageBlock
           url: /images/villa-santa-giuliabb.jpg
