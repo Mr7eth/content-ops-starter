@@ -461,10 +461,12 @@ sections:
       - title: Divertiti attraverso un viaggio surreale
         tagline: 'Motivazione #5'
         subtitle: Esperienza immersiva
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Il progetto ha un taglio ironico e originale che ti trasporterà in una
+          dimensione coinvolgente e surreale, toccando alcune location
+          mozzafiato che ti entusiasmeranno. Nonostante l'attività intensiva, ti
+          troverai in un ambiente molto più piacevole rispetto alla vita
+          quotidiana!
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
