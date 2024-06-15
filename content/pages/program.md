@@ -39,6 +39,13 @@ sections:
     text: >+
       **Durata:** 7 giorni
 
+
+      **Arrivo:** Lunedì 9 Settembre in Giornata
+
+
+      Si inizia da Martedì 10 Settembre
+
+
       **Orario delle sessioni:**
 
 
@@ -57,8 +64,6 @@ sections:
 
       *   **Tutor Attori:** Guida alle attività di improvvisazione,
       interpretazione del personaggio e performance.
-
-
 
     actions:
       - type: Button
