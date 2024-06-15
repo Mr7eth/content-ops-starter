@@ -124,7 +124,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Iscriviti ora
-        url: /
+        url: /Contatti
         icon: arrowRight
         iconPosition: right
         style: primary
