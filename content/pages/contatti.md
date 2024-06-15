@@ -227,7 +227,7 @@ sections:
       type: TitleBlock
       text: Mattia Mura
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Documentary Filmmaker
     text: "La vita si presenta sotto forma di racconto. Scopriamo il tuo!\n\nAumentare la consapevolezza del pubblico attraverso progetti innovativi e, nel percorso, migliorare\_la vita delle persone.\n"
     actions:
       - type: Button
