@@ -248,7 +248,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/villa-santa-giuliabb.jpg
       altText: Fun feature preview
     badge:
       type: Badge
