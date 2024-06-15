@@ -96,7 +96,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Sono un filmmaker/videomaker
-        subtitle: Marketing
+        subtitle: ''
         text: >
           Se hai una minima esperienza di settore, che tu sia autodidatta, stia
           frequentando una scuola o conosca almeno i fondamenti base del
