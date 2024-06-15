@@ -19,7 +19,7 @@ sections:
     actions:
       - label: Iscriviti
         altText: ''
-        url: /contattaci
+        url: /Contatti
         showIcon: false
         icon: arrowRight
         iconPosition: right
