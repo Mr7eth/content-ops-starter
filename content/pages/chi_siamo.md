@@ -1,6 +1,6 @@
 ---
 title: Chi Siamo
-slug: careers
+slug: chi_siamo
 sections:
   - title:
       text: Conosci il nostro team
