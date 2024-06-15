@@ -93,7 +93,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contattaci
-            url: /
+            url: /Contatti
             icon: arrowRight
             iconPosition: right
             style: secondary
