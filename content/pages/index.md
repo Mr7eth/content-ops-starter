@@ -347,7 +347,7 @@ sections:
     items:
       - title: Impara dai Migliori
         tagline: 'Motivazione #1'
-        subtitle: 'Maria Walters, Company'
+        subtitle: '2 professionisti, 1 progetto collettivo'
         text: >
           I nostri esperti ti guideranno attraverso tecniche di improvvisazione
           avanzate e strategie di filmmaking, permettendoti di affinare le tue
