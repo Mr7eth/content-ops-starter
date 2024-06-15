@@ -228,8 +228,6 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >+
-
-
       *   **Attivazione Creativa:** Stimolare la creatività attraverso esercizi
       di improvvisazione e tecniche audiovisive.
 
@@ -244,21 +242,6 @@ sections:
 
       *   **Produzione Completa:** Guidare i partecipanti attraverso tutte le
       fasi di produzione, dal concetto iniziale al montaggio finale.
-
-
-      ### Risultati Attesi
-
-
-      *   **Mockumentary Finito:** Un mockumentary completo, pronto per la
-      proiezione.
-
-
-      *   **Esperienza Pratica:** Esperienza pratica in recitazione,
-      improvvisazione, regia e montaggio.
-
-
-      *   **Networking:** Opportunità di networking e collaborazione con altri
-      partecipanti e professionisti del settore.
 
     actions:
       - type: Button
