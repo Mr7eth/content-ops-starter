@@ -88,7 +88,7 @@ sections:
           Mockumentary Lab!
         features: []
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/new projects and ide.jpg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
