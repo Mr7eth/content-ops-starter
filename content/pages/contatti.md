@@ -84,6 +84,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://www.instagram.com/mr7eth/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
       - type: Link
         label: See Tutorials
         altText: ''
