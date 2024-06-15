@@ -68,12 +68,6 @@
             "elementId": ""
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "type": "Social",
             "altText": "Vimeo link",
             "url": "https://vimeo.com/mattiamura",
@@ -82,7 +76,7 @@
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/in/mattia-mura-5a64a0a0/",
             "icon": "linkedin",
             "type": "Social"
         },
