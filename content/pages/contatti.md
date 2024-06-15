@@ -329,7 +329,7 @@ sections:
       - type: FeaturedItem
         title: Cecinema Festival
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Cecina (Li), 20-22 Settembre 2024'
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
