@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Programma del Corso
+      text: Il corso in sintesi
       color: text-dark
       styles:
         self:
@@ -15,6 +15,9 @@ sections:
       Il corso è diviso in due sezioni: il programma Makers, per individui
       interessati allo sviluppo audiovisivo e il programma Attorə, per individui
       interessati al lavoro di improvvisazione attoriale.
+
+      Non possiamo dirti tutto qua! Se ti piace l'idea e vuoi conoscere tutti i
+      dettagli, è necessaria la partecipazione ;)
     actions: []
     badge:
       type: Badge
@@ -62,7 +65,7 @@ sections:
       dell'audiovisivo.
 
 
-      *   **Tutor Attori:** Guida alle attività di improvvisazione,
+      *   **Tutor Attorə: **Guida alle attività di improvvisazione,
       interpretazione del personaggio e performance.
 
     actions: []
@@ -86,6 +89,47 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Villa Santa Giulia
+      color: text-dark
+    subtitle: ''
+    text: >
+      L'opzione Laboratorio + Pernottamento permette di trascorrere una
+      settimana in Toscana in un ambiente pulito e ordinato insieme alla
+      comunità del laboratorio. Le stanze (da 4 o 5 persone, dotate di cucina e
+      letti singoli o doppi) permettono di costruire un'interazione comunitaria
+      più approfondita, di continuare le ricerche e le riflessioni anche fuori
+      dall'orario laboratoriale e di costruire un'esperienza completa capace di
+      generare nuovi legami e ulteriori progetti.
+    actions:
+      - type: Button
+        label: Vedi prezzi
+        url: /pricing
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: Prenota ora
+        url: /contatti
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/palme-1(1)_normal.webp
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: 'Focus: Pernottamento'
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
