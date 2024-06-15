@@ -133,11 +133,10 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      \<div style="text-align: center">\<div style="text-align: center">La
-      soluzione migliore è il modulo di riferimento, ma laddove non fosse
-      possibile puoi trovarci sui nostri social o sui rispettivi canali elencati
-      di seguito.Siamo a tua disposizione per qualsiasi domanda o
-      approfondimento!\</div>\</div>
+      \<div style="text-align: center">La soluzione migliore è il modulo di
+      riferimento, ma laddove non fosse possibile puoi trovarci sui nostri
+      social o sui rispettivi canali elencati di seguito.Siamo a tua
+      disposizione per qualsiasi domanda o approfondimento!\</div>
 
     actions: []
     colors: bg-light-fg-dark
