@@ -271,7 +271,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Prossimi Eventi
       color: text-primary
       styles:
         self:
