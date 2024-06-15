@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       Il corso è diviso in due sezioni: il programma Makers, per individui
       interessati allo sviluppo audiovisivo e il programma Attori, per individui
