@@ -24,7 +24,7 @@
         {
             "label": "Programma del Corso",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/program",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
