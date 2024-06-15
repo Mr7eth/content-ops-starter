@@ -50,7 +50,7 @@
             },
             {
                 "label": "Contattaci",
-                "url": "/blog",
+                "url": "/contatti",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
