@@ -281,7 +281,7 @@ sections:
       - type: FeaturedItem
         title: 'MockumentaryLab #0'
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'Follonica (Gr), 9-15 Settembre 2024'
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
