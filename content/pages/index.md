@@ -147,7 +147,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20 partecipanti
+      - title: 20 iscritti
         subtitle: Numero massimo
         text: >
           Per garantire una resa efficiente del progetto e mantenere un'alta
