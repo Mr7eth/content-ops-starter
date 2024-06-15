@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Programma del Corso
+      text: Il corso in sintesi
       color: text-dark
       styles:
         self:
