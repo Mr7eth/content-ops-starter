@@ -296,7 +296,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Business Consulting
+      text: Unisciti a noi!
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
