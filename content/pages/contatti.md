@@ -8,11 +8,11 @@ sections:
       text: Generic Section With A Form
       color: text-dark
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
+      aggiuntive o ospitare il progetto nel tuo territorio, contattaci
+      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
+      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
     actions: []
     media:
       type: FormBlock
