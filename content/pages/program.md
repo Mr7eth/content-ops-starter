@@ -264,7 +264,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Key Benefits
+      label: Mockumentary lab
       color: text-primary
       styles:
         self:
