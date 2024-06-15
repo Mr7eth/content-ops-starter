@@ -11,12 +11,9 @@ sections:
         self:
           fontWeight: 400
     subtitle: Laboratorio di improvvisazione attoriale e filmmaking
-    text: >+
-      Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
-      aggiuntive o ospitare il progetto nel tuo territorio, contattaci
-      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
-      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
-
+    text: >
+      Benvenuti al Mockumentary Lab, dove l'arte dell'improvvisazione si fonde
+      con il filmmaking per creare documentari divertenti e innovativi.
     actions:
       - label: Iscriviti
         altText: ''
