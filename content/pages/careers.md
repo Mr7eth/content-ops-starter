@@ -72,7 +72,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Un identikit dei partecipanti
     items:
       - title: Sono un'attrice/attore
         subtitle: Sales
