@@ -232,7 +232,7 @@ sections:
     actions:
       - type: Button
         label: Official Website
-        url: /
+        url: www.
         icon: arrowRight
         iconPosition: right
         style: secondary
