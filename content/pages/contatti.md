@@ -76,7 +76,7 @@ sections:
       personali!
     actions:
       - type: Button
-        label: Get started
+        label: '@LeonardaSaffi'
         altText: ''
         url: /
         showIcon: false
