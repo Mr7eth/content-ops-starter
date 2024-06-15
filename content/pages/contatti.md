@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Iscriviti alla prossima edizione!
       color: text-dark
     subtitle: Section with a form subtitle
     text: >
