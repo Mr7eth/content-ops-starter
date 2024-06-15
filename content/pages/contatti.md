@@ -303,11 +303,11 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        title: 'MockumentaryLab #1'
+        tagline: ''
+        subtitle: Ancora da definire
         text: |
-          Follow the tutorial to build your first awesome Netlify site.
+          Contattaci per organizzare insieme una nuova data di Mockumentary Lab!
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
@@ -327,14 +327,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        title: Cecinema Festival
+        tagline: ''
+        subtitle: 'Cecina (Li), 20-22 Settembre 2024'
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/logo-cecinema.jpg
           altText: Placeholder image
           styles:
             self:
