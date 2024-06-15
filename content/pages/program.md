@@ -89,7 +89,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Mattia Mura
+      text: Villa Santa Giulia
       color: text-dark
     subtitle: Documentary Filmmaker
     text: "La vita si presenta sotto forma di racconto. Scopriamo il tuo!\n\nAumentare la consapevolezza del pubblico attraverso progetti innovativi e, nel percorso, migliorare\_la vita delle persone.\n"
