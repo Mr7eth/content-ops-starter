@@ -412,7 +412,7 @@ sections:
           in alcuni dei luoghi più belli della Toscana
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/aerial view of a cir.jpg
           altText: Maria Walters
           styles:
             self:
