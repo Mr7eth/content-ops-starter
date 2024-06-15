@@ -18,16 +18,16 @@
                 "type": "Link"
             },
             {
-                "label": "Costi",
-                "url": "/pricing",
+                "label": "Introduzione",
+                "url": "/Contatti",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Introduzione",
-                "url": "/Contatti",
+                "label": "Costi",
+                "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
