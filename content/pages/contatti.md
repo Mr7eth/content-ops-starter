@@ -228,8 +228,10 @@ sections:
       color: text-dark
     subtitle: Location per Workshop e Residenze
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Oltre ad essere un luogo di ospitalità in un'oasi di pace nei pressi di
+      Follonica, Villa Santa Giulia è anche una residenza d'artista attraverso
+      il programma Santa Giulia Frantoio Arte. Scopri a questi link la location
+      e il suo programma artistico di residenze!
     actions:
       - type: Button
         label: Official Website
