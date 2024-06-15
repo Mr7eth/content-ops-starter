@@ -58,7 +58,7 @@ sections:
           - Restituzione live del lavoro svolto
           - Accesso ad un antica Villa toscana con giardino
         image:
-          url: /images/palme-1(1)_normal.webp
+          url: /images/beautiful villa in t (1).jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
