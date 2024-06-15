@@ -6,10 +6,18 @@
     },
     "text": "Un workshop di creazione collettiva\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Programma",
         "links": [
             {
-                "label": "Features",
+                "label": "Introduzione",
+                "url": "/Contatti",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Programma del corso",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,16 +26,8 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Costi",
                 "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,10 +37,10 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Team",
         "links": [
             {
-                "label": "Careers",
+                "label": "Chi siamo",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
@@ -49,7 +49,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Contattaci",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",

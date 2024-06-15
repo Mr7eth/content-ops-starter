@@ -5,14 +5,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Iscriviti alla prossima edizione!
       color: text-dark
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: 'Progetto #0: Follonica, 9-15 Settembre'
+    text: >
+      Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
+      aggiuntive o ospitare il progetto nel tuo territorio, contattaci
+      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
+      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
     actions: []
     media:
       type: FormBlock
@@ -39,7 +39,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Invia
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -57,7 +57,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: ContATTACI
       color: text-primary
     colors: bg-light-fg-dark
   - type: GenericSection
