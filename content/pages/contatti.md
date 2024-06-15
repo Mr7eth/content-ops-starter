@@ -228,7 +228,7 @@ sections:
       text: Mattia Mura
       color: text-dark
     subtitle: Be in good company
-    text: "Un approccio documentaristico alla realtà.\n\nLa vita si presenta sotto forma di racconto. Scopriamo la tua!\n\nAumentare la consapevolezza del pubblico attraverso progetti innovativi e, nel percorso, migliorare\_la vita delle persone.\n"
+    text: "La vita si presenta sotto forma di racconto. Scopriamo il tuo!\n\nAumentare la consapevolezza del pubblico attraverso progetti innovativi e, nel percorso, migliorare\_la vita delle persone.\n"
     actions:
       - type: Button
         label: Get started
