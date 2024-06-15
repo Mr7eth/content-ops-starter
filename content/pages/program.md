@@ -86,6 +86,40 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Mattia Mura
+      color: text-dark
+    subtitle: Documentary Filmmaker
+    text: "La vita si presenta sotto forma di racconto. Scopriamo il tuo!\n\nAumentare la consapevolezza del pubblico attraverso progetti innovativi e, nel percorso, migliorare\_la vita delle persone.\n"
+    actions:
+      - type: Button
+        label: Official Website
+        url: 'https://www.mattiamuravannuzzi.com/'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: Vedi Linktree
+        url: 'https://linktr.ee/MattiaMura'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/parkany-hidorseg-kezdo.jpg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: Approfondimenti e contatti
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
