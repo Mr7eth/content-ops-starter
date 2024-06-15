@@ -343,7 +343,7 @@ sections:
       - type: FeaturedItem
         title: Networking
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           Opportunità di networking e collaborazione con altri partecipanti e
           professionisti del settore.
