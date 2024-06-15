@@ -403,7 +403,7 @@ sections:
         type: FeaturedItem
       - title: Collabora e Cresci
         tagline: 'Motivazione #3'
-        subtitle: 'Maria Walters, Company'
+        subtitle: Lavora e vivi in team per una settimana
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
