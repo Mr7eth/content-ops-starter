@@ -345,9 +345,7 @@ sections:
     title: null
     subtitle: Perchè Partecipare?
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: Impara dai Migliori
         tagline: 'Motivazione #1'
         subtitle: 'Maria Walters, Company'
         text: >-
