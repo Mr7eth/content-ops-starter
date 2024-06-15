@@ -227,9 +227,40 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      ### Obiettivi del Corso
+
+
+      *   **Attivazione Creativa:** Stimolare la creatività attraverso esercizi
+      di improvvisazione e tecniche audiovisive.
+
+
+      *   **Collaborazione:** Promuovere la collaborazione tra attori e
+      filmmaker per sviluppare personaggi e trama in modo organico.
+
+
+      *   **Improvvisazione:** Incoraggiare l'improvvisazione durante le riprese
+      per ottenere un risultato autentico e spontaneo.
+
+
+      *   **Produzione Completa:** Guidare i partecipanti attraverso tutte le
+      fasi di produzione, dal concetto iniziale al montaggio finale.
+
+
+      ### Risultati Attesi
+
+
+      *   **Mockumentary Finito:** Un mockumentary completo, pronto per la
+      proiezione.
+
+
+      *   **Esperienza Pratica:** Esperienza pratica in recitazione,
+      improvvisazione, regia e montaggio.
+
+
+      *   **Networking:** Opportunità di networking e collaborazione con altri
+      partecipanti e professionisti del settore.
+
     actions:
       - type: Button
         label: Get started
