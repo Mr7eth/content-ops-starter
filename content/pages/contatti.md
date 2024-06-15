@@ -276,7 +276,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Prossimi Workshop di Mockumentary Lab o eventi correlati
     items:
       - type: FeaturedItem
         title: Feature Item One
