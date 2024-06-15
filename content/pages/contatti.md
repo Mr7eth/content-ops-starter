@@ -241,7 +241,7 @@ sections:
         style: secondary
       - type: Link
         label: Residenze
-        url: /
+        url: 'https://amicididuccio.it/santa-giulia-frantoio-arte/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
