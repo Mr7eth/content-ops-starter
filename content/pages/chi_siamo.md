@@ -75,7 +75,7 @@ sections:
     subtitle: Un identikit dei partecipanti
     items:
       - title: Sono un'attrice/attore
-        subtitle: Sales
+        subtitle: ''
         text: >
           Se sei un aspirante attrice o attore, se frequenti un'accademia di
           recitazione o un corso di teatro, se anche solo in passato hai avuto
