@@ -63,7 +63,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Non ti piace iscriverti online?
+      text: I nostri social
       color: text-dark
     subtitle: Subtitle goes here
     text: >
