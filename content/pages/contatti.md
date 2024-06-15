@@ -226,7 +226,7 @@ sections:
       type: TitleBlock
       text: Villa Santa Giulia
       color: text-dark
-    subtitle: Attrice e Regista Teatrale
+    subtitle: Location per Workshop e Residenze
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
