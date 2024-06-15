@@ -104,6 +104,6 @@
         }
     ],
     "copyrightText": "Powered by [Mattiamuravannuzzi.com](www.mattiamuravannuzzi.com)\n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
