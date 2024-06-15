@@ -201,7 +201,7 @@ sections:
     actions:
       - label: Partecipa!
         altText: ''
-        url: /
+        url: /contatti
         showIcon: false
         icon: arrowRight
         iconPosition: right
