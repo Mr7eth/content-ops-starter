@@ -226,7 +226,7 @@ sections:
       type: TitleBlock
       text: Obiettivi del Corso
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >+
       *   **Attivazione Creativa:** Stimolare la creatività attraverso esercizi
       di improvvisazione e tecniche audiovisive.
