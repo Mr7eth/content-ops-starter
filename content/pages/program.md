@@ -124,11 +124,40 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      ### Obiettivi del Corso
+
+
+      *   **Attivazione Creativa:** Stimolare la creatività attraverso esercizi
+      di improvvisazione e tecniche audiovisive.
+
+
+      *   **Collaborazione:** Promuovere la collaborazione tra attori e
+      filmmaker per sviluppare personaggi e trama in modo organico.
+
+
+      *   **Improvvisazione:** Incoraggiare l'improvvisazione durante le riprese
+      per ottenere un risultato autentico e spontaneo.
+
+
+      *   **Produzione Completa:** Guidare i partecipanti attraverso tutte le
+      fasi di produzione, dal concetto iniziale al montaggio finale.
+
+
+      ### Risultati Attesi
+
+
+      *   **Mockumentary Finito:** Un mockumentary completo, pronto per la
+      proiezione.
+
+
+      *   **Esperienza Pratica:** Esperienza pratica in recitazione,
+      improvvisazione, regia e montaggio.
+
+
+      *   **Networking:** Opportunità di networking e collaborazione con altri
+      partecipanti e professionisti del settore.
+
     actions: []
     media:
       type: VideoBlock
@@ -195,12 +224,25 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Obiettivi del Corso
       color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    subtitle: ''
+    text: >+
+      *   **Attivazione Creativa:** Stimolare la creatività attraverso esercizi
+      di improvvisazione e tecniche audiovisive.
+
+
+      *   **Collaborazione:** Promuovere la collaborazione tra attori e
+      filmmaker per sviluppare personaggi e trama in modo organico.
+
+
+      *   **Improvvisazione:** Incoraggiare l'improvvisazione durante le riprese
+      per ottenere un risultato autentico e spontaneo.
+
+
+      *   **Produzione Completa:** Guidare i partecipanti attraverso tutte le
+      fasi di produzione, dal concetto iniziale al montaggio finale.
+
     actions:
       - type: Button
         label: Get started
@@ -221,7 +263,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -238,80 +280,10 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-  - type: CarouselSection
-    subtitle: This is a subtitle
-    items:
-      - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
-        tagline: Testimonial 2
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Risultati attesi
       color: text-primary
       styles:
         self:
@@ -319,11 +291,12 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        title: Mockumentary Finito
+        tagline: ''
+        subtitle: ''
+        text: |+
+          ##### Un mockumentary completo, pronto per la proiezione.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -343,11 +316,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        title: Esperienza Pratica
+        tagline: ''
+        subtitle: ''
+        text: |+
+          Esperienza pratica in recitazione, improvvisazione, regia e montaggio.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
@@ -367,11 +341,19 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        title: Networking
+        tagline: ''
+        subtitle: ''
+        text: >+
+          Opportunità di networking e collaborazione con altri partecipanti e
+          professionisti del settore.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
