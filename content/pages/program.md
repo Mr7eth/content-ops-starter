@@ -35,7 +35,7 @@ sections:
       type: TitleBlock
       text: Programma di massima
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       **Durata:** 7 giorni
 
