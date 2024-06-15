@@ -404,10 +404,11 @@ sections:
       - title: Collabora e Cresci
         tagline: 'Motivazione #3'
         subtitle: Lavora e vivi in team per una settimana
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Lavora fianco a fianco con altri artisti appassionati, scambiando idee
+          e costruendo insieme un progetto che è più della somma delle sue parti
+          in alcuni dei luoghi più belli della Toscana
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
