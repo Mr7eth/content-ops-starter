@@ -139,7 +139,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/0jRPb7-LogoMakr.png
           styles:
             self:
               borderRadius: x-large
@@ -151,7 +151,7 @@ sections:
           di 20 partecipanti. Le iscrizioni finiscono presto: sbrigati a
           prenotare!
         image:
-          url: /images/icon2.svg
+          url: /images/aerial view of a cir.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -178,7 +178,7 @@ sections:
           un'esperienza di creazione collettiva che ti vedrà tra i protagonisti
           di una straordinaria avventura!
         image:
-          url: /images/icon3.svg
+          url: /images/a screening in a cin.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -254,18 +254,17 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Video Presentazione
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: |
+      Mattia Mura & Leonarda Saffi raccontano il Mockumentary Lab in due minuti
+
+      \- Work in progress -
     actions: []
     media:
       title: Title of the video
@@ -355,7 +354,7 @@ sections:
           avanzate e strategie di filmmaking, permettendoti di affinare le tue
           abilità e scoprire nuovi modi di esprimerti artisticamente.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/portrait of a couple (2).jpg
           altText: Maria Walters
           styles:
             self:
@@ -383,7 +382,7 @@ sections:
           sperimentare, creando personaggi e storie che rispecchiano la tua
           visione unica.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/excited funny person.jpg
           altText: John Doe
           styles:
             self:
@@ -412,7 +411,7 @@ sections:
           in alcuni dei luoghi più belli della Toscana
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/group picture of hum.jpg
           altText: Maria Walters
           styles:
             self:
@@ -440,7 +439,7 @@ sections:
           su grande schermo, con una discussione finale che ti permetterà di
           riflettere sull'esperienza e imparare ancora di più.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/a screening in a cro.jpg
           altText: Maria Walters
           styles:
             self:
@@ -470,7 +469,7 @@ sections:
           troverai in un ambiente molto più piacevole rispetto alla vita
           quotidiana!
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/gigantic director ch.jpg
           altText: Maria Walters
           styles:
             self:
