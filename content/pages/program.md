@@ -116,7 +116,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/parkany-hidorseg-kezdo.jpg
+      url: /images/palme-1(1)_normal.webp
       altText: Dope design preview
     badge:
       type: Badge
