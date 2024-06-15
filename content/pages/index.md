@@ -173,7 +173,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 'Numero #0'
+      - title: 'Progetto #0'
         subtitle: Primo laboratorio
         text: >
           Trattandosi del primo laboratorio di filmmaking e improvvisazione
