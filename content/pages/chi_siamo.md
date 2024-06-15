@@ -49,9 +49,9 @@ sections:
           textAlign: center
       type: TitleBlock
     people:
-      - content/data/person1.json
       - content/data/person2.json
       - content/data/place1.json
+      - content/data/person1.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -75,7 +75,7 @@ sections:
     subtitle: Un identikit dei partecipanti
     items:
       - title: Sono un'attrice/attore
-        subtitle: Sales
+        subtitle: ''
         text: >
           Se sei un aspirante attrice o attore, se frequenti un'accademia di
           recitazione o un corso di teatro, se anche solo in passato hai avuto
@@ -96,7 +96,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Sono un filmmaker/videomaker
-        subtitle: Marketing
+        subtitle: ''
         text: >
           Se hai una minima esperienza di settore, che tu sia autodidatta, stia
           frequentando una scuola o conosca almeno i fondamenti base del
