@@ -97,10 +97,18 @@ sections:
         type: FeaturedItem
       - title: Sono un filmmaker/videomaker
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Se hai una minima esperienza di settore, che tu sia autodidatta, stia
+          frequentando una scuola o conosca almeno i fondamenti base del
+          videomaking, questo progetto è ideale per te. Ci spingeremo fuori
+          dalla confort zone di un corso base per sviluppare tecniche di
+          intervista, illuminazione e regia in circostanze ai limiti del
+          controllo di un set, per cui è importante avere almeno una base di
+          esperienza preliminare. Durante il corso, proverai un po' di tutto per
+          cui è anche importante essere pronti a mettersi in gioco in più ruoli
+          e avere uno spirito collaborativo. Se ti piace fare squadra,
+          sperimentare nuovi progetti e apprezzi l'ironia, questo workshop è
+          perfetto per te!
         colors: bg-neutral-fg-dark
         styles:
           self:
