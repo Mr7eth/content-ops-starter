@@ -404,7 +404,7 @@ sections:
       - title: >-
           "Design is how it works, how it functions. Good design doesn't just
           make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
+        tagline: 'Motivazione #3'
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
