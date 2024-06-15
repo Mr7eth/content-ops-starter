@@ -124,11 +124,40 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      ### Obiettivi del Corso
+
+
+      *   **Attivazione Creativa:** Stimolare la creatività attraverso esercizi
+      di improvvisazione e tecniche audiovisive.
+
+
+      *   **Collaborazione:** Promuovere la collaborazione tra attori e
+      filmmaker per sviluppare personaggi e trama in modo organico.
+
+
+      *   **Improvvisazione:** Incoraggiare l'improvvisazione durante le riprese
+      per ottenere un risultato autentico e spontaneo.
+
+
+      *   **Produzione Completa:** Guidare i partecipanti attraverso tutte le
+      fasi di produzione, dal concetto iniziale al montaggio finale.
+
+
+      ### Risultati Attesi
+
+
+      *   **Mockumentary Finito:** Un mockumentary completo, pronto per la
+      proiezione.
+
+
+      *   **Esperienza Pratica:** Esperienza pratica in recitazione,
+      improvvisazione, regia e montaggio.
+
+
+      *   **Networking:** Opportunità di networking e collaborazione con altri
+      partecipanti e professionisti del settore.
+
     actions: []
     media:
       type: VideoBlock
