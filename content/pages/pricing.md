@@ -63,7 +63,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Iscriviti
-            url: /
+            url: /Contatti
             icon: arrowRight
             iconPosition: right
             style: secondary
