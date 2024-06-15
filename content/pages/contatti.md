@@ -280,7 +280,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'MockumentaryLab #0'
-        tagline: This is the tagline
+        tagline: ''
         subtitle: 'Follonica (Gr), 9-15 Settembre 2024'
         text: |
           Il primo progetto di Mockumentary Lab! Iscrizioni aperte!
