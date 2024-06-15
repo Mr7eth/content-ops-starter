@@ -355,7 +355,7 @@ sections:
           avanzate e strategie di filmmaking, permettendoti di affinare le tue
           abilità e scoprire nuovi modi di esprimerti artisticamente.
         image:
-          url: /images/gigantic director ch.jpg
+          url: /images/a man and a woman su.jpg
           altText: Maria Walters
           styles:
             self:
