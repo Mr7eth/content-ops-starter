@@ -296,22 +296,24 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Business Consulting
+      text: Unisciti a noi!
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Non perdere l'opportunità di essere parte di un progetto creativo
+      rivoluzionario. Che tu sia un attore in cerca di nuove sfide, un regista
+      desideroso di sperimentare o un appassionato di cinema curioso di scoprire
+      il mondo del mockumentary, Mockumentary Lab è il posto giusto per te.
     actions:
-      - label: Get started
-        url: /
+      - label: Iscriviti
+        url: /contatti
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
+      - label: Vedi il programma
+        url: /blog
         showIcon: true
         icon: arrowRight
         iconPosition: right
