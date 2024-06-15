@@ -76,10 +76,12 @@ sections:
     items:
       - title: Sono un'attrice/attore
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Se sei un aspirante attrice o attore, se frequenti un'accademia di
+          recitazione o un corso di teatro, se anche solo in passato hai avuto
+          esperienza nel campo della recitazione questa esperienza è adatta a
+          te! In particolar modo se ti piace trascorrere del tempo in compagnia,
+          essere parte di un gruppo di lavoro e hai uno spirito ironico!
         colors: bg-neutral-fg-dark
         styles:
           self:
