@@ -237,7 +237,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Linktree
+        label: Vedi Linktree
         url: /
         showIcon: true
         icon: arrowRight
