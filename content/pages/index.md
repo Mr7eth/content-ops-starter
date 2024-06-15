@@ -530,7 +530,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Actors
+      - title: Attorə
         tagline: 'Max partecipanti: 14'
         subtitle: Per chi ha frequentato almeno un laboratorio teatrale
         text: >
