@@ -22,17 +22,17 @@
             "type": "Link"
         },
         {
-            "label": "Costi",
-            "url": "/pricing",
+            "label": "Programma del Corso",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Programma del Corso",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Costi",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
