@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Iscriviti alla prossima edizione!
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: 'Progetto #0: Follonica, 9-15 Settembre'
     text: >
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
