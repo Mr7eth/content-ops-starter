@@ -348,10 +348,10 @@ sections:
       - title: Impara dai Migliori
         tagline: 'Motivazione #1'
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I nostri esperti ti guideranno attraverso tecniche di improvvisazione
+          avanzate e strategie di filmmaking, permettendoti di affinare le tue
+          abilità e scoprire nuovi modi di esprimerti artisticamente.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
