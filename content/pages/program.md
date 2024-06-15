@@ -344,8 +344,16 @@ sections:
         title: Networking
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >+
+          Opportunità di networking e collaborazione con altri partecipanti e
+          professionisti del settore.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
