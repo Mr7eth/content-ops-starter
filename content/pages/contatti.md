@@ -240,7 +240,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: Residenze
         url: /
         showIcon: true
         icon: arrowRight
