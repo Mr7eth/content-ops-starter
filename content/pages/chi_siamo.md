@@ -50,8 +50,8 @@ sections:
       type: TitleBlock
     people:
       - content/data/person2.json
-      - content/data/person1.json
       - content/data/place1.json
+      - content/data/person1.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
