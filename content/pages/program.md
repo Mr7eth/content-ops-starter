@@ -231,55 +231,6 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Obiettivi del Corso
-      color: text-dark
-    subtitle: ''
-    text: >+
-      *   **Attivazione Creativa:** Stimolare la creatività attraverso esercizi
-      di improvvisazione e tecniche audiovisive.
-
-
-      *   **Collaborazione:** Promuovere la collaborazione tra attori e
-      filmmaker per sviluppare personaggi e trama in modo organico.
-
-
-      *   **Improvvisazione:** Incoraggiare l'improvvisazione durante le riprese
-      per ottenere un risultato autentico e spontaneo.
-
-
-      *   **Produzione Completa:** Guidare i partecipanti attraverso tutte le
-      fasi di produzione, dal concetto iniziale al montaggio finale.
-
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -385,6 +336,55 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Obiettivi del Corso
+      color: text-dark
+    subtitle: ''
+    text: >+
+      *   **Attivazione Creativa:** Stimolare la creatività attraverso esercizi
+      di improvvisazione e tecniche audiovisive.
+
+
+      *   **Collaborazione:** Promuovere la collaborazione tra attori e
+      filmmaker per sviluppare personaggi e trama in modo organico.
+
+
+      *   **Improvvisazione:** Incoraggiare l'improvvisazione durante le riprese
+      per ottenere un risultato autentico e spontaneo.
+
+
+      *   **Produzione Completa:** Guidare i partecipanti attraverso tutte le
+      fasi di produzione, dal concetto iniziale al montaggio finale.
+
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
 slug: /program
 seo:
   type: Seo
