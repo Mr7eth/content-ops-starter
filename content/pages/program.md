@@ -109,7 +109,7 @@ sections:
         style: secondary
       - type: Link
         label: Prenota ora
-        url: 'https://linktr.ee/MattiaMura'
+        url: /contatti
         showIcon: true
         icon: arrowRight
         iconPosition: right
