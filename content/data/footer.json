@@ -67,6 +67,13 @@
             "type": "Social"
         },
         {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/mr7eth/",
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
