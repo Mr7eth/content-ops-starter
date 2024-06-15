@@ -232,7 +232,7 @@ sections:
       posts.
     actions:
       - type: Button
-        label: Get started
+        label: Official Website
         url: /
         icon: arrowRight
         iconPosition: right
