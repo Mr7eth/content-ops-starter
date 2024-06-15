@@ -224,7 +224,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Leonarda Saffi
+      text: Villa Santa Giulia
       color: text-dark
     subtitle: Attrice e Regista Teatrale
     text: >
