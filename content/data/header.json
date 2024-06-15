@@ -1,17 +1,19 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/Mockumentary lab (1).png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Costi",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,16 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
+            "label": "Chi Siamo",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,57 +30,46 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        }
-    ],
-    "secondaryLinks": [
-        {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
+            "label": "Programma del Corso",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
+            "type": "Link"
         },
         {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "type": "SubNav",
+            "label": "Altro",
+            "altText": "",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Contattaci",
+                    "altText": "",
+                    "url": "/contatti",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Torna alla Home",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
         }
     ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"

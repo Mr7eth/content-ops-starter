@@ -4,16 +4,20 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: MOCKUMENTARY
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      styles:
+        self:
+          fontWeight: 400
+    subtitle: Laboratorio di improvvisazione attoriale e filmmaking
+    text: >+
+
+      Benvenuti al Mockumentary Lab, dove l'arte dell'improvvisazione si fonde
+      con il filmmaking per creare documentari divertenti e innovativi.
+
     actions:
-      - label: Get started
+      - label: Iscriviti
         altText: ''
         url: /
         showIcon: false
@@ -22,7 +26,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Video Presentazione
         altText: ''
         url: /
         showIcon: true
@@ -37,7 +41,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -51,183 +55,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: FeaturedItemsSection
-    title:
-      text: Key Benefits
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: Grow your business 10x faster
       color: text-dark
@@ -276,6 +103,159 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - type: FeaturedItemsSection
+    title:
+      text: Numeri del Corso
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Aperto a filmmaker e attori di tutte le età
+    items:
+      - type: FeaturedItem
+        title: 1 settimana
+        subtitle: Attività
+        text: >+
+          Il tempo di realizzazione del laboratorio e di convivenza della
+          comunità.
+
+
+          Nel corso di una settimana sperimenterai tutte le fasi produttive di
+          realizzazione di un progetto audiovisivo con uno spirito di creazione
+          innovativo che ti lascerà senza fiato.
+
+        actions: []
+        elementId: null
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+        image:
+          type: ImageBlock
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          url: /images/icon1.svg
+          styles:
+            self:
+              borderRadius: x-large
+      - title: 20 partecipanti
+        subtitle: Numero massimo
+        text: >
+          Per garantire una resa efficiente del progetto e mantenere un'alta
+          qualità di formazione e sviluppo possiamo accogliere solo un massimo
+          di 20 partecipanti. Le iscrizioni finiscono presto: sbrigati a
+          prenotare!
+        image:
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
+      - title: 'Numero #0'
+        subtitle: Primo laboratorio
+        text: >
+          Trattandosi del primo laboratorio di filmmaking e improvvisazione
+          attoriale che abbiamo sviluppato, avrai l'occasione di sperimentare
+          insieme a noi il progetto e partecipare per la prima volta ad
+          un'esperienza di creazione collettiva che ti vedrà tra i protagonisti
+          di una straordinaria avventura!
+        image:
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
+    actions:
+      - label: Partecipa!
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - subtitle: In collaborazione con
+    images:
+      - url: /images/th-2246218190.jpg
+        altText: Empathy logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/HelixLgo.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/logo-cecinema.jpg
+        altText: Contentful logo
+        type: ImageBlock
+      - altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: GenericSection
     title:
       text: Generic section with a video
@@ -319,41 +299,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title:
       text: Business Consulting
       color: text-dark
@@ -435,7 +380,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +410,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +470,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +500,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -589,21 +538,25 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Scegli il tuo percorso
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Partecipa al Lab come Filmmaker o come Attore/Attrice!
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Makers
+        tagline: 'Max partecipanti: 9'
+        subtitle: Per chi ha almeno un minimo di esperienza nel Filmmaking
+        text: >
+          Segui il Mockumentary Lab come regista, montatore, operatore di
+          ripresa, tecnico luci, tecnico audio, edizione... Nel corso di una
+          settimana avrai modo di sperimentare tutti i ruoli del cinema e
+          collaborare alla realizzazione di un finto documentario in un'ambiente
+          coinvolgente ed entusiasmante!
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Realistic photo port.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -620,13 +573,17 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Actors
+        tagline: 'Max partecipanti: 14'
+        subtitle: Per chi ha frequentato almeno un laboratorio teatrale
+        text: >
+          Diventa parte del team di attori del Laboratorio! In questo ruolo
+          avrai modo di conoscere alcune tecniche di
+          immedesimazione/improvvisazione attoriale, di costruire un personaggio
+          ed essere tra i personaggi del mockumentary creato durante il lab,
+          oltre ad essere tra i protagonisti di una performance finale live.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Realistic photo port (1).jpg
           altText: Placeholder image
           styles:
             self:
@@ -642,29 +599,13 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
+            justifyContent: flex-end
+            textAlign: right
+            margin:
+              - ml-0
+              - mr-0
+              - mt-0
+              - mb-0
         type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -680,15 +621,15 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Iscriviti alla prossima edizione!
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
+      aggiuntive o ospitare il progetto nel tuo territorio, contattaci
+      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
+      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
     media:
       fields:
         - name: name
@@ -726,14 +667,14 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Invia
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: ContatTACI
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
