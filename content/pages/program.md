@@ -319,8 +319,9 @@ sections:
         title: Esperienza Pratica
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: |+
+          Esperienza pratica in recitazione, improvvisazione, regia e montaggio.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
