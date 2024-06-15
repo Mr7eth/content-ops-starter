@@ -63,7 +63,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Unblock your team boost your time to production
+      text: Non ti piace iscriverti online?
       color: text-dark
     subtitle: Subtitle goes here
     text: >
