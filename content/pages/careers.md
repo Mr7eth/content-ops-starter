@@ -11,11 +11,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Il progetto è seguito da due diversi insegnanti: per l'audiovisivo il
-      filmmaker Mattia Mura, che accompagnerà i makers nel percorso di
-      realizzazione del documentario, dalle prime riprese fino al montaggio
-      finale, mentre per la recitazione Leonarda Saffi, che condurrà il team di
-      attori attraverso l'improvvisazione e la creazione dei personaggi.
+      Il progetto è condotto da due esperti: per l'audiovisivo il filmmaker
+      Mattia Mura, che accompagnerà i makers nel percorso di realizzazione del
+      documentario, dalle prime riprese fino al montaggio finale, mentre per la
+      recitazione Leonarda Saffi, che condurrà il team di attori attraverso
+      l'improvvisazione e la creazione dei personaggi.
     actions: []
     colors: bg-neutral-fg-dark
     styles:
@@ -51,6 +51,7 @@ sections:
     people:
       - content/data/person1.json
       - content/data/person2.json
+      - content/data/place1.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -73,7 +74,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: Account Executive
+      - title: Sono un'attrice/attore
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -92,7 +93,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
+      - title: Sono un filmmaker/videomaker
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -110,23 +111,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-        type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
         type: FeaturedItem
     actions:
       - label: Iscriviti ora
