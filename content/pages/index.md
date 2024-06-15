@@ -431,7 +431,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Proiezione Finale
-        tagline: Testimonial 4
+        tagline: 'Motivazione #4'
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
