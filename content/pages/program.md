@@ -102,7 +102,7 @@ sections:
       generare nuovi legami e ulteriori progetti.
     actions:
       - type: Button
-        label: Official Website
+        label: Vedi prezzi
         url: 'https://www.mattiamuravannuzzi.com/'
         icon: arrowRight
         iconPosition: right
