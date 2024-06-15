@@ -85,7 +85,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: '@Mr7eth'
         altText: ''
         url: 'https://www.instagram.com/mr7eth/'
         showIcon: false
