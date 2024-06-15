@@ -342,7 +342,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Networking
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           Opportunità di networking e collaborazione con altri partecipanti e
