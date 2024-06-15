@@ -292,8 +292,8 @@ sections:
     items:
       - type: FeaturedItem
         title: Mockumentary Finito
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: |+
           ### Un mockumentary completo, pronto per la proiezione.
 
