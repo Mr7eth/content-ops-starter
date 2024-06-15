@@ -626,7 +626,7 @@ sections:
         type: SubmitButtonFormControl
         label: Invia
         showIcon: true
-        icon: arrowRight
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: null
