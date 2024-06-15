@@ -36,7 +36,7 @@ sections:
     media:
       url: /images/a  young filmmaker s.jpg
       altText: Unblock your team boost your time to production preview
-      elementId: ''
+      elementId: contatti2
       type: ImageBlock
     badge:
       label: ''
