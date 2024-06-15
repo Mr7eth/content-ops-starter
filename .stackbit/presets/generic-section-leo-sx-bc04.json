@@ -1,0 +1,76 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Leo SX",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Sezione Info e Contatti"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Leonarda Saffi",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "Attrice e Regista Teatrale",
+                "text": "A service that helps businesses to manage their social media accounts and posts.\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Get started",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "See Tutorials",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null
+                    }
+                ],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/hero2.svg",
+                        "$$type": "__image_model"
+                    },
+                    "altText": "Fun feature preview",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "Approfondimenti e Contatti",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-leo-sx-bc04.png"
+        }
+    ]
+}
