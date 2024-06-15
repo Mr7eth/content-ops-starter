@@ -151,7 +151,7 @@ sections:
           di 20 partecipanti. Le iscrizioni finiscono presto: sbrigati a
           prenotare!
         image:
-          url: /images/icon2.svg
+          url: /images/aerial view of a cir.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
