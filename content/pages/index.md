@@ -298,7 +298,7 @@ sections:
       text: Unisciti a noi!
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Be in good company ;)
     text: >
       Non perdere l'opportunità di essere parte di un progetto creativo
       rivoluzionario. Che tu sia un attore in cerca di nuove sfide, un regista
