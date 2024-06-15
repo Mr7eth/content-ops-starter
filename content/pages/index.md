@@ -11,15 +11,13 @@ sections:
         self:
           fontWeight: 400
     subtitle: Laboratorio di improvvisazione attoriale e filmmaking
-    text: >+
-
+    text: >
       Benvenuti al Mockumentary Lab, dove l'arte dell'improvvisazione si fonde
       con il filmmaking per creare documentari divertenti e innovativi.
-
     actions:
       - label: Iscriviti
         altText: ''
-        url: /
+        url: /Contatti
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -147,7 +145,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20 partecipanti
+      - title: 20 iscritti
         subtitle: Numero massimo
         text: >
           Per garantire una resa efficiente del progetto e mantenere un'alta
@@ -173,7 +171,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 'Numero #0'
+      - title: 'Progetto #0'
         subtitle: Primo laboratorio
         text: >
           Trattandosi del primo laboratorio di filmmaking e improvvisazione
@@ -201,7 +199,7 @@ sections:
     actions:
       - label: Partecipa!
         altText: ''
-        url: /
+        url: /contatti
         showIcon: false
         icon: arrowRight
         iconPosition: right
