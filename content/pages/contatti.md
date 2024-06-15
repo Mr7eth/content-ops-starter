@@ -192,7 +192,7 @@ sections:
       type: TitleBlock
       text: Leonarda Saffi
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Attrice e Regista Teatrale
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
