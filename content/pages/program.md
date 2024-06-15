@@ -65,7 +65,7 @@ sections:
       dell'audiovisivo.
 
 
-      *   **Tutor Attori:** Guida alle attività di improvvisazione,
+      *   **Tutor Attorə: **Guida alle attività di improvvisazione,
       interpretazione del personaggio e performance.
 
     actions: []
