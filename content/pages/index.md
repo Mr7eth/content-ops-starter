@@ -433,10 +433,10 @@ sections:
       - title: Proiezione Finale
         tagline: 'Motivazione #4'
         subtitle: La soddisfazione del risultato
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Al termine del laboratorio, vedrai il frutto del tuo lavoro proiettato
+          su grande schermo, con una discussione finale che ti permetterà di
+          riflettere sull'esperienza e imparare ancora di più.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
