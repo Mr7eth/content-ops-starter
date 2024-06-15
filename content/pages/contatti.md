@@ -235,7 +235,7 @@ sections:
     actions:
       - type: Button
         label: Official Website
-        url: /
+        url: 'https://www.villasantagiulia.it/'
         icon: arrowRight
         iconPosition: right
         style: secondary
