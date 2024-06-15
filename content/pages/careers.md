@@ -1,5 +1,5 @@
 ---
-title: Insegnanti
+title: Chi Siamo
 slug: careers
 sections:
   - title:
