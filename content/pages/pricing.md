@@ -3,32 +3,31 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: 'Costi del Progetto #0'
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Prezzi del primo laboratorio. Non saranno mai più così bassi!
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Solo Lab
+        price: '320,00 €'
+        details: 'Fino al 30 Luglio 2024, poi 350,00 €'
+        description: >
+          Comprende una settimana di Laboratorio come parte del team Filmmaking
+          o Recitazione.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Una settimana di attività intensiva
+          - Supervisione di due insegnanti esperti
+          - Restituzione live del lavoro svolto
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
+          - label: Iscriviti
+            url: /Contatti
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -43,24 +42,28 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Lab + Ospitalità
+        price: '420,00 €'
+        details: 'Fino al 30 Luglio 2024, poi 450,00 €'
+        description: >+
+          Comprende una settimana di Laboratorio come parte del team Filmmaking
+          o Recitazione + alloggio in una villa lussuosa della campagna toscana
+          in camera multipla con cucina.
+
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Una settimana di intensivo completo
+          - Supervisione di due insegnanti esperti
+          - Creazione di una comunità artistica
+          - Feedback e suggerimenti sul proprio percorso
+          - Restituzione live del lavoro svolto
+          - Accesso ad un antica Villa toscana con giardino
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
+          - label: Iscriviti
+            url: /Contatti
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -75,25 +78,22 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+      - title: Nuovi progetti
+        price: Da decidere
+        details: ''
+        description: >
+          Se sei un operatore culturale, un amministrazione locale, un
+          organizzatore di festival e vuoi ospitare il progetto nel tuo
+          territorio, contattaci per organizzare insieme una nuova data di
+          Mockumentary Lab!
+        features: []
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
-            url: /
+          - label: Contattaci
+            url: /Contatti
             icon: arrowRight
             iconPosition: right
             style: secondary
