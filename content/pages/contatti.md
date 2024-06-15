@@ -248,7 +248,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/villa-santa-giuliabb.jpg
+      url: /images/palme-1(1)_normal.webp
       altText: Fun feature preview
     badge:
       type: Badge
