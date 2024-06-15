@@ -54,18 +54,23 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Grow your business 10x faster
+      text: Cosa è Mockumentary Lab?
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >+
+      Mockumentary Lab è un'esperienza unica di 7 giorni, pensata per attori,
+      registi e appassionati di cinema che vogliono esplorare il mondo del
+      mockumentary. Con noi, non c'è una trama predefinita: il tuo talento e la
+      tua creatività daranno vita a storie autentiche e coinvolgenti. In
+      un'atmosfera collaborativa e dinamica, imparerai a creare personaggi
+      indimenticabili e a costruire narrazioni che lasceranno il segno.
+
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -86,13 +91,6 @@ sections:
       autoplay: true
       loop: true
       muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
@@ -345,17 +343,15 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Perchè Partecipare?
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Impara dai Migliori
+        tagline: 'Motivazione #1'
+        subtitle: '2 professionisti, 1 progetto collettivo'
+        text: >
+          I nostri esperti ti guideranno attraverso tecniche di improvvisazione
+          avanzate e strategie di filmmaking, permettendoti di affinare le tue
+          abilità e scoprire nuovi modi di esprimerti artisticamente.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -377,15 +373,13 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Crea in Libertà
+        tagline: 'Motivazione #2'
+        subtitle: Un'idea che si trasforma con te
+        text: >
+          Senza una sceneggiatura rigida, avrai la libertà di esplorare e
+          sperimentare, creando personaggi e storie che rispecchiano la tua
+          visione unica.
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
@@ -407,15 +401,14 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Collabora e Cresci
+        tagline: 'Motivazione #3'
+        subtitle: Lavora e vivi in team per una settimana
+        text: >+
+          Lavora fianco a fianco con altri artisti appassionati, scambiando idee
+          e costruendo insieme un progetto che è più della somma delle sue parti
+          in alcuni dei luoghi più belli della Toscana
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -437,15 +430,13 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Proiezione Finale
+        tagline: 'Motivazione #4'
+        subtitle: La soddisfazione del risultato
+        text: >
+          Al termine del laboratorio, vedrai il frutto del tuo lavoro proiettato
+          su grande schermo, con una discussione finale che ti permetterà di
+          riflettere sull'esperienza e imparare ancora di più.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -467,15 +458,15 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Divertiti attraverso un viaggio surreale
+        tagline: 'Motivazione #5'
+        subtitle: Esperienza immersiva
+        text: >
+          Il progetto ha un taglio ironico e originale che ti trasporterà in una
+          dimensione coinvolgente e surreale, toccando alcune location
+          mozzafiato che ti entusiasmeranno. Nonostante l'attività intensiva, ti
+          troverai in un ambiente molto più piacevole rispetto alla vita
+          quotidiana!
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
