@@ -440,7 +440,7 @@ sections:
           su grande schermo, con una discussione finale che ti permetterà di
           riflettere sull'esperienza e imparare ancora di più.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/a screening in a cro.jpg
           altText: Maria Walters
           styles:
             self:
