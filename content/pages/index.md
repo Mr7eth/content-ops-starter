@@ -355,7 +355,7 @@ sections:
           avanzate e strategie di filmmaking, permettendoti di affinare le tue
           abilità e scoprire nuovi modi di esprimerti artisticamente.
         image:
-          url: /images/a man and a woman su.jpg
+          url: /images/portrait of a couple.jpg
           altText: Maria Walters
           styles:
             self:
