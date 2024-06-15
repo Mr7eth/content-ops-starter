@@ -261,12 +261,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |
+    text: |+
       Mattia Mura & Leonarda Saffi spiegano il Mockumentary Lab in due minuti
 
+      \- Work in progress -
 
-
-      Work in progress
     actions: []
     media:
       title: Title of the video
