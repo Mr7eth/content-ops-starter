@@ -231,7 +231,7 @@ sections:
     text: "La vita si presenta sotto forma di racconto. Scopriamo il tuo!\n\nAumentare la consapevolezza del pubblico attraverso progetti innovativi e, nel percorso, migliorare\_la vita delle persone.\n"
     actions:
       - type: Button
-        label: Get started
+        label: Official Website
         url: /
         icon: arrowRight
         iconPosition: right
