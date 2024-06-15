@@ -238,7 +238,7 @@ sections:
         style: secondary
       - type: Link
         label: Vedi Linktree
-        url: /
+        url: 'https://linktr.ee/MattiaMura'
         showIcon: true
         icon: arrowRight
         iconPosition: right
