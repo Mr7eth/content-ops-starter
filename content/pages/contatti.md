@@ -307,7 +307,7 @@ sections:
         tagline: ''
         subtitle: Ancora da definire
         text: |
-          Follow the tutorial to build your first awesome Netlify site.
+          Contattaci per organizzare insieme una nuova data di Mockumentary Lab!
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
