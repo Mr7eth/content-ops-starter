@@ -11,11 +11,10 @@ sections:
         self:
           textAlign: center
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Il corso è diviso in due sezioni: il programma Makers, per individui
+      interessati allo sviluppo audiovisivo e il programma Attori, per individui
+      interessati al lavoro di improvvisazione attoriale.
     actions: []
     media:
       type: VideoBlock
