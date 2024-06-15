@@ -460,7 +460,7 @@ sections:
         type: FeaturedItem
       - title: Divertiti attraverso un viaggio surreale
         tagline: 'Motivazione #5'
-        subtitle: 'Jane Walters, Company'
+        subtitle: Esperienza immersiva
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
