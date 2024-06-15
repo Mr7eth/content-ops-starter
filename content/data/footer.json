@@ -61,17 +61,17 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "type": "Social",
             "altText": "Instagram link",
             "url": "https://www.instagram.com/mr7eth/",
             "icon": "instagram",
             "elementId": ""
+        },
+        {
+            "altText": "GitHub link",
+            "url": "https://github.com/netlify",
+            "icon": "github",
+            "type": "Social"
         },
         {
             "altText": "Twitter link",
