@@ -318,7 +318,7 @@ sections:
       - type: FeaturedItem
         title: Esperienza Pratica
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |+
           Esperienza pratica in recitazione, improvvisazione, regia e montaggio.
 
