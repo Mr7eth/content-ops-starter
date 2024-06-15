@@ -334,7 +334,7 @@ sections:
           Learn from the tutorial and build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/logo-cecinema.jpg
+          url: /images/logo (1).jpg
           altText: Placeholder image
           styles:
             self:
