@@ -309,7 +309,7 @@ sections:
         style: secondary
         type: Button
       - label: Vedi il programma
-        url: /blog
+        url: /program
         showIcon: true
         icon: arrowRight
         iconPosition: right
