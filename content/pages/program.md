@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     text: >
       Il corso è diviso in due sezioni: il programma Makers, per individui
-      interessati allo sviluppo audiovisivo e il programma Attori, per individui
+      interessati allo sviluppo audiovisivo e il programma Attorə, per individui
       interessati al lavoro di improvvisazione attoriale.
     actions: []
     media:
