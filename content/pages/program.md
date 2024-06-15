@@ -103,7 +103,7 @@ sections:
     actions:
       - type: Button
         label: Vedi prezzi
-        url: 'https://www.mattiamuravannuzzi.com/'
+        url: /pricing
         icon: arrowRight
         iconPosition: right
         style: secondary
