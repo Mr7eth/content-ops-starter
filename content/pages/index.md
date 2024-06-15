@@ -383,7 +383,7 @@ sections:
           sperimentare, creando personaggi e storie che rispecchiano la tua
           visione unica.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/excited funny person.jpg
           altText: John Doe
           styles:
             self:
