@@ -1,28 +1,22 @@
 ---
-title: Careers
+title: Insegnanti
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Conosci il nostro team
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+      Il progetto è seguito da due diversi insegnanti: per l'audiovisivo il
+      filmmaker Mattia Mura, che accompagnerà i makers nel percorso di
+      realizzazione del documentario, dalle prime riprese fino al montaggio
+      finale, mentre per la recitazione Leonarda Saffi, che condurrà il team di
+      attori attraverso l'improvvisazione e la creazione dei personaggi.
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -57,10 +51,6 @@ sections:
     people:
       - content/data/person1.json
       - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -139,7 +129,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Apply now
+      - label: Iscriviti ora
         url: /
         icon: arrowRight
         iconPosition: right
