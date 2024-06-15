@@ -60,7 +60,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >+
       Mockumentary Lab è un'esperienza unica di 7 giorni, pensata per attori,
       registi e appassionati di cinema che vogliono esplorare il mondo del
