@@ -19,7 +19,7 @@
             {
                 "label": "Programma del corso",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/program",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
