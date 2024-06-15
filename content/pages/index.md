@@ -306,7 +306,7 @@ sections:
       desideroso di sperimentare o un appassionato di cinema curioso di scoprire
       il mondo del mockumentary, Mockumentary Lab è il posto giusto per te.
     actions:
-      - label: Get started
+      - label: Iscriviti
         url: /
         icon: arrowRight
         iconPosition: right
