@@ -312,7 +312,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Vedi il programma
         url: /
         showIcon: true
         icon: arrowRight
