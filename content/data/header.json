@@ -15,7 +15,7 @@
         {
             "label": "Chi Siamo",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/chi_siamo",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
