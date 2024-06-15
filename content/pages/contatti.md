@@ -67,9 +67,13 @@ sections:
       color: text-dark
     subtitle: Subtitle goes here
     text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I nostri social sono ancora in costruzione, si attiveranno dopo il
+      Progetto #0.
+
+
+
+      Intanto puoi trovarci su Instagram e Facebook sui nostri account
+      personali!
     actions:
       - type: Button
         label: Get started
