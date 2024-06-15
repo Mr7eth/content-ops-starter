@@ -74,6 +74,13 @@
             "type": "Social"
         },
         {
+            "type": "Social",
+            "altText": "Vimeo link",
+            "url": "https://vimeo.com/mattiamura",
+            "icon": "vimeo",
+            "elementId": ""
+        },
+        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
