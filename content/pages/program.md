@@ -108,7 +108,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: Vedi Linktree
+        label: Prenota ora
         url: 'https://linktr.ee/MattiaMura'
         showIcon: true
         icon: arrowRight
