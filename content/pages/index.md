@@ -61,11 +61,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Mockumentary Lab è un'esperienza unica di 7 giorni, pensata per attori,
+      registi e appassionati di cinema che vogliono esplorare il mondo del
+      mockumentary. Con noi, non c'è una trama predefinita: il tuo talento e la
+      tua creatività daranno vita a storie autentiche e coinvolgenti. In
+      un'atmosfera collaborativa e dinamica, imparerai a creare personaggi
+      indimenticabili e a costruire narrazioni che lasceranno il segno.
+
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
