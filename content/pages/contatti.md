@@ -65,7 +65,7 @@ sections:
       type: TitleBlock
       text: I nostri social
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       I nostri social sono ancora in costruzione, si attiveranno dopo il
       Progetto #0.
