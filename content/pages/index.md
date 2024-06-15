@@ -61,16 +61,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       Mockumentary Lab è un'esperienza unica di 7 giorni, pensata per attori,
-      registi e appassionati di cinema che vogliono esplorare il mondo del
-      mockumentary. Con noi, non c'è una trama predefinita: il tuo talento e la
+      registi e appassionati di cinema che vogliano esplorare il mondo del
+      mockumentary. Con noi non c'è una trama predefinita: il tuo talento e la
       tua creatività daranno vita a storie autentiche e coinvolgenti. In
       un'atmosfera collaborativa e dinamica, imparerai a creare personaggi
       indimenticabili e a costruire narrazioni che lasceranno il segno.
-
-
-
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -298,7 +295,7 @@ sections:
       text: Unisciti a noi!
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Be in good company ;)
     text: >
       Non perdere l'opportunità di essere parte di un progetto creativo
       rivoluzionario. Che tu sia un attore in cerca di nuove sfide, un regista
@@ -312,7 +309,7 @@ sections:
         style: secondary
         type: Button
       - label: Vedi il programma
-        url: /blog
+        url: /program
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -533,7 +530,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Actors
+      - title: Attorə
         tagline: 'Max partecipanti: 14'
         subtitle: Per chi ha frequentato almeno un laboratorio teatrale
         text: >
@@ -628,8 +625,8 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Invia
-        showIcon: false
-        icon: arrowRight
+        showIcon: true
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: null
