@@ -78,7 +78,7 @@ sections:
       - type: Button
         label: '@LeonardaSaffi'
         altText: ''
-        url: /
+        url: 'https://www.instagram.com/leonardasaffi/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
