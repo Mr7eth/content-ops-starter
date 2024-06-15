@@ -126,7 +126,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: Per contattarci
       color: text-dark
       styles:
         self:
