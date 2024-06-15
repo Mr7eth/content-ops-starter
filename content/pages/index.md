@@ -470,7 +470,7 @@ sections:
           troverai in un ambiente molto più piacevole rispetto alla vita
           quotidiana!
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/gigantic director ch.jpg
           altText: Maria Walters
           styles:
             self:
