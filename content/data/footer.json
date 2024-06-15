@@ -9,17 +9,17 @@
         "title": "Programma",
         "links": [
             {
-                "label": "Programma del corso",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Introduzione",
+                "url": "/Contatti",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Introduzione",
-                "url": "/Contatti",
+                "label": "Programma del corso",
+                "altText": "Features page",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
