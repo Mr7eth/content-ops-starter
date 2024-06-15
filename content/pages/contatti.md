@@ -232,7 +232,7 @@ sections:
     actions:
       - type: Button
         label: Official Website
-        url: www.
+        url: 'https://www.mattiamuravannuzzi.com/'
         icon: arrowRight
         iconPosition: right
         style: secondary
