@@ -10,33 +10,12 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Il corso è diviso in due sezioni: il programma Makers, per individui
+      interessati allo sviluppo audiovisivo e il programma Attorə, per individui
+      interessati al lavoro di improvvisazione attoriale.
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
       label: Mockumentary lab
@@ -54,32 +33,39 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Unblock your team boost your time to production
+      text: Programma di massima
       color: text-dark
     subtitle: Subtitle goes here
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    text: >+
+      **Durata:** 7 giorni
+
+
+      **Arrivo:** Lunedì 9 Settembre in Giornata
+
+
+      Si inizia da Martedì 10 Settembre
+
+
+      **Orario delle sessioni:**
+
+
+      *   **Mattina:** 9:00 - 12:30
+
+
+      *   **Pomeriggio:** 14:00 - 19:00
+
+
+      #### Divisione dei Tutor:
+
+
+      *   **Tutor "Makers" (Tecnici e Filmmaker):** Guida alla realizzazione
+      dell'audiovisivo.
+
+
+      *   **Tutor Attori:** Guida alle attività di improvvisazione,
+      interpretazione del personaggio e performance.
+
+    actions: []
     media:
       type: ImageBlock
       url: /images/main-hero.svg
