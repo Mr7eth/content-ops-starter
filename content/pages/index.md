@@ -373,9 +373,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+      - title: Crea in Libertà
         tagline: 'Motivazione #2'
         subtitle: 'John Doe, Company'
         text: >-
