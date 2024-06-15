@@ -375,7 +375,7 @@ sections:
         type: FeaturedItem
       - title: Crea in Libertà
         tagline: 'Motivazione #2'
-        subtitle: 'John Doe, Company'
+        subtitle: Un'idea che si trasforma con te
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
