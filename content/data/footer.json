@@ -41,7 +41,7 @@
         "links": [
             {
                 "label": "Chi siamo",
-                "altText": "careers page",
+                "altText": "chi_siamo page",
                 "url": "/chi_siamo",
                 "icon": "arrowRight",
                 "iconPosition": "right",
