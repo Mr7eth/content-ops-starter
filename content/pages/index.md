@@ -54,7 +54,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Grow your business 10x faster
+      text: Cosa è Mockumentary Lab?
       color: text-dark
       styles:
         self:
