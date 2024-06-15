@@ -210,7 +210,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/parkany-hidorseg-kezdo.jpg
       altText: Dope design preview
     badge:
       type: Badge
