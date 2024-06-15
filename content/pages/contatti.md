@@ -131,7 +131,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >+
       \<div style="text-align: center">La soluzione migliore è il modulo di
       riferimento, ma laddove non fosse possibile puoi trovarci sui nostri
