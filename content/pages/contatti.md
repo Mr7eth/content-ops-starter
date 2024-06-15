@@ -279,7 +279,7 @@ sections:
     subtitle: Prossimi Workshop di Mockumentary Lab o eventi correlati
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: 'MockumentaryLab #0'
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
