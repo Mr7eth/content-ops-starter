@@ -260,7 +260,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: |
       Mattia Mura & Leonarda Saffi spiegano il Mockumentary Lab in due minuti
     actions: []
