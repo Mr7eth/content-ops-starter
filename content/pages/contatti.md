@@ -304,7 +304,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: 'MockumentaryLab #1'
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Ancora da definire
         text: |
           Follow the tutorial to build your first awesome Netlify site.
