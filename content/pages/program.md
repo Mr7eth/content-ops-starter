@@ -92,7 +92,14 @@ sections:
       text: Villa Santa Giulia
       color: text-dark
     subtitle: ''
-    text: "La vita si presenta sotto forma di racconto. Scopriamo il tuo!\n\nAumentare la consapevolezza del pubblico attraverso progetti innovativi e, nel percorso, migliorare\_la vita delle persone.\n"
+    text: >
+      L'opzione Laboratorio + Pernottamento permette di trascorrere una
+      settimana in Toscana in un ambiente pulito e ordinato insieme alla
+      comunità del laboratorio. Le stanze (da 4 o 5 persone, dotate di cucina e
+      letti singoli o doppi) permettono di costruire un'interazione comunitaria
+      più approfondita, di continuare le ricerche e le riflessioni anche fuori
+      dall'orario laboratoriale e di costruire un'esperienza completa capace di
+      generare nuovi legami e ulteriori progetti.
     actions:
       - type: Button
         label: Official Website
