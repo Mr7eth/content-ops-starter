@@ -1,4 +1,3 @@
----
 title: Home
 slug: /
 sections:
@@ -16,33 +15,33 @@ sections:
       con il filmmaking per creare documentari divertenti e innovativi.
     actions:
       - label: Iscriviti
-        altText: ""
+        altText: ''
         url: /Contatti
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: ""
+        elementId: ''
         type: Button
       - label: Video Presentazione
-        altText: ""
+        altText: ''
         url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ""
+        elementId: ''
         type: Link
     media:
-      url: /images/a_young_filmmaker.jpg
+      url: /images/a  young filmmaker s.jpg
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
     badge:
-      label: ""
+      label: ''
       color: text-primary
       type: Badge
-    elementId: ""
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
@@ -60,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ""
+    subtitle: ''
     text: >
       Mockumentary Lab è un'esperienza unica di 7 giorni, pensata per attori,
       registi e appassionati di cinema che vogliano esplorare il mondo del
@@ -72,7 +71,7 @@ sections:
       title: Title of the video
       url: /images/placeholder-video.mp4
       controls: false
-      aspectRatio: 16:9
+      aspectRatio: '16:9'
       styles:
         self:
           padding:
@@ -109,8 +108,15 @@ sections:
       - type: FeaturedItem
         title: 1 settimana
         subtitle: Attività
-        text: >
-          Il tempo di realizzazione del laboratorio e di convivenza della comunità.
+        text: >+
+          Il tempo di realizzazione del laboratorio e di convivenza della
+          comunità.
+
+
+          Nel corso di una settimana sperimenterai tutte le fasi produttive di
+          realizzazione di un progetto audiovisivo con uno spirito di creazione
+          innovativo che ti lascerà senza fiato.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -128,7 +134,7 @@ sections:
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
-          elementId: ""
+          elementId: ''
           url: /images/icon3.svg
           styles:
             self:
@@ -136,13 +142,14 @@ sections:
       - title: 20 iscritti
         subtitle: Numero massimo
         text: >
-          Per garantire una resa efficiente del progetto e mantenere un'alta qualità
-          di formazione e sviluppo possiamo accogliere solo un massimo di 20
-          partecipanti. Le iscrizioni finiscono presto: sbrigati a prenotare!
+          Per garantire una resa efficiente del progetto e mantenere un'alta
+          qualità di formazione e sviluppo possiamo accogliere solo un massimo
+          di 20 partecipanti. Le iscrizioni finiscono presto: sbrigati a
+          prenotare!
         image:
           url: /images/icon2.svg
           altText: Featured icon two
-          elementId: ""
+          elementId: ''
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
@@ -157,7 +164,8 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
-      - title: "Progetto #0"
+        type: FeaturedItem
+      - title: 'Progetto #0'
         subtitle: Primo laboratorio
         text: >
           Trattandosi del primo laboratorio di filmmaking e improvvisazione
@@ -168,7 +176,7 @@ sections:
         image:
           url: /images/icon1.svg
           altText: Featured icon three
-          elementId: ""
+          elementId: ''
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
@@ -181,17 +189,18 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+        type: FeaturedItem
     actions:
       - label: Partecipa!
-        altText: ""
+        altText: ''
         url: /contatti
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ""
+        elementId: ''
         type: Button
-    elementId: ""
+    elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -212,7 +221,7 @@ sections:
       - type: ImageBlock
         url: /images/HelixLgo.png
         altText: Image alt text placeholder
-        elementId: ""
+        elementId: ''
         styles:
           self:
             borderRadius: medium
@@ -247,7 +256,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: ""
+    subtitle: ''
     text: |
       Mattia Mura & Leonarda Saffi raccontano il Mockumentary Lab in due minuti
 
@@ -260,7 +269,7 @@ sections:
       loop: true
       muted: true
       controls: false
-      aspectRatio: 16:9
+      aspectRatio: '16:9'
       styles:
         self:
           padding:
@@ -310,7 +319,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: ""
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -334,8 +343,8 @@ sections:
     subtitle: Perchè Partecipare?
     items:
       - title: Impara dai Migliori
-        tagline: "Motivazione #1"
-        subtitle: 2 professionisti, 1 progetto collettivo
+        tagline: 'Motivazione #1'
+        subtitle: '2 professionisti, 1 progetto collettivo'
         text: >
           I nostri esperti ti guideranno attraverso tecniche di improvvisazione
           avanzate e strategie di filmmaking, permettendoti di affinare le tue
@@ -362,7 +371,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Crea in Libertà
-        tagline: "Motivazione #2"
+        tagline: 'Motivazione #2'
         subtitle: Un'idea che si trasforma con te
         text: >
           Senza una sceneggiatura rigida, avrai la libertà di esplorare e
@@ -390,11 +399,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Collabora e Cresci
-        tagline: "Motivazione #3"
+        tagline: 'Motivazione #3'
         subtitle: Lavora e vivi in team per una settimana
         text: >+
-          Lavora fianco a fianco con altri artisti appassionati, scambiando idee e
-          costruendo insieme un progetto che è più della somma delle sue parti
+          Lavora fianco a fianco con altri artisti appassionati, scambiando idee
+          e costruendo insieme un progetto che è più della somma delle sue parti
           in alcuni dei luoghi più belli della Toscana
 
         image:
@@ -419,11 +428,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Proiezione Finale
-        tagline: "Motivazione #4"
+        tagline: 'Motivazione #4'
         subtitle: La soddisfazione del risultato
         text: >
-          Al termine del laboratorio, vedrai il frutto del tuo lavoro proiettato su
-          grande schermo, con una discussione finale che ti permetterà di
+          Al termine del laboratorio, vedrai il frutto del tuo lavoro proiettato
+          su grande schermo, con una discussione finale che ti permetterà di
           riflettere sull'esperienza e imparare ancora di più.
         image:
           url: /images/a screening in a cro.jpg
@@ -447,7 +456,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Divertiti attraverso un viaggio surreale
-        tagline: "Motivazione #5"
+        tagline: 'Motivazione #5'
         subtitle: Esperienza immersiva
         text: >
           Il progetto ha un taglio ironico e originale che ti trasporterà in una
@@ -494,14 +503,14 @@ sections:
     subtitle: Partecipa al Lab come Filmmaker o come Attore/Attrice!
     items:
       - title: Makers
-        tagline: "Max partecipanti: 9"
+        tagline: 'Max partecipanti: 9'
         subtitle: Per chi ha almeno un minimo di esperienza nel Filmmaking
         text: >
-          Segui il Mockumentary Lab come regista, montatore, operatore di ripresa,
-          tecnico luci, tecnico audio, edizione... Nel corso di una settimana
-          avrai modo di sperimentare tutti i ruoli del cinema e collaborare alla
-          realizzazione di un finto documentario in un'ambiente coinvolgente ed
-          entusiasmante!
+          Segui il Mockumentary Lab come regista, montatore, operatore di
+          ripresa, tecnico luci, tecnico audio, edizione... Nel corso di una
+          settimana avrai modo di sperimentare tutti i ruoli del cinema e
+          collaborare alla realizzazione di un finto documentario in un'ambiente
+          coinvolgente ed entusiasmante!
         image:
           url: /images/Realistic photo port.jpg
           altText: Placeholder Image
@@ -521,14 +530,14 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Attorə
-        tagline: "Max partecipanti: 14"
+        tagline: 'Max partecipanti: 14'
         subtitle: Per chi ha frequentato almeno un laboratorio teatrale
         text: >
-          Diventa parte del team di attori del Laboratorio! In questo ruolo avrai
-          modo di conoscere alcune tecniche di immedesimazione/improvvisazione
-          attoriale, di costruire un personaggio ed essere tra i personaggi del
-          mockumentary creato durante il lab, oltre ad essere tra i protagonisti
-          di una performance finale live.
+          Diventa parte del team di attori del Laboratorio! In questo ruolo
+          avrai modo di conoscere alcune tecniche di
+          immedesimazione/improvvisazione attoriale, di costruire un personaggio
+          ed essere tra i personaggi del mockumentary creato durante il lab,
+          oltre ad essere tra i protagonisti di una performance finale live.
         image:
           url: /images/Realistic photo port (1).jpg
           altText: Placeholder image
@@ -565,22 +574,19 @@ sections:
           - pr-8
         justifyContent: center
       subtitle:
-        textAlign: center
-      text:
-        textAlign: left
-        color: text-dark
-type:
-  - title:
-      text: Iscriviti alla prossima edizione
-      color: text-dark
-      type: TitleBlock
-      subtitle: ""
-    text: >
-      Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
-      aggiuntive o ospitare il progetto nel tuo territorio, contattaci
-      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
-      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
-      media:
+textAlign: center
+type: FeaturedItemsSection
+- title:
+    text: Iscriviti alla prossima edizione!
+    color: text-dark
+    type: TitleBlock
+  subtitle: ''
+  text: >
+    Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
+    aggiuntive o ospitare il progetto nel tuo territorio, contattaci
+    attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
+    l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
+  media:
     fields:
       - name: name
         label: Name
@@ -616,21 +622,23 @@ type:
         borderRadius: large
     type: FormBlock
     data-netlify: true
-submitButton:
-  type: SubmitButtonFormControl
-  label: Invia
-  showIcon: true
-  icon: chevronRight
-  iconPosition: right
-  style: primary
-  elementId: null
+  submitButton:
+    type: SubmitButtonFormControl
+    label: Invia
+    showIcon: true
+    icon: chevronRight
+    iconPosition: right
+    style: primary
+    elementId: null
 badge:
   label: ContatTACI
   color: text-primary
   type: Badge
-  colors: bg-light-fg-dark
+colors: bg-light-fg-dark
+type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
+type: PageLayout
