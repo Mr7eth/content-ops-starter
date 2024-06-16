@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/a  young filmmaker s.jpg
+      url: /images/a young filmmaker s.jpg
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
