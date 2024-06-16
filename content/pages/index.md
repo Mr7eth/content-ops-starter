@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 400
+          fontWeight: 300
     subtitle: Laboratorio di improvvisazione attoriale e filmmaking
     text: >
       Benvenuti al Mockumentary Lab, dove l'arte dell'improvvisazione si fonde
@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Iscriviti
         altText: ''
-        url: /contatti
+        url: /Contatti
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -575,67 +575,68 @@ sections:
           - pr-8
         justifyContent: center
       subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
-      text: Iscriviti alla prossima edizione!
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
-      aggiuntive o ospitare il progetto nel tuo territorio, contattaci
-      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
-      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Invia
-        showIcon: true
-        icon: chevronRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: ContatTACI
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
+textAlign: center
+type: FeaturedItemsSection
+- title:
+    text: Iscriviti alla prossima edizione!
+    color: text-dark
+    type: TitleBlock
+  subtitle: ''
+  text: >
+    Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
+    aggiuntive o ospitare il progetto nel tuo territorio, contattaci
+    attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
+    l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
+  media:
+    fields:
+      - name: name
+        label: Name
+        hideLabel: true
+        placeholder: Your name
+        isRequired: true
+        width: full
+        type: TextFormControl
+      - name: email
+        label: Email
+        hideLabel: true
+        placeholder: Your email
+        isRequired: true
+        width: full
+        type: EmailFormControl
+      - name: message
+        label: Message
+        hideLabel: true
+        placeholder: Your message
+        width: full
+        type: TextareaFormControl
+    elementId: contact-form
+    styles:
+      self:
+        padding:
+          - pt-6
+          - pb-6
+          - pl-6
+          - pr-6
+        borderColor: border-dark
+        borderStyle: solid
+        borderWidth: 1
+        borderRadius: large
+    type: FormBlock
+    data-netlify: true
+  submitButton:
+    type: SubmitButtonFormControl
+    label: Invia
+    showIcon: true
+    icon: chevronRight
+    iconPosition: right
+    style: primary
+    elementId: null
+badge:
+  label: ContatTACI
+  color: text-primary
+  type: Badge
+colors: bg-light-fg-dark
+type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
