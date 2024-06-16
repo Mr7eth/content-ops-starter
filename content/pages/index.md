@@ -175,7 +175,7 @@ sections:
           un'esperienza di creazione collettiva che ti vedrà tra i protagonisti
           di una straordinaria avventura!
         image:
-          url: /images/a screening in a cin.jpg
+          url: /images/icon1.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
