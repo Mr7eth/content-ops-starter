@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 400
+          fontWeight: 300
     subtitle: Laboratorio di improvvisazione attoriale e filmmaking
     text: >
       Benvenuti al Mockumentary Lab, dove l'arte dell'improvvisazione si fonde
@@ -622,6 +622,7 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: FormBlock
+          data-netlify: true
       submitButton:
         type: SubmitButtonFormControl
         label: Invia
