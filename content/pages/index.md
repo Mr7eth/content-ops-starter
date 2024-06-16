@@ -557,25 +557,24 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: flex-end
-            textAlign: right
-            margin:
-              - ml-0
-              - mr-0
-              - mt-0
-              - mb-0
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-textAlign: center
+            textAlign: right      margin:
+        - ml-0
+        - mr-0
+        - mt-0
+        - mb-0
+  type: FeaturedItem
+variant: three-col-grid
+colors: bg-neutral-fg-dark
+styles:
+  self:
+    padding:
+      - pt-16
+      - pl-8
+      - pb-16
+      - pr-8
+    justifyContent: center
+subtitle:
+  textAlign: center
 type: FeaturedItemsSection
 - title:
     text: Iscriviti alla prossima edizione!
@@ -636,6 +635,9 @@ badge:
   color: text-primary
   type: Badge
 colors: bg-light-fg-dark
+styles:
+  self:
+    textAlign: center
 type: GenericSection
 seo:
   metaTitle: Home - Demo site
@@ -643,4 +645,3 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
----
