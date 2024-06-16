@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 300
+          fontWeight: 400
     subtitle: Laboratorio di improvvisazione attoriale e filmmaking
     text: >
       Benvenuti al Mockumentary Lab, dove l'arte dell'improvvisazione si fonde
@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Iscriviti
         altText: ''
-        url: /Contatti
+        url: /contatti
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/a young filmmaker s.jpg
+      url: /images/a  young filmmaker s.jpg
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
@@ -557,91 +557,89 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: flex-end
-            textAlign: right      margin:
-        - ml-0
-        - mr-0
-        - mt-0
-        - mb-0
-  type: FeaturedItem
-variant: three-col-grid
-colors: bg-neutral-fg-dark
-styles:
-  self:
-    padding:
-      - pt-16
-      - pl-8
-      - pb-16
-      - pr-8
-    justifyContent: center
-subtitle:
-  textAlign: center
-type: FeaturedItemsSection
-- title:
-    text: Iscriviti alla prossima edizione!
-    color: text-dark
-    type: TitleBlock
-  subtitle: ''
-  text: >
-    Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
-    aggiuntive o ospitare il progetto nel tuo territorio, contattaci
-    attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
-    l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
-  media:
-    fields:
-      - name: name
-        label: Name
-        hideLabel: true
-        placeholder: Your name
-        isRequired: true
-        width: full
-        type: TextFormControl
-      - name: email
-        label: Email
-        hideLabel: true
-        placeholder: Your email
-        isRequired: true
-        width: full
-        type: EmailFormControl
-      - name: message
-        label: Message
-        hideLabel: true
-        placeholder: Your message
-        width: full
-        type: TextareaFormControl
-    elementId: contact-form
+            textAlign: right
+            margin:
+              - ml-0
+              - mr-0
+              - mt-0
+              - mb-0
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pt-6
-          - pb-6
-          - pl-6
-          - pr-6
-        borderColor: border-dark
-        borderStyle: solid
-        borderWidth: 1
-        borderRadius: large
-    type: FormBlock
-    data-netlify: true
-  submitButton:
-    type: SubmitButtonFormControl
-    label: Invia
-    showIcon: true
-    icon: chevronRight
-    iconPosition: right
-    style: primary
-    elementId: null
-badge:
-  label: ContatTACI
-  color: text-primary
-  type: Badge
-colors: bg-light-fg-dark
-styles:
-  self:
-    textAlign: center
-type: GenericSection
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
+  - title:
+      text: Iscriviti alla prossima edizione!
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
+      aggiuntive o ospitare il progetto nel tuo territorio, contattaci
+      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
+      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
+    media:
+      fields:
+        - name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+          type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+          type: EmailFormControl
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+          type: TextareaFormControl
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: FormBlock
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Invia
+        showIcon: true
+        icon: chevronRight
+        iconPosition: right
+        style: primary
+        elementId: null
+    badge:
+      label: ContatTACI
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+---
