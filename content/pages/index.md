@@ -36,7 +36,7 @@ sections:
     media:
       url: /images/a  young filmmaker s.jpg
       altText: Unblock your team boost your time to production preview
-      elementId: ''
+      elementId: contatti2
       type: ImageBlock
     badge:
       label: ''
@@ -136,7 +136,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/0jRPb7-LogoMakr.png
+          url: /images/abstract-background.svg
           styles:
             self:
               borderRadius: x-large
@@ -148,7 +148,7 @@ sections:
           di 20 partecipanti. Le iscrizioni finiscono presto: sbrigati a
           prenotare!
         image:
-          url: /images/aerial view of a cir.jpg
+          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -175,7 +175,7 @@ sections:
           un'esperienza di creazione collettiva che ti vedrà tra i protagonisti
           di una straordinaria avventura!
         image:
-          url: /images/a screening in a cin.jpg
+          url: /images/icon1.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
