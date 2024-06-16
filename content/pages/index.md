@@ -148,7 +148,7 @@ sections:
           di 20 partecipanti. Le iscrizioni finiscono presto: sbrigati a
           prenotare!
         image:
-          url: /images/icon3.svg
+          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
