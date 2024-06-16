@@ -16,6 +16,7 @@ sections:
     actions: []
     media:
       type: FormBlock
+      data-netlify: true
       fields:
         - type: TextFormControl
           name: name
