@@ -22,7 +22,7 @@ sections:
           - Supervisione di due insegnanti esperti
           - Restituzione live del lavoro svolto
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/theatrical activity.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
@@ -58,7 +58,7 @@ sections:
           - Restituzione live del lavoro svolto
           - Accesso ad un antica Villa toscana con giardino
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/beautiful villa in t (1).jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
@@ -88,7 +88,7 @@ sections:
           Mockumentary Lab!
         features: []
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/new projects and ide.jpg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
