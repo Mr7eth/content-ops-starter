@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Iscriviti
         altText: ''
-        url: /
+        url: /contatti
         showIcon: false
         icon: arrowRight
         iconPosition: right
