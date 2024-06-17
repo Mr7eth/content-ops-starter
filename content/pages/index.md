@@ -630,6 +630,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: null
+      netlify: true
     badge:
       label: ContatTACI
       color: text-primary
