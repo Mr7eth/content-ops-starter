@@ -629,8 +629,7 @@ sections:
         icon: chevronRight
         iconPosition: right
         style: primary
-        elementId: null
-      netlify: true
+        elementId: invia
     badge:
       label: ContatTACI
       color: text-primary
