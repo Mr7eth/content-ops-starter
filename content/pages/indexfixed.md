@@ -588,6 +588,10 @@ sections:
       attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
       l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
     media:
+    actions: []
+      type: FormBlock
+      data-netlify: true
+      name: homecontact
       fields:
         - name: name
           label: Name
