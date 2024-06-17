@@ -17,6 +17,7 @@ sections:
     media:
       type: FormBlock
       data-netlify: true
+      name: contact-form
       fields:
         - type: TextFormControl
           name: name
