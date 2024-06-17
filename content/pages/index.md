@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 300
+          fontWeight: 400
     subtitle: Laboratorio di improvvisazione attoriale e filmmaking
     text: >
       Benvenuti al Mockumentary Lab, dove l'arte dell'improvvisazione si fonde
