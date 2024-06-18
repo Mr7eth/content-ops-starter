@@ -45,13 +45,13 @@ sections:
     text: |
       **Durata:** 7 giorni
 
-      **Arrivo:** Lunedì 9 Settembre in giornata
-      Si inizia da Martedì 10 Settembre
+      Arrivo: Lunedì 9 Settembre
+      Inizio Laboratorio: Martedì 10 Settembre
+      Restituzione pubblica: Domenica 15 Settembre
 
       **Orario delle sessioni:**
 
-      **
-      Mattina:** 9:00 - 12:30
+      **Mattina**: 9:00 - 12:30
       **Pomeriggio:** 14:00 - 19:00 (circa)
     actions: []
     media:
