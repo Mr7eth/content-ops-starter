@@ -8,11 +8,29 @@ sections:
       text: Iscriviti alla prossima edizione!
       color: text-dark
     subtitle: 'Progetto #0: Follonica, 9-15 Settembre'
-    text: >
+    text: >+
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
       attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
       l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
+
+
+
+
+      \<form name="contact" netlify>
+        \<p>
+          \<label>Name \<input type="text" name="name" />\</label>
+        \</p>
+        \<p>
+          \<label>Email \<input type="email" name="email" />\</label>
+        \</p>
+        \<p>
+          \<button type="submit">Send\</button>
+        \</p>
+      \</form>
+
+
+
     actions:
       - type: Button
         label: Voglio Partecipare!
