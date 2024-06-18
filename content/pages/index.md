@@ -588,6 +588,9 @@ sections:
       attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
       l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
     media:
+      type: FormBlock
+      data-netlify: true
+      name: Formhome
       fields:
         - name: name
           label: Name
@@ -621,7 +624,6 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
         label: Invia
