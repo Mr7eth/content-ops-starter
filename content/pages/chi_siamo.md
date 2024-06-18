@@ -66,9 +66,9 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: team
+  metaDescription: This is the team page
+  socialImage: /images/A group of young whi.jpg
   type: Seo
 type: PageLayout
 ---
