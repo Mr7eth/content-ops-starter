@@ -446,10 +446,15 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
-      aggiuntive o ospitare il progetto nel tuo territorio, contattaci
-      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
-      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
+      Questa prima residenza si svolgerà presso lo scenario di Villa Santa
+      Giulia, una villa immersa nelle bellezze naturali toscane, a pochi passi
+      dal mare, tra il 9 e il 15 Settembre 2024.
+
+
+      Se vuoi iscriverti a questo laboratorio, ricevere informazioni aggiuntive
+      o ospitare il prossimo progetto nel tuo territorio, contattaci attraverso
+      il form presente di seguito indicando il tuo indirizzo e-mail e l'oggetto
+      della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
     badge:
       label: ContatTACI
       color: text-primary
