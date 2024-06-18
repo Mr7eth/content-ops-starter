@@ -42,7 +42,7 @@ sections:
       text: Programma di massima
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
       **Durata:** 7 giorni
 
 
@@ -60,12 +60,10 @@ sections:
 
       **Divisione dei Tutor:
 
-      Tutor Makers (Tecnici e Filmmaker)**: Guida alla realizzazione
-      dell'audiovisivo.
+      Tutor Makers**: Guida alla realizzazione dell'audiovisivo.
 
       **Tutor Attori/attrici**: Guida alle attività di improvvisazione,
       interpretazione del personaggio e performance.
-
     actions: []
     media:
       type: ImageBlock
