@@ -17,6 +17,15 @@ sections:
       - type: Link
         label: Send email
         altText: Play
+        url: info@mattiamuravannuzzi.com
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: Send email
+        altText: Play
         url: '<a href="mailto:email@example.com">Send Email</a>'
         showIcon: true
         icon: mail
