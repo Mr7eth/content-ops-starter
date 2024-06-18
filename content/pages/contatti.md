@@ -47,6 +47,13 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Invia
