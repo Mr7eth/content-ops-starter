@@ -604,7 +604,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Voglio altre informazioni
+        label: Altre informazioni
         altText: ''
         url: 'https://forms.gle/LnMckUCWG2f3Y51s5'
         showIcon: false
