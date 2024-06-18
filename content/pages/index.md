@@ -115,7 +115,7 @@ sections:
       il mondo del mockumentary, Mockumentary Lab è il posto giusto per te.
     actions:
       - label: Iscriviti
-        url: /contatti
+        url: 'https://forms.gle/EZ6JJBhZ2iQhKsra9'
         icon: arrowRight
         iconPosition: right
         style: secondary
