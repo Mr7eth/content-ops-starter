@@ -486,7 +486,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Iscriviti al primo laboratorio!
+      text: 'Iscriviti al Lab #0!'
       color: text-dark
       type: TitleBlock
     subtitle: ''
