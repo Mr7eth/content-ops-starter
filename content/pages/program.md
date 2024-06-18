@@ -43,32 +43,32 @@ sections:
       color: text-dark
     subtitle: ''
     text: >+
-      # **Durata:** 7 giorni
+      ##### **Durata:** 7 giorni
 
 
-      # **Arrivo:** Lunedì 9 Settembre in giornata
+      ##### **Arrivo:** Lunedì 9 Settembre in giornata
 
 
-      # Si inizia da Martedì 10 Settembre
+      ##### Si inizia da Martedì 10 Settembre
 
 
-      # **Orario delle sessioni:**
+      ##### **Orario delle sessioni:**
 
 
-      # **Mattina:** 9:00 - 12:30
+      ##### **Mattina:** 9:00 - 12:30
 
 
-      # **Pomeriggio:** 14:00 - 19:00 (circa)
+      ##### **Pomeriggio:** 14:00 - 19:00 (circa)
 
 
-      # Divisione dei Tutor:
+      ##### Divisione dei Tutor:
 
 
-      # **Tutor Makers (Tecnici e Filmmaker):** Guida alla realizzazione
+      ##### **Tutor Makers (Tecnici e Filmmaker):** Guida alla realizzazione
       dell'audiovisivo.
 
 
-      # **Tutor Attori/attrici**: Guida alle attività di improvvisazione,
+      ##### **Tutor Attori/attrici**: Guida alle attività di improvvisazione,
       interpretazione del personaggio e performance.
 
     actions: []
