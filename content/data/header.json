@@ -46,7 +46,7 @@
                 {
                     "type": "Link",
                     "label": "Contattaci",
-                    "altText": "https://forms.gle/EZ6JJBhZ2iQhKsra9",
+                    "altText": "/contatti",
                     "url": "/contatti",
                     "showIcon": false,
                     "icon": "arrowRight",
