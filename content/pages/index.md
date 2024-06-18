@@ -424,7 +424,7 @@ sections:
     subtitle: ''
     text: >
       La prima residenza si svolgerà presso lo scenario di Villa Santa Giulia,
-      una villa immersa nelle bellezze naturali toscane, a pochi passi dal mar
+      una villa immersa nelle bellezze naturali toscane, a pochi passi dal mare.
 
 
       Se vuoi iscriverti a questo laboratorio, ricevere informazioni aggiuntive
