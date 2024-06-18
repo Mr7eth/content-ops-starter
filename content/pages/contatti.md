@@ -11,8 +11,8 @@ sections:
     text: >
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
-      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
-      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
+      attraverso i form presenti di seguito! Ti risponderemo entro 3 giorni
+      lavorativi!
     actions:
       - type: Button
         label: Voglio Partecipare!
