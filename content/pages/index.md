@@ -682,12 +682,6 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
       elementId: contact-form
       styles:
         self:
