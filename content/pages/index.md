@@ -128,7 +128,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/theatrical activity.jpg
+      url: /images/group picture of hap.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
