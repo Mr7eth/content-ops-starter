@@ -448,7 +448,8 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: >-
+          /images/villa-santa-giulia-maremma-toscana-piombino-dimora-epoca-agriturismo-vacanze-soggiorno-prenotazione-parco-natura-verde-rose-giardino-50.jpg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
