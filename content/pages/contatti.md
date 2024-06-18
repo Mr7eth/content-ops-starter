@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Iscriviti alla prossima edizione!
+      text: Iscriviti alla prima edizione!
       color: text-dark
     subtitle: 'Progetto #0: Follonica, 9-15 Settembre'
     text: >
