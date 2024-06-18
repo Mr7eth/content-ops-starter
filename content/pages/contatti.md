@@ -340,6 +340,6 @@ seo:
   metaDescription: Lab for Filmmaking and Acting
   socialImage: /images/Mockumentary lab (1).png
   metaTags: []
-  addTitleSuffix: true
+  addTitleSuffix: false
 isDraft: true
 ---
