@@ -55,12 +55,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Mockumentary Lab è un'esperienza unica di 7 giorni, pensata per attori,
-      registi e appassionati di cinema che vogliano esplorare il mondo del
-      mockumentary. Con noi non c'è una trama predefinita: il tuo talento e la
-      tua creatività daranno vita a storie autentiche e coinvolgenti. In
-      un'atmosfera collaborativa e dinamica, imparerai a creare personaggi
-      indimenticabili e a costruire narrazioni che lasceranno il segno.
+      Mockumentary Lab è un percorso formativo innovativo: un'esperienza
+      residenziale cinematografica dedicata ad attori, attrici, registә e
+      appassionatә di cinema che desiderano esplorare il mondo del mockumentary,
+      conosciuto anche come "documentario di finzione".
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
