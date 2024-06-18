@@ -513,9 +513,9 @@ sections:
       text: "Lab #0: 9-15 Settembre\_ \_ \_ \_ \_ \_ \_ \_ \_ Villa Santa Giulia, Follonica (GR)"
       color: text-dark
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Home
+  metaDescription: ''
+  socialImage: /images/Mockumentary lab (1).png
   type: Seo
 type: PageLayout
 ---
