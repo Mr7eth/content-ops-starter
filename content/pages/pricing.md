@@ -93,7 +93,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contattaci
-            url: /Contatti
+            url: 'https://forms.gle/KX6B3mgqHNA3zzjR7'
             icon: arrowRight
             iconPosition: right
             style: secondary
