@@ -220,7 +220,7 @@ sections:
           in alcuni dei luoghi più belli della Toscana
 
         image:
-          url: /images/group picture of hum.jpg
+          url: /images/group picture of hum (1).jpg
           altText: Maria Walters
           styles:
             self:
