@@ -118,7 +118,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Film screening portr.jpg
           altText: Placholder image
           styles:
             self:
