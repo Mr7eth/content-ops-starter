@@ -444,7 +444,8 @@ sections:
     subtitle: 'Progetto #0: 9-15 Settembre @ Villa Santa Giulia, Follonica (GR), Toscana'
     images:
       - type: ImageBlock
-        url: /images/palme-1(1)_normal.webp
+        url: >-
+          /images/villa-santa-giulia-maremma-toscana-piombino-dimora-epoca-agriturismo-vacanze-soggiorno-prenotazione-parco-natura-verde-rose-giardino-50.jpg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
