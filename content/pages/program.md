@@ -229,7 +229,7 @@ sections:
     actions:
       - type: Button
         label: Incominciamo!
-        url: /
+        url: 'https://forms.gle/haY4qM8X9Y4jfXMFA'
         icon: arrowRight
         iconPosition: right
         style: secondary
