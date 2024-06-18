@@ -220,7 +220,7 @@ sections:
           in alcuni dei luoghi più belli della Toscana
 
         image:
-          url: /images/group picture of hum.jpg
+          url: /images/a screening in a cin.jpg
           altText: Maria Walters
           styles:
             self:
@@ -350,7 +350,7 @@ sections:
           collaborare alla realizzazione di un finto documentario in un'ambiente
           coinvolgente ed entusiasmante!
         image:
-          url: /images/Realistic photo port.jpg
+          url: /images/9c6f62e1-bb80-44a2-87ac-4108cb7ebce4.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -377,7 +377,7 @@ sections:
           ed essere tra i personaggi del mockumentary creato durante il lab,
           oltre ad essere tra i protagonisti di una performance finale live.
         image:
-          url: /images/Realistic photo port (1).jpg
+          url: /images/portrait of two youn.jpg
           altText: Placeholder image
           styles:
             self:
@@ -402,62 +402,14 @@ sections:
               - mb-0
         type: FeaturedItem
       - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
         title: Uditore
-        tagline: This is the tagline
+        tagline: 'Max partecipanti: 2'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
-      - type: FeaturedItem
-        title: Uditore
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/close up of a young.jpg
           altText: Placeholder text
           styles:
             self:
