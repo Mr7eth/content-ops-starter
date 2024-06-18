@@ -68,7 +68,7 @@ sections:
 seo:
   metaTitle: team
   metaDescription: This is the team page
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/A group of young whi.jpg
   type: Seo
 type: PageLayout
 ---
