@@ -453,7 +453,7 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/IMG_20211026_125729-scaled.jpg
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
