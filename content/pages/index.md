@@ -338,7 +338,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Partecipa al Lab come Filmmaker o come Attor
+    subtitle: Partecipa al Lab come Filmmaker o come Attore/Attrice o Uditore
     items:
       - title: Makers
         tagline: 'Max partecipanti: 9'
