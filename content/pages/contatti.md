@@ -371,7 +371,7 @@ sections:
 slug: /contatti
 seo:
   type: Seo
-  metaTitle: Home
+  metaTitle: Mockumentary Lab
   metaDescription: ''
   socialImage: /images/main-hero.jpg
   metaTags: []
