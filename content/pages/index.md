@@ -460,7 +460,10 @@ sections:
         self:
           borderRadius: medium
   - type: ImageGallerySection
-    subtitle: "Villa Santa Giulia si trova nell'entroterra del Golfo di Follonica, a 800 metri dalla spiaggia di Torre Mozza, all'interno del Parco Costiero della Sterpaia.\_Immersa in un parco di oltre due ettari, la villa è circondata da lecci, querce, pini secolari, palme nane, mimose e allori, oltre a felci, agavi e aloe. La fisionomia attuale del parco e della villa riflette gli stili dei vari periodi in cui sono state piantate le piante secolari.La villa è situata in una zona ricca di bellezze naturali, tra le province di Livorno e Grosseto, che si estende dall'entroterra fino al Mar Tirreno, includendo la Val di Cornia e il Parco Naturale di Montioni."
+    subtitle: >-
+      Questa prima residenza si svolgerà presso lo scenario di Villa Santa
+      Giulia, una villa immersa nelle bellezze naturali toscane, a pochi passi
+      dal mare, tra il 9 e il 15 Settembre 2024.
     images:
       - type: ImageBlock
         url: /images/picolo-50.jpg
