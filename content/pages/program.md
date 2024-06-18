@@ -143,7 +143,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/A funny raccoon lear.jpg
           altText: Placeholder image
           styles:
             self:
