@@ -163,7 +163,9 @@ sections:
           avanzate e strategie di filmmaking, permettendoti di affinare le tue
           abilità e scoprire nuovi modi di esprimerti artisticamente.
         image:
-          url: /images/portrait of a couple (2).jpg
+          url: >-
+            /images/Runway 2024-06-18T16_41_13.348Z Erase and Replace a
+            tambourine.png
           altText: Maria Walters
           styles:
             self:
