@@ -482,7 +482,6 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/palme-1(1)_normal.webp
       altText: Image alt text placeholder
       elementId: ''
       styles:
