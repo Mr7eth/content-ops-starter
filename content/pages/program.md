@@ -54,7 +54,7 @@ sections:
       **Fine Laboratorio:** Domenica 15 Settembre
 
 
-      **Orario delle sessioni:Mattina: 9:00 - 12:30Pomeriggio:** 14:00 - 19:00
+      **Orario delle sessioni: Mattina: 9:00 - 12:30Pomeriggio:** 14:00 - 19:00
       (circa)\</div>
     actions: []
     media:
