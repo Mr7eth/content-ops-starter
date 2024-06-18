@@ -175,7 +175,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Networking and colla.jpg
           altText: Placeholder image
           styles:
             self:
