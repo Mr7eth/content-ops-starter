@@ -24,7 +24,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Info/proposte
         altText: ''
         url: 'https://forms.gle/ceMyK9k4Esg4as8C6'
         showIcon: false
