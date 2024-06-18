@@ -49,7 +49,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: 'Invia [mailto:info@mattiamuravannuzzi.com]'
+        label: Invia
         icon: arrowRight
         iconPosition: right
         style: primary
