@@ -26,15 +26,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Video Presentazione
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/a  young filmmaker s.jpg
       altText: Unblock your team boost your time to production preview
