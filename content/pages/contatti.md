@@ -372,7 +372,7 @@ slug: /contatti
 seo:
   type: Seo
   metaTitle: Mockumentary Lab
-  metaDescription: ''
+  metaDescription: Lab for Filmmaking and Acting
   socialImage: /images/main-hero.jpg
   metaTags: []
 isDraft: true
