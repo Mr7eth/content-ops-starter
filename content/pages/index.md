@@ -449,7 +449,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          /images/villa-santa-giulia-maremma-toscana-piombino-dimora-epoca-agriturismo-vacanze-soggiorno-prenotazione-parco-natura-verde-rose-giardino-50.jpg
+          /images/villa-santa-giulia-maremma-toscana-piombino-dimora-epoca-agriturismo-vacanze-soggiorno-prenotazione-parco-natura-verde-rose-giardino-33-800x400.jpg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
