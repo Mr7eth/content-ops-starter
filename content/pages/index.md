@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: MOCKUMENTARY LAB
+      text: MOCKUMENTARY
       color: text-dark
       type: TitleBlock
       styles:
