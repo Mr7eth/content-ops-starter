@@ -405,7 +405,10 @@ sections:
         title: Uditore
         tagline: 'Max partecipanti: 2'
         subtitle: Se preferisci non metterti in gioco stavolta
-        text: ''
+        text: >
+          Se hai voglia di osservare, prendere appunti, approfondire guardando e
+          supportando il progetto in una posizione che non ti coinvolga
+          direttamente, c'è posto anche per te! Contattaci per saperne di più.
         image:
           type: ImageBlock
           url: /images/close up of a young.jpg
