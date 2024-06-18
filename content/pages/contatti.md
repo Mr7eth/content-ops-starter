@@ -49,7 +49,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: 'Invia <a href="mailto:email@example.com">Send Email</a>'
+        label: 'Invia [mailto:l@example.com">Send Email</a>'
         icon: arrowRight
         iconPosition: right
         style: primary
