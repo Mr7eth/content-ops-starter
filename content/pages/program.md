@@ -242,7 +242,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/A draft of a sche3.jpg
+      url: /images/A dartboard with the.jpg
       altText: Dope design preview
     badge:
       type: Badge
