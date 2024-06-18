@@ -604,15 +604,6 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Altre informazioni
-        altText: ''
-        url: 'https://forms.gle/LnMckUCWG2f3Y51s5'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
         label: Get started
         altText: ''
         url: 'https://forms.gle/LnMckUCWG2f3Y51s5'
