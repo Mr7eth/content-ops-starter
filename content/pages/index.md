@@ -12,8 +12,10 @@ sections:
           fontWeight: 300
     subtitle: Laboratorio di improvvisazione attoriale e filmmaking
     text: >
-      Benvenuti al Mockumentary Lab, dove l'arte dell'improvvisazione si fonde
-      con il filmmaking per creare documentari divertenti e innovativi.
+      Benvenuti al Mockumentary Lab, dove l'arte dell'improvvisazione attoriale
+      e il filmmaking si incontrano per dar vita ad un'avventura unica ed
+      irripetibile: la creazione di un progetto audiovisivo ironico e fuori
+      dagli schemi!
     actions:
       - label: Iscriviti
         altText: ''
