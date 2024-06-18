@@ -14,15 +14,6 @@ sections:
       attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
       l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
     actions:
-      - type: Link
-        label: Send email
-        altText: Play
-        url: info@mattiamuravannuzzi.com
-        showIcon: true
-        icon: send
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - type: Button
         label: Voglio Partecipare!
         altText: ''
