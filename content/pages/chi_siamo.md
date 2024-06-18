@@ -3,7 +3,7 @@ title: Chi Siamo
 slug: chi_siamo
 sections:
   - title:
-      text: Conosci il nostro team
+      text: Conosci il nostro
       color: text-dark
       styles:
         self:
