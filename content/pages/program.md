@@ -256,8 +256,8 @@ sections:
 slug: /program
 seo:
   type: Seo
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
-  socialImage: /images/main-hero.jpg
+  metaTitle: Home
+  metaDescription: ''
+  socialImage: /images/Mockumentary lab (1).png
   metaTags: []
 ---
