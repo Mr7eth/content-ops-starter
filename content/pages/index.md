@@ -404,7 +404,7 @@ sections:
       - type: FeaturedItem
         title: Uditore
         tagline: 'Max partecipanti: 2'
-        subtitle: ''
+        subtitle: Se preferisci non metterti in gioco stavolta
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
