@@ -139,13 +139,6 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      - type: Link
         label: Send email
         altText: Play
         url: 'mailto:leonardasaffi@gmail.com'
