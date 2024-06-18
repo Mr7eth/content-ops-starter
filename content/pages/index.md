@@ -456,7 +456,7 @@ sections:
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/10_11_19_Villa_Santa_Giulia_B__B_Pino_W_001-800x533.jpg
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
