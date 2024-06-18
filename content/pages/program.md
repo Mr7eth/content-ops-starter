@@ -42,7 +42,7 @@ sections:
       text: Programma di massima
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
       \<div style="text-align: center">**Durata: 7 giorni**\</div>
 
 
@@ -51,12 +51,11 @@ sections:
 
       **Restituzione pubblica:** Domenica 15 Settembre
 
-      **Fine Laboratorio:** Domenica 15 Settembre**Orario delle
-      sessioni:****Mattina**: 9:00 - 12:30**Pomeriggio:** 14:00 - 19:00
+      **Fine Laboratorio:** Domenica 15 Settembre
+
+
+      **Orario delle sessioni:Mattina: 9:00 - 12:30Pomeriggio:** 14:00 - 19:00
       (circa)\</div>
-
-
-
     actions: []
     media:
       type: ImageBlock
