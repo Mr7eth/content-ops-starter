@@ -43,7 +43,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: |+
-      ## **Durata:** 7 giorni
+      ### **Durata:** 7 giorni
 
       **Accoglienza:** Lunedì 9 Settembre
       **Inizio Laboratorio:** Martedì 10 Settembre
