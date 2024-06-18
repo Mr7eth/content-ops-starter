@@ -440,51 +440,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - type: ImageGallerySection
-    subtitle: 'Progetto #0: 9-15 Settembre @ Villa Santa Giulia, Follonica (GR), Toscana'
-    images:
-      - type: ImageBlock
-        url: /images/picolo-50.jpg
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
-        url: >-
-          /images/villa-santa-giulia-maremma-toscana-piombino-dimora-epoca-agriturismo-vacanze-soggiorno-prenotazione-parco-natura-verde-rose-giardino-33-800x400.jpg
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gi10_11_19_Villa_Santa_Giulia_B__B_Pino_W_001-800x533.jpg
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/IMG_3263-e1547997480474.jpg
-        altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/IMG_20211026_125729-scalenuovod.jpg
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title:
       text: 'Iscriviti al Lab #0!'
       color: text-dark
@@ -532,6 +487,51 @@ sections:
       styles:
         self:
           borderRadius: medium
+  - type: ImageGallerySection
+    subtitle: 'Progetto #0: 9-15 Settembre @ Villa Santa Giulia, Follonica (GR), Toscana'
+    images:
+      - type: ImageBlock
+        url: /images/picolo-50.jpg
+        altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          /images/villa-santa-giulia-maremma-toscana-piombino-dimora-epoca-agriturismo-vacanze-soggiorno-prenotazione-parco-natura-verde-rose-giardino-33-800x400.jpg
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Telus logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gi10_11_19_Villa_Santa_Giulia_B__B_Pino_W_001-800x533.jpg
+        altText: Contentful logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_3263-e1547997480474.jpg
+        altText: Sanity logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_20211026_125729-scalenuovod.jpg
+        altText: Rangle logo
+        elementId: ''
+    elementId: ''
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
