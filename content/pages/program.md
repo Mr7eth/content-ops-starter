@@ -46,8 +46,9 @@ sections:
       **Durata: 7 giorni**
 
 
-      **Accoglienza:** Lunedì 9 Settembre                        **Inizio
-      Laboratorio:** Martedì 10 Settembre
+      **Accoglienza:** Lunedì 9
+      Settembre                                                                                                                                                                                     
+      **Inizio Laboratorio:** Martedì 10 Settembre
 
       **Restituzione pubblica:** Domenica 15 Settembre
 
