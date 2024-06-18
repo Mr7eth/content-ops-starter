@@ -23,15 +23,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Link
-        label: Send email
-        altText: Play
-        url: '<a href="mailto:email@example.com">Send Email</a>'
-        showIcon: true
-        icon: mail
-        iconPosition: right
-        style: secondary
-        elementId: ''
     media:
       type: FormBlock
       data-netlify: true
