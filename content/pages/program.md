@@ -228,7 +228,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Incominciamo!
         url: /
         icon: arrowRight
         iconPosition: right
