@@ -511,7 +511,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: 'Lab #0: 9-15 Settembre @ Villa Santa Giulia, Follonica (GR), Toscana'
       color: text-dark
 seo:
   metaTitle: Home - Demo site
