@@ -43,11 +43,11 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      \<div style="text-align: center">**Durata: 7 giorni**\</div>
+      **Durata: 7 giorni**
 
 
-      \<div style="text-align: center">**Accoglienza:** Lunedì 9
-      Settembre**Inizio Laboratorio:** Martedì 10 Settembre
+      **Accoglienza:** Lunedì 9 Settembre**Inizio Laboratorio:** Martedì 10
+      Settembre
 
       **Restituzione pubblica:** Domenica 15 Settembre
 
@@ -55,7 +55,7 @@ sections:
 
 
       **Orario delle sessioni: Mattina: 9:00 - 12:30Pomeriggio:** 14:00 - 19:00
-      (circa)\</div>
+      (circa)
     actions: []
     media:
       type: ImageBlock
