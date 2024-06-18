@@ -369,7 +369,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Uditore
-        tagline: This is the tagline
+        tagline: Max
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
