@@ -466,9 +466,8 @@ sections:
   - type: ImageGallerySection
     subtitle: >-
       Villa Santa Giulia si trova nell'entroterra del Golfo di Follonica, a 800
-      metri dalla spiaggia di Torre Mozza, all'interno del Parco Costiero della
-      Sterpaia. Immersa in un parco di oltre due ettari, la villa è circondata
-      da piante secolari.
+      metri dalla spiaggia di Torre Mozza. Immersa in un parco di oltre due
+      ettari, la villa è circondata da piante secolari.
     images:
       - type: ImageBlock
         url: /images/picolo-50.jpg
