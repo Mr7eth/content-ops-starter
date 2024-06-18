@@ -369,7 +369,7 @@ sections:
         type: FeaturedItem
       - title: Attore/Attrice
         tagline: 'Max partecipanti: 14'
-        subtitle: Per chi ha frequentato almeno un laboratorio teatrale
+        subtitle: Per professionisti/amatori/studenti
         text: >
           Diventa parte del team di attori del Laboratorio! In questo ruolo
           avrai modo di conoscere alcune tecniche di
