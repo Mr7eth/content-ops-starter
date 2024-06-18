@@ -488,7 +488,7 @@ sections:
         self:
           borderRadius: medium
   - type: ImageGallerySection
-    subtitle: 'Progetto #0: 9-15 Settembre @ Villa Santa Giulia, Follonica (GR), Toscana'
+    subtitle: 'Lab #0: 9-15 Settembre @ Villa Santa Giulia, Follonica (GR), Toscana'
     images:
       - type: ImageBlock
         url: /images/picolo-50.jpg
