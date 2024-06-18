@@ -180,7 +180,7 @@ sections:
     title: null
     subtitle: Perchè Partecipare?
     items:
-      - title: Impara dai Migliori
+      - title: Impara
         tagline: 'Motivazione #1'
         subtitle: '2 professionisti, 1 progetto collettivo'
         text: >
