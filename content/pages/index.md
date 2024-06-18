@@ -377,7 +377,7 @@ sections:
           ed essere tra i personaggi del mockumentary creato durante il lab,
           oltre ad essere tra i protagonisti di una performance finale live.
         image:
-          url: /images/Realistic photo port (1).jpg
+          url: /images/portrait of two youn.jpg
           altText: Placeholder image
           styles:
             self:
