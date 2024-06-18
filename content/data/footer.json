@@ -82,7 +82,7 @@
         },
         {
             "altText": "Email link",
-            "url": "<a href=\"mailto:info@mattiamuravannuzzi.com?subject=Richiesta%20di%20informazioni&body=Ciao,%20vorrei%20avere%20più%20informazioni%20sul%20corso%20di%20mockumentary.%20Grazie!\">Invia un'email</a>",
+            "url": "mailto:info@mattiamuravannuzzi.com",
             "icon": "mail",
             "type": "Social"
         }
