@@ -47,7 +47,9 @@ sections:
 
 
       **Accoglienza:** Lunedì 9
-      Settembre                                                                                                                                                                                     
+      Settembre                                                                                                                                                                                      
+
+
       **Inizio Laboratorio:** Martedì 10 Settembre
 
       **Restituzione pubblica:** Domenica 15 Settembre
