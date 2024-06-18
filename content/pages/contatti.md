@@ -23,6 +23,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://forms.gle/WEYYtQTFFkRg8oUE8'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge:
       type: Badge
       label: ContATTACI
