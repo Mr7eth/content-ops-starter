@@ -13,11 +13,19 @@ sections:
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
       attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
       l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
-    actions: []
+    actions:
+      - type: Link
+        label: Send email
+        altText: Play
+        url: info@mattiamuravannuzzi.com
+        showIcon: true
+        icon: send
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: FormBlock
       data-netlify: true
-      name: contact-form
       fields:
         - type: TextFormControl
           name: name
@@ -45,6 +53,8 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        showIcon: true
+        elementId: '<a href="mailto:info@mattiamuravannuzzi.com">Send Email</a>'
       elementId: contact-form22
       styles:
         self:
@@ -361,8 +371,10 @@ sections:
 slug: /contatti
 seo:
   type: Seo
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
-  socialImage: /images/main-hero.jpg
+  metaTitle: Mockumentary Lab
+  metaDescription: Lab for Filmmaking and Acting
+  socialImage: /images/Mockumentary lab (1).png
   metaTags: []
+  addTitleSuffix: true
+isDraft: true
 ---
