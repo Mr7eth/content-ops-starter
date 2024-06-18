@@ -423,11 +423,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Questa prima residenza si svolgerà presso lo scenario di Villa Santa
-      Giulia, una villa immersa nelle bellezze naturali toscane, a pochi passi
-      dal mare, tra il 9 e il 15 Settembre 2024.
-
-
       Se vuoi iscriverti a questo laboratorio, ricevere informazioni aggiuntive
       o ospitare il prossimo progetto nel tuo territorio, contattaci attraverso
       il form presente di seguito indicando il tuo indirizzo e-mail e l'oggetto
