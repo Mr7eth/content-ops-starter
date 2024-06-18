@@ -117,7 +117,7 @@ sections:
     type: PricingSection
 seo:
   metaTitle: Pricing
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: This is the pricing page
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
