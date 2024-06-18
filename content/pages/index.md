@@ -482,7 +482,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/palme-1(1)_normal.webp
       altText: Image alt text placeholder
       elementId: ''
       styles:
