@@ -373,7 +373,7 @@ seo:
   type: Seo
   metaTitle: Mockumentary Lab
   metaDescription: Lab for Filmmaking and Acting
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Mockumentary lab (1).png
   metaTags: []
   addTitleSuffix: true
 isDraft: true
