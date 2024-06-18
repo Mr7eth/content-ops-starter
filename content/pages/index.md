@@ -193,7 +193,7 @@ sections:
           sperimentare, creando personaggi e storie che rispecchiano la tua
           visione unica.
         image:
-          url: /images/excited funny person.jpg
+          url: /images/a person with a ligh.jpg
           altText: John Doe
           styles:
             self:
