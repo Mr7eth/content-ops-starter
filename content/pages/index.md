@@ -515,7 +515,7 @@ sections:
 seo:
   metaTitle: Home
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Mockumentary lab (1).png
   type: Seo
 type: PageLayout
 ---
