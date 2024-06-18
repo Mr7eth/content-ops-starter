@@ -368,7 +368,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: Uditore
+        title: Uditorə
         tagline: 'Max partecipnti: 2'
         subtitle: This is the item subtitle
         text: |
