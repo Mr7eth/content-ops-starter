@@ -110,7 +110,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: >
-      La soluzione migliore è il modulo di riferimento, ma laddove non fosse
+      La soluzione migliore sono i moduli di riferimento, ma laddove non fosse
       possibile puoi trovarci sui nostri social o sui rispettivi canali elencati
       di seguito. Siamo a tua disposizione per qualsiasi domanda o
       approfondimento!
