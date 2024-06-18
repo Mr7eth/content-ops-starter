@@ -48,7 +48,9 @@ sections:
       **Arrivo:** Lunedì 9 Settembre in giornata
       Si inizia da Martedì 10 Settembre
 
-      **Orario delle sessioni:
+      **Orario delle sessioni:**
+
+      **
       Mattina:** 9:00 - 12:30
       **Pomeriggio:** 14:00 - 19:00 (circa)
     actions: []
