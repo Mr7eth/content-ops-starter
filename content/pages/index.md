@@ -180,7 +180,7 @@ sections:
     title: null
     subtitle: Perchè Partecipare?
     items:
-      - title: Guida Sicura
+      - title: Esperienza creativa al tuo servizio
         tagline: 'Motivazione #1'
         subtitle: '2 professionisti, 1 progetto collettivo'
         text: >
