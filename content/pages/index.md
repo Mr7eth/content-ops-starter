@@ -115,7 +115,7 @@ sections:
       il mondo del mockumentary, Mockumentary Lab è il posto giusto per te.
     actions:
       - label: Iscriviti
-        url: /contatti
+        url: 'https://forms.gle/EZ6JJBhZ2iQhKsra9'
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -128,7 +128,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/team of young adult.jpg
+      url: /images/group picture of hap.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
@@ -163,7 +163,9 @@ sections:
           avanzate e strategie di filmmaking, permettendoti di affinare le tue
           abilità e scoprire nuovi modi di esprimerti artisticamente.
         image:
-          url: /images/portrait of a couple (2).jpg
+          url: >-
+            /images/Runway 2024-06-18T16_41_13.348Z Erase and Replace a
+            tambourine.png
           altText: Maria Walters
           styles:
             self:
@@ -191,7 +193,7 @@ sections:
           sperimentare, creando personaggi e storie che rispecchiano la tua
           visione unica.
         image:
-          url: /images/excited funny person.jpg
+          url: /images/a person with a ligh.jpg
           altText: John Doe
           styles:
             self:
@@ -220,7 +222,7 @@ sections:
           in alcuni dei luoghi più belli della Toscana
 
         image:
-          url: /images/a screening in a cin.jpg
+          url: /images/A group of young adu.jpg
           altText: Maria Walters
           styles:
             self:
@@ -248,7 +250,7 @@ sections:
           su grande schermo, con una discussione finale che ti permetterà di
           riflettere sull'esperienza e imparare ancora di più.
         image:
-          url: /images/a screening in a cro.jpg
+          url: /images/d19b8f58-8ee6-4fbb-9ac3-d21652d773f4.jpg
           altText: Maria Walters
           styles:
             self:
@@ -278,7 +280,7 @@ sections:
           troverai in un ambiente molto più piacevole rispetto alla vita
           quotidiana!
         image:
-          url: /images/gigantic director ch.jpg
+          url: /images/fc1ec178-8870-42d0-b388-283eb2999996.jpg
           altText: Maria Walters
           styles:
             self:
@@ -306,31 +308,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: In collaborazione con
-    images:
-      - url: /images/th-2246218190.jpg
-        altText: Empathy logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/HelixLgo.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/logo-cecinema.jpg
-        altText: Contentful logo
-        type: ImageBlock
-      - altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title:
       text: Scegli il tuo percorso
       color: text-primary
@@ -369,7 +346,7 @@ sections:
         type: FeaturedItem
       - title: Attore/Attrice
         tagline: 'Max partecipanti: 14'
-        subtitle: Per chi ha frequentato almeno un laboratorio teatrale
+        subtitle: Per professionisti/amatori/studenti
         text: >
           Diventa parte del team di attori del Laboratorio! In questo ruolo
           avrai modo di conoscere alcune tecniche di
@@ -404,9 +381,11 @@ sections:
       - type: FeaturedItem
         title: Uditore
         tagline: 'Max partecipanti: 2'
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        subtitle: 'Per studenti, ricercatori o curiosi'
+        text: >
+          Se hai voglia di osservare, prendere appunti, approfondire guardando e
+          supportando il progetto in una posizione che non ti coinvolga
+          direttamente, c'è posto anche per te! Contattaci per saperne di più.
         image:
           type: ImageBlock
           url: /images/close up of a young.jpg
@@ -439,15 +418,20 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Iscriviti alla prossima edizione!
+      text: 'Iscriviti al Lab #0!'
       color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >
-      Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
-      aggiuntive o ospitare il progetto nel tuo territorio, contattaci
-      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
-      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
+      Questa prima residenza si svolgerà presso lo scenario di Villa Santa
+      Giulia, una villa immersa nelle bellezze naturali toscane, a pochi passi
+      dal mare, tra il 9 e il 15 Settembre 2024.
+
+
+      Se vuoi iscriverti a questo laboratorio, ricevere informazioni aggiuntive
+      o ospitare il prossimo progetto nel tuo territorio, contattaci attraverso
+      il form presente di seguito indicando il tuo indirizzo e-mail e l'oggetto
+      della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
     badge:
       label: ContatTACI
       color: text-primary
@@ -473,6 +457,62 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+  - type: ImageGallerySection
+    subtitle: 'Lab #0: 9-15 Settembre @ Villa Santa Giulia, Follonica (GR), Toscana'
+    images:
+      - type: ImageBlock
+        url: /images/picolo-50.jpg
+        altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          /images/villa-santa-giulia-maremma-toscana-piombino-dimora-epoca-agriturismo-vacanze-soggiorno-prenotazione-parco-natura-verde-rose-giardino-33-800x400.jpg
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Telus logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gi10_11_19_Villa_Santa_Giulia_B__B_Pino_W_001-800x533.jpg
+        altText: Contentful logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_3263-e1547997480474.jpg
+        altText: Sanity logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_20211026_125729-scalenuovod.jpg
+        altText: Rangle logo
+        elementId: ''
+    elementId: ''
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    title:
+      type: TitleBlock
+      text: "Lab #0: 9-15 Settembre\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ @ Villa Santa Giulia, Follonica (GR)"
+      color: text-dark
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
