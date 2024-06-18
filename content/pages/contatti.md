@@ -52,7 +52,7 @@ sections:
         label: Invia
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         showIcon: true
       elementId: contact-form22
       styles:
