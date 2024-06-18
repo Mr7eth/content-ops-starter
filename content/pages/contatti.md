@@ -18,7 +18,7 @@ sections:
         label: Send email
         altText: Play
         url: info@mattiamuravannuzzi.com
-        showIcon: true
+        showIcon: false
         icon: mail
         iconPosition: right
         style: secondary
