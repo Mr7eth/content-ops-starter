@@ -128,7 +128,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/team of young adult.jpg
+      url: /images/49e3b103-9233-4bb8-91ed-ce1d4210b386.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
