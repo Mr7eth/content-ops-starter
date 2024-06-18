@@ -12,9 +12,12 @@ sections:
           textAlign: center
     subtitle: ''
     text: >
-      Il corso è diviso in due sezioni: il programma Makers, per individui
-      interessati allo sviluppo audiovisivo e il programma Attorə, per individui
-      interessati al lavoro di improvvisazione attoriale.
+      Il corso è diviso in due sezioni: il programma Makers, per coloro
+      interessati allo sviluppo audiovisivo e il programma Attori/Attrici, per
+      coloro interessati al lavoro di improvvisazione scenica e creazione del
+      personaggio.
+
+
 
       Non possiamo dirti tutto qua! Se ti piace l'idea e vuoi conoscere tutti i
       dettagli, è necessaria la partecipazione ;)
@@ -39,39 +42,26 @@ sections:
       text: Programma di massima
       color: text-dark
     subtitle: ''
-    text: >+
-      **Durata:** 7 giorni
+    text: >
+      **Durata: 7 giorni**
 
 
-      **Arrivo:** Lunedì 9 Settembre in Giornata
+      **Accoglienza:** Lunedì 9 Settembre
 
 
-      Si inizia da Martedì 10 Settembre
+      **Inizio Laboratorio:** Martedì 10 Settembre
+
+      **Restituzione pubblica:** Domenica 15 Settembre
+
+      **Fine Laboratorio:** Domenica 15 Settembre
 
 
-      **Orario delle sessioni:**
-
-
-      *   **Mattina:** 9:00 - 12:30
-
-
-      *   **Pomeriggio:** 14:00 - 19:00
-
-
-      #### Divisione dei Tutor:
-
-
-      *   **Tutor "Makers" (Tecnici e Filmmaker):** Guida alla realizzazione
-      dell'audiovisivo.
-
-
-      *   **Tutor Attorə: **Guida alle attività di improvvisazione,
-      interpretazione del personaggio e performance.
-
+      **Orario delle sessioni: Mattina:** 9:00 - 12:30         **Pomeriggio:**
+      14:00 - 19:00 (circa)
     actions: []
     media:
       type: ImageBlock
-      url: /images/main-hero.svg
+      url: /images/A draft of a schedul (1).jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
@@ -89,47 +79,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Villa Santa Giulia
-      color: text-dark
-    subtitle: ''
-    text: >
-      L'opzione Laboratorio + Pernottamento permette di trascorrere una
-      settimana in Toscana in un ambiente pulito e ordinato insieme alla
-      comunità del laboratorio. Le stanze (da 4 o 5 persone, dotate di cucina e
-      letti singoli o doppi) permettono di costruire un'interazione comunitaria
-      più approfondita, di continuare le ricerche e le riflessioni anche fuori
-      dall'orario laboratoriale e di costruire un'esperienza completa capace di
-      generare nuovi legami e ulteriori progetti.
-    actions:
-      - type: Button
-        label: Vedi prezzi
-        url: /pricing
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: Prenota ora
-        url: /contatti
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/palme-1(1)_normal.webp
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: 'Focus: Pernottamento'
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
@@ -158,7 +107,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Mockumentary Finito
@@ -169,7 +118,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Film screening portr.jpg
           altText: Placholder image
           styles:
             self:
@@ -194,7 +143,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/A funny raccoon lear.jpg
           altText: Placeholder image
           styles:
             self:
@@ -226,7 +175,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Networking and colla.jpg
           altText: Placeholder image
           styles:
             self:
@@ -279,21 +228,21 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Incominciamo!
+        url: 'https://forms.gle/haY4qM8X9Y4jfXMFA'
         icon: arrowRight
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
-        url: /
+        label: Vedi prezzi
+        url: /pricing
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/A dartboard with the.jpg
       altText: Dope design preview
     badge:
       type: Badge
