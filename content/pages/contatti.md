@@ -14,64 +14,24 @@ sections:
       attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
       l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
     actions:
-      - type: Link
-        label: Send email
-        altText: Play
-        url: info@mattiamuravannuzzi.com
-        showIcon: true
-        icon: send
+      - type: Button
+        label: Voglio Partecipare!
+        altText: ''
+        url: 'https://forms.gle/WEYYtQTFFkRg8oUE8'
+        showIcon: false
+        icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
-    media:
-      type: FormBlock
-      data-netlify: true
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: I have read and accept the legal terms.
-          isRequired: false
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Invia
+      - type: Button
+        label: Info/proposte
+        altText: ''
+        url: 'https://forms.gle/ceMyK9k4Esg4as8C6'
+        showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
-        showIcon: true
-        elementId: '<a href="mailto:info@mattiamuravannuzzi.com">Send Email</a>'
-      elementId: contact-form22
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+        style: secondary
+        elementId: ''
     badge:
       type: Badge
       label: ContATTACI
