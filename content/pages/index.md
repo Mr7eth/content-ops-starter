@@ -441,7 +441,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Iscriviti alla prossima edizione!
+      text: Iscriviti al primo laboratorio!
       color: text-dark
       type: TitleBlock
     subtitle: ''
