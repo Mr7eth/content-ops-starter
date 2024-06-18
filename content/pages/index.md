@@ -403,7 +403,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Uditore
-        tagline: 'Max partecipnti: 2'
+        tagline: 'Max partecipanti: 2'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
