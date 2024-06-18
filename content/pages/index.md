@@ -461,9 +461,9 @@ sections:
           borderRadius: medium
   - type: ImageGallerySection
     subtitle: >-
-      Questa prima residenza si svolgerà presso lo scenario di Villa Santa
-      Giulia, una villa immersa nelle bellezze naturali toscane, a pochi passi
-      dal mare, tra il 9 e il 15 Settembre 2024.
+      La prima residenza si svolgerà presso lo scenario di Villa Santa Giulia,
+      una villa immersa nelle bellezze naturali toscane, a pochi passi dal mare,
+      tra il 9 e il 15 Settembre 2024.
     images:
       - type: ImageBlock
         url: /images/picolo-50.jpg
