@@ -59,7 +59,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/main-hero.svg
+      url: /images/A draft of a schedul.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
