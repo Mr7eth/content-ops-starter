@@ -461,9 +461,9 @@ sections:
           borderRadius: medium
   - type: ImageGallerySection
     subtitle: >-
-      La prima residenza si svolgerà presso lo scenario di Villa Santa Giulia,
-      una villa immersa nelle bellezze naturali toscane, a pochi passi dal mare,
-      tra il 9 e il 15 Settembre 2024.
+      Villa Santa Giulia si trova nell'entroterra del Golfo di Follonica, a 800
+      metri dalla spiaggia di Torre Mozza, all'interno del Parco Costiero della
+      Sterpaia.
     images:
       - type: ImageBlock
         url: /images/picolo-50.jpg
