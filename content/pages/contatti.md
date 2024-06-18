@@ -23,55 +23,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    media:
-      type: FormBlock
-      data-netlify: true
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: I have read and accept the legal terms.
-          isRequired: false
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Invia
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        showIcon: true
-        elementId: '<a href="mailto:info@mattiamuravannuzzi.com">Send Email</a>'
-      elementId: contact-form22
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
       label: ContATTACI
