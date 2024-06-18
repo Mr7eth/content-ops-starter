@@ -67,7 +67,7 @@ sections:
     type: FeaturedPeopleSection
 seo:
   metaTitle: team
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: This is the team page
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
