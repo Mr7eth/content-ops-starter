@@ -63,7 +63,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Iscriviti
-            url: /Contatti
+            url: 'https://forms.gle/YzRR7iH8HCV6T3iC9'
             icon: arrowRight
             iconPosition: right
             style: secondary
