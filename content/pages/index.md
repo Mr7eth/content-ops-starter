@@ -441,7 +441,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: 'Progetto #0: dal 9 al 15 Settembre a Villa Santa Giulia, Follonica (GR)'
     images:
       - type: ImageBlock
         url: /images/palme-1(1)_normal.webp
