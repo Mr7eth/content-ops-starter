@@ -15,7 +15,7 @@ sections:
       filmmaker Mattia Mura, che accompagnerà i makers nel percorso di
       realizzazione del documentario, dalle prime riprese fino al montaggio
       finale, mentre per la recitazione Leonarda Saffi, che condurrà il team di
-      attori attraverso l'improvvisazione e la creazione dei personaggi.
+      attori/attrici attraverso l'improvvisazione e la creazione dei personaggi.
     actions: []
     colors: bg-neutral-fg-dark
     styles:
