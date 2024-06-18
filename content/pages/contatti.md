@@ -24,7 +24,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Voglio Partecipare!
         altText: ''
         url: 'https://forms.gle/WEYYtQTFFkRg8oUE8'
         showIcon: false
