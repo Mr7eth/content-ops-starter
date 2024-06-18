@@ -371,7 +371,7 @@ sections:
 slug: /contatti
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Home
   metaDescription: This demo site is built with Netlify Create
   socialImage: /images/main-hero.jpg
   metaTags: []
