@@ -47,7 +47,7 @@
                     "type": "Link",
                     "label": "Contattaci",
                     "altText": "/contatti",
-                    "url": "/contatti",
+                    "url": "",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
