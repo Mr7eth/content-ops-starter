@@ -182,7 +182,7 @@ sections:
     items:
       - title: '2 professionisti, 1 progetto collettivo'
         tagline: 'Motivazione #1'
-        subtitle: ''
+        subtitle: '2 professionisti, 1 progetto collettivo'
         text: >
           I nostri esperti ti guideranno attraverso tecniche di improvvisazione
           avanzate e strategie di filmmaking, permettendoti di affinare le tue
