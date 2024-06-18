@@ -58,9 +58,10 @@ sections:
       **Pomeriggio:** 14:00 - 19:00 (circa)
 
 
-      **Divisione dei Tutor:
+      **Divisione dei Tutor:**
 
-      Tutor Makers**: Guida alla realizzazione dell'audiovisivo.
+
+      **Tutor Makers**: Guida alla realizzazione dell'audiovisivo.
 
       **Tutor Attori/attrici**: Guida alle attività di improvvisazione,
       interpretazione del personaggio e performance.
