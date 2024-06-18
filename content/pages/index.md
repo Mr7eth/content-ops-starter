@@ -404,7 +404,7 @@ sections:
       - type: FeaturedItem
         title: Uditore
         tagline: 'Max partecipanti: 2'
-        subtitle: Se preferisci non metterti in gioco stavolta
+        subtitle: Studenti/ricercatori o curiosi
         text: >
           Se hai voglia di osservare, prendere appunti, approfondire guardando e
           supportando il progetto in una posizione che non ti coinvolga
