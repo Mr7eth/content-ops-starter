@@ -248,7 +248,7 @@ sections:
           su grande schermo, con una discussione finale che ti permetterà di
           riflettere sull'esperienza e imparare ancora di più.
         image:
-          url: /images/a screening in a cro.jpg
+          url: /images/d19b8f58-8ee6-4fbb-9ac3-d21652d773f4.jpg
           altText: Maria Walters
           styles:
             self:
