@@ -297,7 +297,7 @@ sections:
         tagline: ''
         subtitle: 'Cecina (Li), 20-22 Settembre 2024'
         text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+          Presentazione del progetto MockumentaryLab
         image:
           type: ImageBlock
           url: /images/logo (1).jpg
