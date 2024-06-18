@@ -13,7 +13,16 @@ sections:
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
       attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
       l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
-    actions: []
+    actions:
+      - type: Link
+        label: Send email
+        altText: Play
+        url: '<a href="mailto:email@example.com">Send Email</a>'
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: FormBlock
       data-netlify: true
