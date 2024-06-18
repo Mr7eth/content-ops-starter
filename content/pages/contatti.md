@@ -54,7 +54,7 @@ sections:
         iconPosition: right
         style: primary
         showIcon: true
-        elementId: INVIA
+        elementId: '<a href="mailto:info@mattiamuravannuzzi.com">Send Email</a>'
       elementId: contact-form22
       styles:
         self:
