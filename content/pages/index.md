@@ -587,57 +587,31 @@ sections:
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
       attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
       l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
-    media:
-      type: FormBlock
-      data-netlify: true
-      name: Formhome
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Invia
-        showIcon: true
-        icon: chevronRight
-        iconPosition: right
-        style: primary
-        elementId: invia
     badge:
       label: ContatTACI
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions:
+      - type: Button
+        label: Voglio Partecipare!
+        altText: ''
+        url: 'https://forms.gle/EZ6JJBhZ2iQhKsra9'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: Altre info
+        altText: ''
+        url: 'https://forms.gle/LnMckUCWG2f3Y51s5'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
