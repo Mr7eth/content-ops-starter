@@ -640,7 +640,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: Get started
+        label: Voglio Partecipare!
         altText: ''
         url: 'https://forms.gle/EZ6JJBhZ2iQhKsra9'
         showIcon: false
