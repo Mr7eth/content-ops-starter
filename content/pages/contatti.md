@@ -375,5 +375,6 @@ seo:
   metaDescription: Lab for Filmmaking and Acting
   socialImage: /images/main-hero.jpg
   metaTags: []
+  addTitleSuffix: true
 isDraft: true
 ---
