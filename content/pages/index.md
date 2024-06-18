@@ -59,6 +59,12 @@ sections:
       residenziale cinematografica dedicata ad attori, attrici, registә e
       appassionatә di cinema che desiderano esplorare il mondo del mockumentary,
       conosciuto anche come "documentario di finzione".
+
+
+      Nel corso di sette giorni avrai l'opportunità di confrontarti con una
+      narrazione ironica e surreale, approfondire le tecniche di creazione del
+      personaggio e realizzazione di un documentario fittizio in un ambiente
+      collaborativo e stimolante.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
