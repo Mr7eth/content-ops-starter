@@ -405,8 +405,7 @@ sections:
         title: Uditore
         tagline: 'Max partecipanti: 2'
         subtitle: Se preferisci non metterti in gioco stavolta
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/close up of a young.jpg
