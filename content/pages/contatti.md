@@ -5,14 +5,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Iscriviti alla prossima edizione!
+      text: Iscriviti alla prima edizione!
       color: text-dark
     subtitle: 'Progetto #0: Follonica, 9-15 Settembre'
     text: >
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
-      attraverso il form presente di seguito indicando il tuo indirizzo e-mail e
-      l'oggetto della tua richiesta! Ti risponderemo entro 3 giorni lavorativi!
+      attraverso i form presenti di seguito! Ti risponderemo entro 3 giorni
+      lavorativi!
     actions:
       - type: Button
         label: Voglio Partecipare!
@@ -72,7 +72,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/main-hero.svg
+      url: /images/A group of young whi.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
@@ -110,7 +110,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: >
-      La soluzione migliore è il modulo di riferimento, ma laddove non fosse
+      La soluzione migliore sono i moduli di riferimento, ma laddove non fosse
       possibile puoi trovarci sui nostri social o sui rispettivi canali elencati
       di seguito. Siamo a tua disposizione per qualsiasi domanda o
       approfondimento!
@@ -139,12 +139,14 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
-        url: /
+        label: Send email
+        altText: Play
+        url: 'mailto:leonardasaffi@gmail.com'
         showIcon: true
-        icon: arrowRight
+        icon: mail
         iconPosition: right
-        style: primary
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Leonarda-Saffi-4.jpg
