@@ -235,7 +235,7 @@ sections:
         style: secondary
       - type: Link
         label: Vedi prezzi
-        url: /
+        url: /pricing
         showIcon: true
         icon: arrowRight
         iconPosition: right
