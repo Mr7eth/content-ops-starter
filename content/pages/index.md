@@ -30,7 +30,7 @@ sections:
         label: See Tutorials
         altText: ''
         url: /pricing
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
