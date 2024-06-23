@@ -27,7 +27,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: Video Presentazione
         altText: ''
         url: 'https://vimeo.com/965786423/6597173106?share=copy'
         showIcon: false
