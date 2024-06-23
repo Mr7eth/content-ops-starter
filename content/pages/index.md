@@ -83,7 +83,7 @@ sections:
           borderRadius: large
       type: VideoBlock
       autoplay: false
-      loop: false
+      loop: true
       muted: false
     colors: bg-light-fg-dark
     styles:
