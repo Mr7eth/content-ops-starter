@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Chi Siamo",
-            "altText": "Careers page",
-            "url": "/chi_siamo",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Programma del Corso",
             "altText": "Blog",
             "url": "/program",
@@ -33,6 +24,15 @@
         {
             "label": "Costi",
             "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Chi Siamo",
+            "altText": "Careers page",
+            "url": "/chi_siamo",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
