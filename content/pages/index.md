@@ -35,6 +35,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /pricing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/a  young filmmaker s.jpg
       altText: Unblock your team boost your time to production preview
