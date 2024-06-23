@@ -465,6 +465,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: Vedi prezzi
+        altText: ''
+        url: /pricing
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       altText: Image alt text placeholder
