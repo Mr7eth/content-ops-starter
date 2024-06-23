@@ -84,7 +84,7 @@ sections:
       type: VideoBlock
       autoplay: true
       loop: true
-      muted: true
+      muted: false
     colors: bg-light-fg-dark
     styles:
       self:
