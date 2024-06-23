@@ -26,6 +26,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://vimeo.com/965786423/6597173106?share=copy'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/a  young filmmaker s.jpg
       altText: Unblock your team boost your time to production preview
