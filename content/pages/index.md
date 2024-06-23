@@ -31,7 +31,7 @@ sections:
         altText: ''
         url: 'https://vimeo.com/965786423/6597173106?share=copy'
         showIcon: true
-        icon: arrowRight
+        icon: chevronRight
         iconPosition: right
         style: secondary
         elementId: ''
