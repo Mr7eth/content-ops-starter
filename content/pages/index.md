@@ -66,8 +66,8 @@ sections:
       personaggio e realizzazione di un documentario fittizio in un ambiente
       collaborativo e stimolante.
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: Mockumentary Lab - Intro
+      url: 'https://vimeo.com/965786423/6597173106?share=copy'
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -82,9 +82,9 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+      autoplay: false
+      loop: false
+      muted: false
     colors: bg-light-fg-dark
     styles:
       self:
