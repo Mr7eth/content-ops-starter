@@ -19,7 +19,7 @@ sections:
     actions:
       - label: Iscriviti
         altText: ''
-        url: /contatti
+        url: 'https://forms.gle/EZ6JJBhZ2iQhKsra9'
         showIcon: false
         icon: arrowRight
         iconPosition: right
