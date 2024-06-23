@@ -29,7 +29,7 @@ sections:
       - type: Link
         label: Video Presentazione
         altText: ''
-        url: /pricing
+        url: 'https://vimeo.com/965786423/6597173106?share=copy'
         showIcon: true
         icon: arrowRight
         iconPosition: right
