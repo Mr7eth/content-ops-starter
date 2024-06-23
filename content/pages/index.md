@@ -466,7 +466,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Vedi prezzi
         altText: ''
         url: /pricing
         showIcon: false
