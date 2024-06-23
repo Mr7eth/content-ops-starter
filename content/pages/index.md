@@ -26,6 +26,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Video Presentazione
+        altText: ''
+        url: 'https://vimeo.com/965786423/6597173106?share=copy'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/a  young filmmaker s.jpg
       altText: Unblock your team boost your time to production preview
@@ -68,7 +77,7 @@ sections:
     media:
       title: Mockumentary Lab - Intro
       url: 'https://vimeo.com/965786423/6597173106?share=copy'
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
