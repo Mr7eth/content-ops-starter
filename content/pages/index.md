@@ -67,7 +67,7 @@ sections:
       collaborativo e stimolante.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://vimeo.com/965786423/6597173106?share=copy'
       controls: false
       aspectRatio: '16:9'
       styles:
