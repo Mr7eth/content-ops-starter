@@ -22,17 +22,17 @@
             "type": "Link"
         },
         {
-            "label": "Chi Siamo",
-            "altText": "Careers page",
-            "url": "/chi_siamo",
+            "label": "Costi",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Costi",
-            "url": "/pricing",
+            "label": "Chi Siamo",
+            "altText": "Careers page",
+            "url": "/chi_siamo",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
