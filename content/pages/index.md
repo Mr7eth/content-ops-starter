@@ -26,11 +26,11 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - type: Button
+      - type: Link
         label: Video Presentazione
         altText: ''
         url: 'https://vimeo.com/965786423/6597173106?share=copy'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
