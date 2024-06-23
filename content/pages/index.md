@@ -27,7 +27,7 @@ sections:
         elementId: ''
         type: Button
       - type: Link
-        label: See Tutorials
+        label: Video Presentazione
         altText: ''
         url: /pricing
         showIcon: true
