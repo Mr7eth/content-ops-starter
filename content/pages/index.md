@@ -68,7 +68,7 @@ sections:
     media:
       title: Mockumentary Lab - Intro
       url: 'https://vimeo.com/965786423/6597173106?share=copy'
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
