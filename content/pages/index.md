@@ -535,6 +535,7 @@ seo:
   metaDescription: ''
   socialImage: /images/Mockumentary lab (1).png
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
 <form name="contact" netlify>
