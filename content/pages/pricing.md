@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Solo Lab
         price: '320,00 €'
-        details: 'Fino al 30 Luglio 2024, poi 350,00 €'
+        details: 'Fino al 9 Agosto 2024, poi 350,00 €'
         description: >
           Comprende una settimana di Laboratorio come parte del team Filmmaking
           o Recitazione.
