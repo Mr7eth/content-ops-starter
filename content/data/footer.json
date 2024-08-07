@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Introduzione",
-                "url": "/Contatti",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
