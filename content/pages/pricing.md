@@ -12,7 +12,7 @@ sections:
     subtitle: Prezzi del primo laboratorio. Non saranno mai più così bassi!
     plans:
       - title: Solo Lab
-        price: '320,00 €'
+        price: '300,00 €'
         details: 'Fino al 9 Agosto 2024, poi 350,00 €'
         description: >
           Comprende una settimana di Laboratorio come parte del team Filmmaking
@@ -43,7 +43,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Lab + Ospitalità
-        price: '420,00 €'
+        price: '400,00 €'
         details: 'Fino al 9 Agosto 2024, poi 450,00 €'
         description: >+
           Comprende una settimana di Laboratorio come parte del team Filmmaking
