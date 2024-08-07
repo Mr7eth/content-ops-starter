@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Iscriviti alla prima edizione!
       color: text-dark
-    subtitle: 'Progetto #0: Follonica, 9-15 Settembre'
+    subtitle: 'Progetto #0: Piombino, 9-15 Settembre'
     text: >
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
@@ -132,12 +132,6 @@ sections:
       A service that helps businesses to manage their social media accounts and
       posts.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: Send email
         altText: Play
@@ -253,7 +247,7 @@ sections:
       - type: FeaturedItem
         title: 'MockumentaryLab #0'
         tagline: ''
-        subtitle: 'Follonica (Gr), 9-15 Settembre 2024'
+        subtitle: 'Piombino (Li), 9-15 Settembre 2024'
         text: |
           Il primo progetto di Mockumentary Lab! Iscrizioni aperte!
         image:
@@ -303,7 +297,7 @@ sections:
         tagline: ''
         subtitle: 'Cecina (Li), 20-22 Settembre 2024'
         text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+          Presentazione del progetto MockumentaryLab
         image:
           type: ImageBlock
           url: /images/logo (1).jpg
