@@ -43,7 +43,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Lab + Ospitalità
-        price: '420,00 €'
+        price: '400,00 €'
         details: 'Fino al 9 Agosto 2024, poi 450,00 €'
         description: >+
           Comprende una settimana di Laboratorio come parte del team Filmmaking
