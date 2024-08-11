@@ -9,9 +9,6 @@ sections:
       color: text-dark
     subtitle: 'Progetto #0: Piombino, 9-15 Settembre'
     text: >
-      **DEADLINE: 25 AGOSTO!**
-
-
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
       attraverso i form presenti di seguito! Ti risponderemo entro 3 giorni
