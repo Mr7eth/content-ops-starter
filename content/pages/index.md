@@ -427,7 +427,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: 'Iscriviti al Lab #0!'
+      text: "Iscriviti al Lab #0!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Hai tempo fino al 25 Agosto 2024!"
       color: text-dark
       type: TitleBlock
     subtitle: ''
@@ -531,8 +531,12 @@ sections:
       text: "Lab #0: 9-15 Settembre\_ \_ \_ \_ \_ \_ \_ \_ \_ Villa Santa Giulia, Piombino (LI)"
       color: text-dark
 seo:
-  metaTitle: Home
-  metaDescription: ''
+  metaTitle: Mockumentary Lab Home
+  metaDescription: >-
+    Mockumentary Lab, Mockumentary, Homepage workshop, laboratorio di
+    improvvisazione attoriale e filmmaking, Mattia Mura, Leonarda Saffi,
+    workshop, laboratorio, attori, attrici, filmmaker, documentario,
+    mockumentary
   socialImage: /images/Mockumentary lab (1).png
   type: Seo
   addTitleSuffix: true
