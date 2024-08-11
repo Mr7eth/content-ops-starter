@@ -66,9 +66,10 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
 seo:
-  metaTitle: team
-  metaDescription: This is the team page
+  metaTitle: Mockumentary Lab Team
+  metaDescription: This is the team page with Mattia Mura and Leonarda Saffi
   socialImage: /images/A group of young whi.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
