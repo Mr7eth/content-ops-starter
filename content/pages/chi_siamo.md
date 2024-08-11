@@ -67,7 +67,7 @@ sections:
     type: FeaturedPeopleSection
 seo:
   metaTitle: Mockumentary Lab Team
-  metaDescription: This is the team page with Mattia Mura and Leonarda Saffi
+  metaDescription: This is the team page with Mattia Mura regista and Leonarda Saffi attrice
   socialImage: /images/A group of young whi.jpg
   type: Seo
   addTitleSuffix: true
