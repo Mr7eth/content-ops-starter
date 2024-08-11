@@ -532,7 +532,11 @@ sections:
       color: text-dark
 seo:
   metaTitle: Mockumentary Lab Home
-  metaDescription: ''
+  metaDescription: >-
+    Mockumentary Lab, Mockumentary, Homepage workshop, laboratorio di
+    improvvisazione attoriale e filmmaking, Mattia Mura, Leonarda Saffi,
+    workshop, laboratorio, attori, attrici, filmmaker, documentario,
+    mockumentary
   socialImage: /images/Mockumentary lab (1).png
   type: Seo
   addTitleSuffix: true
