@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Iscriviti alla prima edizione!
+      text: Iscriviti alla prima edizione! Hai tempo fino al 25 Agosto 2024!
       color: text-dark
     subtitle: 'Progetto #0: Piombino, 9-15 Settembre'
     text: >
