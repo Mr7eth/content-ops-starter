@@ -9,7 +9,7 @@ sections:
       color: text-dark
     subtitle: 'Progetto #0: Piombino, 9-15 Settembre'
     text: >
-      DEADLINE: 25 AGOSTO!
+      **DEADLINE: 25 AGOSTO!**
 
 
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
