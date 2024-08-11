@@ -333,10 +333,15 @@ sections:
 slug: /contatti
 seo:
   type: Seo
-  metaTitle: Contatti
+  metaTitle: Mockumentary Lab
   metaDescription: Lab for Filmmaking and Acting
   socialImage: /images/Mockumentary lab (1).png
-  metaTags: []
+  metaTags:
+    - type: MetaTag
+      content: >-
+        Mockumentary Lab, Mattia Mura, Leonarda Saffi, Contatti, Contattaci,
+        Mockumentary, Lab, Workshop, Workshop di recitazione, Workshop di
+        cinema, Toscana
   addTitleSuffix: false
 isDraft: false
 ---
