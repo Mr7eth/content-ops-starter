@@ -333,7 +333,7 @@ sections:
 slug: /contatti
 seo:
   type: Seo
-  metaTitle: Contatti
+  metaTitle: Mockumentary Lab
   metaDescription: Lab for Filmmaking and Acting
   socialImage: /images/Mockumentary lab (1).png
   metaTags: []
