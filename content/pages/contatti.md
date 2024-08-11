@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Iscriviti alla prima edizione!
       color: text-dark
-    subtitle: "Progetto #0: Piombino, 9-15 Settembre\_ \_ \_ HAI TEMPO FINO AL 25 AGOSTO 2024!"
+    subtitle: 'Progetto #0: Piombino, 9-15 Settembre'
     text: >
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
