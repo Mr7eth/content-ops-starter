@@ -70,5 +70,6 @@ seo:
   metaDescription: This is the team page
   socialImage: /images/A group of young whi.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
