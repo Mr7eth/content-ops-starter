@@ -66,7 +66,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
 seo:
-  metaTitle: team
+  metaTitle: Mockumentary Lab Team
   metaDescription: This is the team page
   socialImage: /images/A group of young whi.jpg
   type: Seo
