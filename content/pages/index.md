@@ -531,7 +531,7 @@ sections:
       text: "Lab #0: 9-15 Settembre\_ \_ \_ \_ \_ \_ \_ \_ \_ Villa Santa Giulia, Piombino (LI)"
       color: text-dark
 seo:
-  metaTitle: Home
+  metaTitle: Mockumentary Lab Home
   metaDescription: ''
   socialImage: /images/Mockumentary lab (1).png
   type: Seo
