@@ -427,7 +427,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: 'Iscriviti al Lab #0!'
+      text: 'Iscriviti al Lab #0! Hai tempo fino al 25 Agosto 2024!'
       color: text-dark
       type: TitleBlock
     subtitle: ''
