@@ -397,7 +397,7 @@ sections:
           direttamente, c'è posto anche per te! Contattaci per saperne di più.
         image:
           type: ImageBlock
-          url: /images/close up of a young.jpg
+          url: /images/Screenshot (49).png
           altText: Placeholder text
           styles:
             self:
