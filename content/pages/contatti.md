@@ -278,7 +278,7 @@ sections:
           storia!
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/IMG_3263-e1547997480474.jpg
           altText: Placeholder image
           styles:
             self:
