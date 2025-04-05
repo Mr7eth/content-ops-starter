@@ -88,7 +88,7 @@ sections:
           Mockumentary Lab!
         features: []
         image:
-          url: /images/new projects and ide.jpg
+          url: /images/quadro.JPG
           altText: Pricing plan 3
           type: ImageBlock
         actions:
