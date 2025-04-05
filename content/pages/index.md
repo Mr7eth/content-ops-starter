@@ -397,7 +397,7 @@ sections:
           direttamente, c'è posto anche per te! Contattaci per saperne di più.
         image:
           type: ImageBlock
-          url: /images/Realistic photo port (1).jpg
+          url: /images/d19b8f58-8ee6-4fbb-9ac3-d21652d773f4.jpg
           altText: Placeholder text
           styles:
             self:
