@@ -336,7 +336,7 @@ sections:
           collaborare alla realizzazione di un finto documentario in un'ambiente
           coinvolgente ed entusiasmante!
         image:
-          url: /images/9c6f62e1-bb80-44a2-87ac-4108cb7ebce4.jpg
+          url: /images/A funny raccoon lear.jpg
           altText: Placeholder Image
           styles:
             self:
