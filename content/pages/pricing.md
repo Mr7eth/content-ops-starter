@@ -58,7 +58,7 @@ sections:
           - Restituzione live del lavoro svolto
           - Accesso ad un antica Villa toscana con giardino
         image:
-          url: /images/beautiful villa in t (1).jpg
+          url: /images/villa-santa-giuliabb.jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
