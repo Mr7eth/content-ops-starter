@@ -336,7 +336,7 @@ sections:
           collaborare alla realizzazione di un finto documentario in un'ambiente
           coinvolgente ed entusiasmante!
         image:
-          url: /images/9c6f62e1-bb80-44a2-87ac-4108cb7ebce4.jpg
+          url: /images/Screenshot (905).png
           altText: Placeholder Image
           styles:
             self:
@@ -363,7 +363,7 @@ sections:
           ed essere tra i personaggi del mockumentary creato durante il lab,
           oltre ad essere tra i protagonisti di una performance finale live.
         image:
-          url: /images/portrait of two youn.jpg
+          url: /images/IMG_0049.JPG
           altText: Placeholder image
           styles:
             self:
@@ -397,7 +397,7 @@ sections:
           direttamente, c'è posto anche per te! Contattaci per saperne di più.
         image:
           type: ImageBlock
-          url: /images/close up of a young.jpg
+          url: /images/d19b8f58-8ee6-4fbb-9ac3-d21652d773f4.jpg
           altText: Placeholder text
           styles:
             self:
@@ -427,12 +427,12 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: "Iscriviti al Lab #0!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Hai tempo fino al 25 Agosto 2024!"
+      text: "Iscriviti al Lab #1!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Hai tempo fino al 2 Giugno 2025!"
       color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >
-      La prima residenza si svolgerà presso lo scenario di Villa Santa Giulia,
+      La seconda residenza si svolgerà presso lo scenario di Villa Santa Giulia,
       una villa immersa nelle bellezze naturali toscane, a pochi passi dal mare.
 
 
@@ -528,7 +528,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: "Lab #0: 9-15 Settembre\_ \_ \_ \_ \_ \_ \_ \_ \_ Villa Santa Giulia, Piombino (LI)"
+      text: "Lab #1: 10-17 Giugno\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Villa Santa Giulia, Piombino (LI)"
       color: text-dark
 seo:
   metaTitle: Mockumentary Lab Home
