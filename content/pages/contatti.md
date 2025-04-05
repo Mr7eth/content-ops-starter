@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Iscriviti alla seconda edizione! Hai tempo fino al 25 Agosto 2024!
+      text: Iscriviti alla seconda edizione! Hai tempo fino al 2 Giugno 2025!
       color: text-dark
     subtitle: 'Progetto #0: Piombino, 9-15 Settembre'
     text: >
