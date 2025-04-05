@@ -148,8 +148,8 @@ sections:
       color: text-dark
     subtitle: Attrice e Regista Teatrale
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Contatta direttamente la formatrice Leonarda Saffi per avere informazioni
+      sul laboratorio e sul suo lavoro
     actions:
       - type: Link
         label: Send email
