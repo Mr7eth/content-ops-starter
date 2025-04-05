@@ -70,6 +70,16 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          https://www.instagram.com/lacompagniatherainbowtheatre?igsh=dHI0M2llMGJmMHU2
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/A group of young whi.jpg
