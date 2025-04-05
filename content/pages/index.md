@@ -137,7 +137,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/group picture of hap.jpg
+      url: /images/unisciti.JPG
       altText: Dope design preview
       type: ImageBlock
     badge:
