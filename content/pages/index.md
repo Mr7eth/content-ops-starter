@@ -231,7 +231,7 @@ sections:
           in alcuni dei luoghi più belli della Toscana
 
         image:
-          url: /images/A group of young adu.jpg
+          url: /images/IMG_0006.JPG
           altText: Maria Walters
           styles:
             self:
