@@ -173,7 +173,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Networking and colla.jpg
+          url: /images/pubb.JPG
           altText: Placeholder image
           styles:
             self:
