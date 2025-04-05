@@ -141,7 +141,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/A funny raccoon lear.jpg
+          url: /images/ddd.JPG
           altText: Placeholder image
           styles:
             self:
