@@ -240,7 +240,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/A dartboard with the.jpg
+      url: /images/IMG_0006.JPG
       altText: Dope design preview
     badge:
       type: Badge
