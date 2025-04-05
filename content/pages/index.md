@@ -528,7 +528,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: "Lab #0: 9-15 Settembre\_ \_ \_ \_ \_ \_ \_ \_ \_ Villa Santa Giulia, Piombino (LI)"
+      text: "Lab #1: 10-17 Giugno\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Villa Santa Giulia, Piombino (LI)"
       color: text-dark
 seo:
   metaTitle: Mockumentary Lab Home
