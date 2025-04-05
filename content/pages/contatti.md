@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Iscriviti alla seconda edizione! Hai tempo fino al 2 Giugno 2025!
       color: text-dark
-    subtitle: 'Progetto #0: Piombino, 9-15 Settembre'
+    subtitle: 'Progetto #0: Piombino, 9-15 Settembre 2025'
     text: >
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
