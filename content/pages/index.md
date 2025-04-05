@@ -36,7 +36,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/a  young filmmaker s.jpg
+      url: /images/Screenshot (33).png
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
