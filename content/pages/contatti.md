@@ -253,7 +253,7 @@ sections:
           Agosto!
         image:
           type: ImageBlock
-          url: /images/villa-santa-giuliabb.jpg
+          url: /images/IMG_20211026_125729-scaled.jpg
           altText: Placholder image
           styles:
             self:
