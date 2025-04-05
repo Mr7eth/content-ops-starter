@@ -432,7 +432,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      La prima residenza si svolgerà presso lo scenario di Villa Santa Giulia,
+      La seconda residenza si svolgerà presso lo scenario di Villa Santa Giulia,
       una villa immersa nelle bellezze naturali toscane, a pochi passi dal mare.
 
 
