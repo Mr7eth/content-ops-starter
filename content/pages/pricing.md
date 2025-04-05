@@ -44,7 +44,7 @@ sections:
         type: PricingPlan
       - title: Lab + Ospitalità
         price: '400,00 €'
-        details: 'Fino al 15 Maggio 2025, poi 450,00 €'
+        details: 'Fino al 19 Maggio 2025, poi 450,00 €'
         description: >+
           Comprende una settimana di Laboratorio come parte del team Filmmaking
           o Recitazione + alloggio in una villa lussuosa della campagna toscana
