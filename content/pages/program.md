@@ -116,7 +116,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Film screening portr.jpg
+          url: /images/Screenshot (47).png
           altText: Placholder image
           styles:
             self:
