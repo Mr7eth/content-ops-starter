@@ -71,6 +71,15 @@ sections:
         style: primary
         elementId: ''
       - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://www.facebook.com/helixpictures.it'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
         label: Rainbow Theatre
         altText: ''
         url: >-
