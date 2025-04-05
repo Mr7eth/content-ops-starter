@@ -79,7 +79,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Nuovi progetti
-        price: '???'
+        price: Open Call
         details: ''
         description: >
           Se sei un operatore culturale, un amministrazione locale, un
