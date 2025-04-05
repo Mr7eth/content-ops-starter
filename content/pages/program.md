@@ -240,7 +240,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/IMG_0006.JPG
+      url: /images/boccalone.JPG
       altText: Dope design preview
     badge:
       type: Badge
