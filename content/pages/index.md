@@ -36,7 +36,6 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/intro.png
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
