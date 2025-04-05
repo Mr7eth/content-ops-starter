@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: 'Costi del Progetto #0'
+      text: 'Costi del Progetto #1'
       color: text-dark
       styles:
         self:
