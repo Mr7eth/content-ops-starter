@@ -71,7 +71,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Helix Pictures
         altText: ''
         url: 'https://www.facebook.com/helixpictures.it'
         showIcon: false
