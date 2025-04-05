@@ -278,7 +278,7 @@ sections:
           storia!
         image:
           type: ImageBlock
-          url: /images/IMG_3263-e1547997480474.jpg
+          url: /images/villa-santa-giuliabb.jpg
           altText: Placeholder image
           styles:
             self:
