@@ -46,18 +46,16 @@ sections:
       **Durata: 7 giorni**
 
 
-      **Accoglienza:** Lunedì 9 Settembre
+      **Accoglienza:** Martedì 10 Giugno - dalle ore 10.00 alle 12.30
 
 
-      **Inizio Laboratorio:** Martedì 10 Settembre
+      **Inizio Laboratorio:** Martedì 10 Giugno - dalle ore 14.00
 
-      **Restituzione pubblica:** Domenica 15 Settembre
-
-      **Fine Laboratorio:** Domenica 15 Settembre
+      **Fine Laboratorio:** Martedì 17 Giugno - ore 12.00
 
 
-      **Orario delle sessioni: Mattina:** 9:00 - 12:30         **Pomeriggio:**
-      14:00 - 19:00 (circa)
+      **Orari indicativi delle sessioni: Mattina:** 9:00 - 12:30        
+      **Pomeriggio:** 14:00 - 19:00
     actions: []
     media:
       type: ImageBlock
