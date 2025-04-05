@@ -297,7 +297,7 @@ sections:
       - type: FeaturedItem
         title: Cecinema Festival
         tagline: ''
-        subtitle: 'Cecina (Li), 20-22 Settembre 2024'
+        subtitle: 'Cecina (Li), 24-29 Settembre 2025'
         text: |
           Presentazione del progetto MockumentaryLab
         image:
