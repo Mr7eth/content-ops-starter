@@ -36,10 +36,10 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/a  young filmmaker s.jpg
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
+      url: /images/intro.png
     badge:
       label: ''
       color: text-primary
@@ -137,7 +137,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/group picture of hap.jpg
+      url: /images/unisciti.JPG
       altText: Dope design preview
       type: ImageBlock
     badge:
@@ -202,7 +202,7 @@ sections:
           sperimentare, creando personaggi e storie che rispecchiano la tua
           visione unica.
         image:
-          url: /images/a person with a ligh.jpg
+          url: /images/DSC00030.JPG
           altText: John Doe
           styles:
             self:
@@ -231,7 +231,7 @@ sections:
           in alcuni dei luoghi più belli della Toscana
 
         image:
-          url: /images/A group of young adu.jpg
+          url: /images/IMG_0006.JPG
           altText: Maria Walters
           styles:
             self:
