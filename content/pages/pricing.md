@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Prezzi del primo laboratorio. Non saranno mai più così bassi!
+    subtitle: Prezzi del secondo laboratorio. Non saranno mai più così bassi!
     plans:
       - title: Solo Lab
         price: '300,00 €'
