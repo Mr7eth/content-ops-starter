@@ -22,7 +22,7 @@ sections:
           - Supervisione di due insegnanti esperti
           - Restituzione live del lavoro svolto
         image:
-          url: /images/theatrical activity.jpg
+          url: /images/IMG_0224.JPG
           altText: Pricing plan 1
           type: ImageBlock
         actions:
