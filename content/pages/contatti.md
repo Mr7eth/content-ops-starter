@@ -71,7 +71,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Rainbow Theatre
         altText: ''
         url: >-
           https://www.instagram.com/lacompagniatherainbowtheatre?igsh=dHI0M2llMGJmMHU2
