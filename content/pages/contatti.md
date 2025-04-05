@@ -273,8 +273,9 @@ sections:
         title: 'MockumentaryLab #1'
         tagline: ''
         subtitle: 'Torremozza (Li), 10-16 Giugno 2025'
-        text: |
-          Contattaci per organizzare insieme una nuova data di Mockumentary Lab!
+        text: >
+          Il nuovo progetto di Mockumentary Lab! Stessa location, una nuova
+          storia!
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
