@@ -3,17 +3,17 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: 'Costi del Progetto #0'
+      text: 'Costi del Progetto #1'
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Prezzi del primo laboratorio. Non saranno mai più così bassi!
+    subtitle: Prezzi del secondo laboratorio. Non saranno mai più così bassi!
     plans:
       - title: Solo Lab
         price: '300,00 €'
-        details: 'Fino al 9 Agosto 2024, poi 350,00 €'
+        details: 'Fino al 19 Maggio 2025, poi 350,00 €'
         description: >
           Comprende una settimana di Laboratorio come parte del team Filmmaking
           o Recitazione.
@@ -22,7 +22,7 @@ sections:
           - Supervisione di due insegnanti esperti
           - Restituzione live del lavoro svolto
         image:
-          url: /images/theatrical activity.jpg
+          url: /images/IMG_0224.JPG
           altText: Pricing plan 1
           type: ImageBlock
         actions:
@@ -44,7 +44,7 @@ sections:
         type: PricingPlan
       - title: Lab + Ospitalità
         price: '400,00 €'
-        details: 'Fino al 9 Agosto 2024, poi 450,00 €'
+        details: 'Fino al 19 Maggio 2025, poi 450,00 €'
         description: >+
           Comprende una settimana di Laboratorio come parte del team Filmmaking
           o Recitazione + alloggio in una villa lussuosa della campagna toscana
@@ -58,7 +58,7 @@ sections:
           - Restituzione live del lavoro svolto
           - Accesso ad un antica Villa toscana con giardino
         image:
-          url: /images/beautiful villa in t (1).jpg
+          url: /images/ospit.JPG
           altText: Pricing plan 2
           type: ImageBlock
         actions:
@@ -79,7 +79,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Nuovi progetti
-        price: Da decidere
+        price: Open Call
         details: ''
         description: >
           Se sei un operatore culturale, un amministrazione locale, un
@@ -88,7 +88,7 @@ sections:
           Mockumentary Lab!
         features: []
         image:
-          url: /images/new projects and ide.jpg
+          url: /images/quadro_lumino.JPG
           altText: Pricing plan 3
           type: ImageBlock
         actions:
