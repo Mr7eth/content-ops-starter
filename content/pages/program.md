@@ -46,22 +46,20 @@ sections:
       **Durata: 7 giorni**
 
 
-      **Accoglienza:** Lunedì 9 Settembre
+      **Accoglienza:** Martedì 10 Giugno - dalle ore 10.00 alle 12.30
 
 
-      **Inizio Laboratorio:** Martedì 10 Settembre
+      **Inizio Laboratorio:** Martedì 10 Giugno - dalle ore 14.00
 
-      **Restituzione pubblica:** Domenica 15 Settembre
-
-      **Fine Laboratorio:** Domenica 15 Settembre
+      **Fine Laboratorio:** Martedì 17 Giugno - ore 12.00
 
 
-      **Orario delle sessioni: Mattina:** 9:00 - 12:30         **Pomeriggio:**
-      14:00 - 19:00 (circa)
+      **Orari indicativi delle sessioni: Mattina:** 9:00 - 12:30        
+      **Pomeriggio:** 14:00 - 19:00
     actions: []
     media:
       type: ImageBlock
-      url: /images/A draft of a schedul (1).jpg
+      url: /images/programma.JPG
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
@@ -118,7 +116,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Film screening portr.jpg
+          url: /images/Screenshot (47).png
           altText: Placholder image
           styles:
             self:
@@ -143,7 +141,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/A funny raccoon lear.jpg
+          url: /images/ddd.JPG
           altText: Placeholder image
           styles:
             self:
@@ -175,7 +173,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Networking and colla.jpg
+          url: /images/pubb.JPG
           altText: Placeholder image
           styles:
             self:
@@ -242,7 +240,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/A dartboard with the.jpg
+      url: /images/IMG_0229.png
       altText: Dope design preview
     badge:
       type: Badge
