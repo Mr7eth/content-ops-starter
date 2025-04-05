@@ -39,6 +39,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
+      url: /images/intro.png
     badge:
       label: ''
       color: text-primary
