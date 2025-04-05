@@ -44,13 +44,13 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      I nostri social sono ancora in costruzione, si attiveranno dopo il
-      Progetto #0.
+      Le pagine di riferimento sono quelle delle due organizzazioni che si
+      occupano di MockumentaryLab, ovvero Helix Pictures & La Compagnia the
+      rainbow theatre.
 
 
-
-      Intanto puoi trovarci su Instagram e Facebook sui nostri account
-      personali!
+      Puoi trovarci su Instagram e Facebook alle pagine delle organizzazioni o
+      sui nostri account personali!
     actions:
       - type: Button
         label: '@LeonardaSaffi'
