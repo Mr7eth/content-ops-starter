@@ -91,7 +91,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/A group of young whi.jpg
+      url: /images/Screenshot (48).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
