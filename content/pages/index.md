@@ -287,7 +287,7 @@ sections:
           troverai in un ambiente molto più piacevole rispetto alla vita
           quotidiana!
         image:
-          url: /images/fc1ec178-8870-42d0-b388-283eb2999996.jpg
+          url: /images/Screenshot (52).png
           altText: Maria Walters
           styles:
             self:
