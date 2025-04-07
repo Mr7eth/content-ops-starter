@@ -39,7 +39,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
-      url: /images/DSC00028.JPG
+      url: /images/sfoho.JPG
     badge:
       label: ''
       color: text-primary
