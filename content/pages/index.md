@@ -229,7 +229,7 @@ sections:
           in alcuni dei luoghi più belli della Toscana
 
         image:
-          url: /images/IMG_0006.JPG
+          url: /images/Screenshot (53).png
           altText: Maria Walters
           styles:
             self:
