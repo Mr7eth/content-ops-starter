@@ -5,9 +5,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Iscriviti alla prima edizione! Hai tempo fino al 25 Agosto 2024!
+      text: Iscriviti alla seconda edizione! Hai tempo fino al 2 Giugno 2025!
       color: text-dark
-    subtitle: 'Progetto #0: Piombino, 9-15 Settembre'
+    subtitle: 'Progetto #1: Piombino, 10-17 Giugno 2025'
     text: >
       Se vuoi iscriverti al prossimo laboratorio, ricevere informazioni
       aggiuntive o ospitare il progetto nel tuo territorio, contattaci
@@ -44,13 +44,13 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      I nostri social sono ancora in costruzione, si attiveranno dopo il
-      Progetto #0.
+      Le pagine di riferimento sono quelle delle due organizzazioni che si
+      occupano di MockumentaryLab, ovvero Helix Pictures & La Compagnia the
+      rainbow theatre.
 
 
-
-      Intanto puoi trovarci su Instagram e Facebook sui nostri account
-      personali!
+      Puoi trovarci su Instagram e Facebook alle pagine delle organizzazioni o
+      sui nostri account personali!
     actions:
       - type: Button
         label: '@LeonardaSaffi'
@@ -70,9 +70,28 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Helix Pictures
+        altText: ''
+        url: 'https://www.facebook.com/helixpictures.it'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Rainbow Theatre
+        altText: ''
+        url: >-
+          https://www.instagram.com/lacompagniatherainbowtheatre?igsh=dHI0M2llMGJmMHU2
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
-      url: /images/A group of young whi.jpg
+      url: /images/Screenshot (48).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
@@ -129,8 +148,8 @@ sections:
       color: text-dark
     subtitle: Attrice e Regista Teatrale
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Contatta direttamente la formatrice Leonarda Saffi per avere informazioni
+      sul laboratorio e sul suo lavoro
     actions:
       - type: Link
         label: Send email
@@ -253,7 +272,7 @@ sections:
           Agosto!
         image:
           type: ImageBlock
-          url: /images/villa-santa-giuliabb.jpg
+          url: /images/IMG_20211026_125729-scaled.jpg
           altText: Placholder image
           styles:
             self:
@@ -272,12 +291,13 @@ sections:
       - type: FeaturedItem
         title: 'MockumentaryLab #1'
         tagline: ''
-        subtitle: Ancora da definire
-        text: |
-          Contattaci per organizzare insieme una nuova data di Mockumentary Lab!
+        subtitle: 'Torremozza (Li), 10-16 Giugno 2025'
+        text: >
+          Il nuovo progetto di Mockumentary Lab: stessa location, una nuova
+          storia!
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/villa-santa-giuliabb.jpg
           altText: Placeholder image
           styles:
             self:
@@ -296,7 +316,7 @@ sections:
       - type: FeaturedItem
         title: Cecinema Festival
         tagline: ''
-        subtitle: 'Cecina (Li), 20-22 Settembre 2024'
+        subtitle: 'Cecina (Li), 24-29 Settembre 2025'
         text: |
           Presentazione del progetto MockumentaryLab
         image:
