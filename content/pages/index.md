@@ -334,7 +334,7 @@ sections:
           collaborare alla realizzazione di un finto documentario in un'ambiente
           coinvolgente ed entusiasmante!
         image:
-          url: /images/Screenshot (905).png
+          url: /images/makers.png
           altText: Placeholder Image
           styles:
             self:
