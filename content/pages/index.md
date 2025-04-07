@@ -39,7 +39,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
-      url: /images/intro.png
+      url: /images/sfoho.JPG
     badge:
       label: ''
       color: text-primary
@@ -172,9 +172,7 @@ sections:
           avanzate e strategie di filmmaking, permettendoti di affinare le tue
           abilità e scoprire nuovi modi di esprimerti artisticamente.
         image:
-          url: >-
-            /images/Runway 2024-06-18T16_41_13.348Z Erase and Replace a
-            tambourine.png
+          url: /images/Screenshot (51).png
           altText: Maria Walters
           styles:
             self:
@@ -202,7 +200,7 @@ sections:
           sperimentare, creando personaggi e storie che rispecchiano la tua
           visione unica.
         image:
-          url: /images/DSC00030.JPG
+          url: /images/Screenshot (50).png
           altText: John Doe
           styles:
             self:
@@ -231,7 +229,7 @@ sections:
           in alcuni dei luoghi più belli della Toscana
 
         image:
-          url: /images/IMG_0006.JPG
+          url: /images/Screenshot (53).png
           altText: Maria Walters
           styles:
             self:
@@ -259,7 +257,7 @@ sections:
           su grande schermo, con una discussione finale che ti permetterà di
           riflettere sull'esperienza e imparare ancora di più.
         image:
-          url: /images/d19b8f58-8ee6-4fbb-9ac3-d21652d773f4.jpg
+          url: /images/Screenshot (54).png
           altText: Maria Walters
           styles:
             self:
@@ -289,7 +287,7 @@ sections:
           troverai in un ambiente molto più piacevole rispetto alla vita
           quotidiana!
         image:
-          url: /images/fc1ec178-8870-42d0-b388-283eb2999996.jpg
+          url: /images/Screenshot (52).png
           altText: Maria Walters
           styles:
             self:
@@ -336,7 +334,7 @@ sections:
           collaborare alla realizzazione di un finto documentario in un'ambiente
           coinvolgente ed entusiasmante!
         image:
-          url: /images/Screenshot (905).png
+          url: /images/makers.png
           altText: Placeholder Image
           styles:
             self:
@@ -363,7 +361,7 @@ sections:
           ed essere tra i personaggi del mockumentary creato durante il lab,
           oltre ad essere tra i protagonisti di una performance finale live.
         image:
-          url: /images/IMG_0049.JPG
+          url: /images/squared.JPG
           altText: Placeholder image
           styles:
             self:
@@ -397,7 +395,7 @@ sections:
           direttamente, c'è posto anche per te! Contattaci per saperne di più.
         image:
           type: ImageBlock
-          url: /images/d19b8f58-8ee6-4fbb-9ac3-d21652d773f4.jpg
+          url: /images/Screenshot (32).png
           altText: Placeholder text
           styles:
             self:
