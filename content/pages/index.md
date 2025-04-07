@@ -361,7 +361,7 @@ sections:
           ed essere tra i personaggi del mockumentary creato durante il lab,
           oltre ad essere tra i protagonisti di una performance finale live.
         image:
-          url: /images/IMG_0049.JPG
+          url: /images/squared.JPG
           altText: Placeholder image
           styles:
             self:
