@@ -200,7 +200,7 @@ sections:
           sperimentare, creando personaggi e storie che rispecchiano la tua
           visione unica.
         image:
-          url: /images/DSC00030.JPG
+          url: /images/Screenshot (50).png
           altText: John Doe
           styles:
             self:
