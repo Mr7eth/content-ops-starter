@@ -22,7 +22,7 @@ sections:
           - Supervisione di due insegnanti esperti
           - Restituzione live del lavoro svolto
         image:
-          url: /images/IMG_0224.JPG
+          url: /images/IMG_0224_NOVO.JPG
           altText: Pricing plan 1
           type: ImageBlock
         actions:
