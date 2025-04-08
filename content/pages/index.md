@@ -39,7 +39,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
-      url: /images/sfoho.JPG
+      url: /images/A funny raccoon lear.jpg
     badge:
       label: ''
       color: text-primary
@@ -358,8 +358,7 @@ sections:
           Diventa parte del team di attori del Laboratorio! In questo ruolo
           avrai modo di conoscere alcune tecniche di
           immedesimazione/improvvisazione attoriale, di costruire un personaggio
-          ed essere tra i personaggi del mockumentary creato durante il lab,
-          oltre ad essere tra i protagonisti di una performance finale live.
+          ed essere tra i personaggi del mockumentary creato durante il lab.
         image:
           url: /images/squared.JPG
           altText: Placeholder image
