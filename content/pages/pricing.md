@@ -88,7 +88,7 @@ sections:
           Mockumentary Lab!
         features: []
         image:
-          url: /images/quadro_lumino.JPG
+          url: /images/quadro_luminoso.JPG
           altText: Pricing plan 3
           type: ImageBlock
         actions:
