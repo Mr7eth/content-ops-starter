@@ -39,7 +39,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: contatti2
       type: ImageBlock
-      url: /images/sfoho.JPG
+      url: /images/A funny raccoon lear.jpg
     badge:
       label: ''
       color: text-primary
