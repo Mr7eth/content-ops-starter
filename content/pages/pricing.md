@@ -58,7 +58,7 @@ sections:
           - Restituzione live del lavoro svolto
           - Accesso ad un antica Villa toscana con giardino
         image:
-          url: /images/ospit.JPG
+          url: /images/IMG_20211026_125729-scaled.jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
