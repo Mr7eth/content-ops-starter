@@ -173,7 +173,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/ospit.JPG
+          url: /images/ospit2.JPG
           altText: Placeholder image
           styles:
             self:
